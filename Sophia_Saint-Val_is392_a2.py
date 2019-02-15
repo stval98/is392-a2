@@ -16,14 +16,6 @@ pageContent = ""
 seedUrls = ["https://en.wikipedia.org/wiki/Climate_change","https://en.wikipedia.org/wiki/Global_warming"] # populate list with URLs
 relatedTerms = ["climate change", "climate", "global warming", "pollution", "ozone layer", "greenhouse gases", "climatology", "meteorology", "atmosphere", "weather"] # populate list with related terms
 
-# set up SSL Environment
-try:
-	_create_unverified_https_context = ssl._create_unverified_context
-except AttributeError:
-	pass
-else:
-	ssl._create_default_https_context = _create_unverified_https_context
-
 # get page content
 def get_page_content(url):
 	try:
@@ -76,8 +68,16 @@ def save(text, path):
 
 # focused crawler function	
 def crawler(seedUrls, relatedTerms):
+    # set up SSL Environment
+    try:
+            _create_unverified_https_contect = ssl.create_unverified_context
+    except AttributeError:
+            pass
+    else:
+            ssl._create_default_https:_context = _create_unverified_https_context
     for url in seedUrls:
-        is_url_valid(url)
+        if is_url_valid(url) == False:
+                reformat_url(url)
         queue.append(url)
         visitedUrlList.append(url)
     while len(queue) > 0:
@@ -107,11 +107,11 @@ def crawler(seedUrls, relatedTerms):
                 queue.append(outGoingUrl)
                 visitedUrlList.append(outGoingUrl)
     # save crawled URLs
-    #crawled_urls = open('crawled_urls.txt', 'w')
-    #i = 1
-    #for url in crawled_urls:
-            #crawled_urls.write(str(i) + ': ' + url + '\n')
-            #i += 1
-    #crawled_urls.close()
+    f = open('crawled_urls.txt', 'w')
+    i = 1
+    for url in crawled_urls:
+            f.write(str(i) + ': ' + url + '\n')
+            i += 1
+    f.close()
             
 crawler(seedUrls, relatedTerms)
