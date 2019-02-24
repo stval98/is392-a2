@@ -1,0 +1,303 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<html>
+<!--RAW FILE-->
+<head>
+<base href="http://adsabs.harvard.edu/abs/2009GeoRL..3617401Z"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="http://adsabs.harvard.edu/abs/2009GeoRL..3617401Z" rel="canonical"/>
+<meta content="noarchive" name="robots">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Expansion of the world's deserts due to vegetation-albedo feedback under global </title>
+<meta content="en" name="citation_language"/>
+<meta content="10.1029/2009GL039699" name="citation_doi"/>
+<meta content="http://adsabs.harvard.edu/abs/2009GeoRL..3617401Z" name="citation_abstract_html_url"/>
+<meta content="Expansion of the world's deserts due to vegetation-albedo feedback under global warming" name="citation_title"/>
+<meta content="Zeng, Ning; Yoon, Jinho" name="citation_authors"/>
+<meta content="Atmospheric Composition and Structure: Biosphere/atmosphere interactions (0426, 1610), Global Change: Earth system modeling (1225), Global Change: Impacts of global change (1225), Global Change: Climate dynamics (0429, 3309), Global Change: Global climate models (3337, 4928)" name="citation_keywords"/>
+<meta content="0094-8276" name="citation_issn"/>
+<meta content="09/2009" name="citation_date"/>
+<meta content="Geophysical Research Letters" name="citation_journal_title"/>
+<meta content="36" name="citation_volume"/>
+<link href="http://prismstandard.org/namespaces/1.2/basic/" rel="schema.prism" title="schema(PRISM)"/>
+<meta content="Geophysical Research Letters" name="prism.publicationName"/>
+<meta content="0094-8276" name="prism.issn"/>
+<meta content="36" name="prism.volume"/>
+<meta content="" name="prism.startingPage"/>
+<meta content="" name="prism.endingPage"/>
+<link href="http://purl.org/dc/elements/1.1/" rel="schema.dc" title="schema(DC)"/>
+<meta content="en" name="dc.language"/>
+<meta content="doi:10.1029/2009GL039699" name="dc.identifier"/>
+<meta content="2009-09" name="dc.date"/>
+<meta content="Geophysical Research Letters, Volume 36, Issue 17, CiteID L17401" name="dc.source"/>
+<meta content="Expansion of the world's deserts due to vegetation-albedo feedback under global warming" name="dc.title"/>
+<meta content="Zeng, Ning" name="dc.creator"/>
+<meta content="Yoon, Jinho" name="dc.creator"/>
+<link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script language="JavaScript" type="text/javascript">
+<!-- Begin
+function mkemail(parts) {
+    var sep = ".";
+    var str = arguments[0];
+    for ( var i = 1 ; i < arguments.length ; i++ ) {
+        if ( arguments[i] == "" ) {
+            sep = String.fromCharCode(29+35) ;
+           continue ;
+        } else {
+            str = str.concat ( sep ) ;
+            str = str.concat ( arguments[i] ) ;
+            sep = ".";
+        }
+    }
+    return(str);
+}
+var toggle = 0 ;
+function t(){
+if ( toggle == 0 ) {
+setStyleByClass("span","a","backgroundColor","#ffffff");
+setStyleByClass("div","h","backgroundColor","#ffffff");
+setStyleByClass("div","h","opacity","0");
+setStyleByClass("div","h","filter","alpha(opacity=0)");
+setStyleByClass("span","b","backgroundColor","#ffffff");
+setStyleByClass("div","i","backgroundColor","#ffffff");
+setStyleByClass("div","i","opacity","0");
+setStyleByClass("div","i","filter","alpha(opacity=0)");
+setStyleByClass("span","c","backgroundColor","#ffffff");
+setStyleByClass("div","j","backgroundColor","#ffffff");
+setStyleByClass("div","j","opacity","0");
+setStyleByClass("div","j","filter","alpha(opacity=0)");
+setStyleByClass("span","d","backgroundColor","#ffffff");
+setStyleByClass("div","k","backgroundColor","#ffffff");
+setStyleByClass("div","k","opacity","0");
+setStyleByClass("div","k","filter","alpha(opacity=0)");
+setStyleByClass("span","e","backgroundColor","#ffffff");
+setStyleByClass("div","l","backgroundColor","#ffffff");
+setStyleByClass("div","l","opacity","0");
+setStyleByClass("div","l","filter","alpha(opacity=0)");
+setStyleByClass("span","f","backgroundColor","#ffffff");
+setStyleByClass("div","m","backgroundColor","#ffffff");
+setStyleByClass("div","m","opacity","0");
+setStyleByClass("div","m","filter","alpha(opacity=0)");
+setStyleByClass("span","g","backgroundColor","#ffffff");
+setStyleByClass("div","n","backgroundColor","#ffffff");
+setStyleByClass("div","n","opacity","0");
+setStyleByClass("div","n","filter","alpha(opacity=0)");
+toggle = 1 ;
+} else {
+setStyleByClass("span","a","backgroundColor","#ffff88");
+setStyleByClass("div","h","backgroundColor","#ffff00");
+setStyleByClass("div","h","opacity","0.3");
+setStyleByClass("div","h","filter","alpha(opacity=30)");
+setStyleByClass("span","b","backgroundColor","#ccccff");
+setStyleByClass("div","i","backgroundColor","#3333ff");
+setStyleByClass("div","i","opacity","0.3");
+setStyleByClass("div","i","filter","alpha(opacity=30)");
+setStyleByClass("span","c","backgroundColor","#ffcccc");
+setStyleByClass("div","j","backgroundColor","#ff3333");
+setStyleByClass("div","j","opacity","0.3");
+setStyleByClass("div","j","filter","alpha(opacity=30)");
+setStyleByClass("span","d","backgroundColor","#bbffff");
+setStyleByClass("div","k","backgroundColor","#00ffff");
+setStyleByClass("div","k","opacity","0.3");
+setStyleByClass("div","k","filter","alpha(opacity=30)");
+setStyleByClass("span","e","backgroundColor","#ffdd77");
+setStyleByClass("div","l","backgroundColor","#ff6600");
+setStyleByClass("div","l","opacity","0.3");
+setStyleByClass("div","l","filter","alpha(opacity=30)");
+setStyleByClass("span","f","backgroundColor","#ccffaa");
+setStyleByClass("div","m","backgroundColor","#33ff00");
+setStyleByClass("div","m","opacity","0.3");
+setStyleByClass("div","m","filter","alpha(opacity=30)");
+setStyleByClass("span","g","backgroundColor","#ffccff");
+setStyleByClass("div","n","backgroundColor","#ff00ff");
+setStyleByClass("div","n","opacity","0.3");
+setStyleByClass("div","n","filter","alpha(opacity=30)");
+toggle = 0 ;
+}
+}
+var ie = (document.all) ? true : false;
+
+function setStyleByClass(t,c,p,v){
+	var elements;
+	if(t == '*') {
+		elements = (ie) ? document.all : document.getElementsByTagName('*');
+	} else {
+		elements = document.getElementsByTagName(t);
+	}
+	for (var i = 0; i < elements.length; i++)
+    {
+		var node = elements.item(i);
+		for(var j = 0; j < node.attributes.length; j++)
+		{
+			if(node.attributes.item(j).nodeName == 'class')
+			{
+				if(node.attributes.item(j).nodeValue == c)
+				{
+				eval('node.style.' + p + " = '" +v + "'");
+				}
+			}
+		}
+	}
+}
+//  End -->
+</script>
+<style>.a{background-color: #ffff88}</style>
+<style>.h{background-color: #ffff00}</style>
+<style>.b{background-color: #ccccff}</style>
+<style>.i{background-color: #3333ff}</style>
+<style>.c{background-color: #ffcccc}</style>
+<style>.j{background-color: #ff3333}</style>
+<style>.d{background-color: #bbffff}</style>
+<style>.k{background-color: #00ffff}</style>
+<style>.e{background-color: #ffdd77}</style>
+<style>.l{background-color: #ff6600}</style>
+<style>.f{background-color: #ccffaa}</style>
+<style>.m{background-color: #33ff00}</style>
+<style>.g{background-color: #ffccff}</style>
+<style>.n{background-color: #ff00ff}</style>
+<style type="text/css">
+@media (max-width : 980px) {
+* {
+  font-size: 18px !important;
+}
+a {
+  margin: 8px !important;
+  display:inline-block;
+}
+td:first-of-type {
+   white-space: normal !important;
+}
+td:first-of-type {
+   white-space: nowrap;
+}
+}
+</style>
+<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style>
+<style type="text/css">
+a:link {color: #0000ff}
+a.oa:link {color: #00a000}
+a:visited {color: #4000a0}
+a.oa:visited {color: #006666}
+a:hover {color: #ff0000}
+a.oa:hover {color: #cc33cc}
+</style>
+</meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#4000a0">
+<div align="right" style="font-size:84%;padding-bottom:4px"><a href="http://adsabs.harvard.edu/cgi-bin/nph-manage_account?man_cmd=login&amp;man_url=http://adsabs.harvard.edu/abs/2009GeoRL..3617401Z">Sign on</a></div>
+<p><h3><a href="http://adsabs.harvard.edu/">SAO/NASA ADS</a> <a href="http://adsabs.harvard.edu/abstract_service.html">Astronomy Abstract Service</a></h3>
+<hr/>
+<p>
+<dl>
+<dt><table width="100%"><tbody><tr><td align="left"><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&amp;arxiv_sel=ALL&amp;db_key=AST&amp;text=Many%20subtropical%20regions%20are%20expected%20to%20become%20drier%20due%20to%20climate%0achange.%20This%20will%20lead%20to%20reduced%20vegetation%20which%20may%20in%20turn%20amplify%0athe%20initial%20drying.%20Using%20a%20coupled%20atmosphere-ocean-land%20model%20with%20a%0adynamic%20vegetation%20component%20that%20predicts%20surface%20albedo%20change,%20here%0awe%20simulate%20the%20climate%20change%20from%201901%20to%202099%20with%20CO%3cSUB%3e2%3c/SUB%3e%20and%0aother%20forcings.%20In%20a%20standard%20IPCC-style%20simulation,%20the%20model%20simulated%0aan%20increase%20in%20the%20world%27s%20%26lsquo%3bwarm%20desert%26rsquo%3b%20area%20of%202.5%20million%0akm%3cSUP%3e2%3c/SUP%3e%20or%2010%25%20at%20the%20end%20of%20the%2021st%20century.%20In%20a%20more%0arealistic%20simulation%20where%20the%20vegetation-albedo%20feedback%20was%20allowed%20to%0ainteract,%20the%20%26lsquo%3bwarm%20desert%26rsquo%3b%20area%20expands%20by%208.5%20million%0akm%3cSUP%3e2%3c/SUP%3e%20or%2034%25.%20This%20occurs%20mostly%20as%20an%20expansion%20of%20the%20world%27s%0amajor%20subtropical%20deserts%20such%20as%20the%20Sahara,%20the%20Kalahari,%20the%20Gobi,%0aand%20the%20Great%20Sandy%20Desert.%20It%20is%20suggested%20that%20vegetation-albedo%0afeedback%20should%20be%20fully%20included%20in%20IPCC%20future%20climate%20projections.%0a+Atmospheric%20Composition%20and%20Structure%3a%20Biosphere/atmosphere%20interactions%20%280426,%201610%29,%20Global%20Change%3a%20Earth%20system%20modeling%20%281225%29,%20Global%20Change%3a%20Impacts%20of%20global%20change%20%281225%29,%20Global%20Change%3a%20Climate%20dynamics%20%280429,%203309%29,%20Global%20Change%3a%20Global%20climate%20models%20%283337,%204928%29+&amp;title=Expansion%20of%20the%20world%27s%20deserts%20due%20to%20vegetation-albedo%20feedback%20under%20global%20warming">Find Similar Abstracts</a> (with <a href="#feedback">default settings below</a>)</strong></td>
+</tr></tbody></table>
+<dt><strong>· <a class="oa" href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009GeoRL..3617401Z&amp;link_type=EJOURNAL&amp;db_key=AST&amp;high=">Electronic Refereed Journal Article (HTML)</a></strong>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009GeoRL..3617401Z&amp;link_type=REFERENCES&amp;db_key=AST&amp;high=">References in the article</a></strong>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009GeoRL..3617401Z&amp;link_type=CITATIONS&amp;db_key=AST">Citations to the Article (22)</a></strong></dt></dt></dt></dt></dl></p></p></body></html> (<a href="http://adsabs.harvard.edu/cgi-bin/nph-ref_history?refs=CITATIONS&amp;bibcode=2009GeoRL..3617401Z">Citation History</a>)
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009GeoRL..3617401Z&amp;link_type=REFCIT&amp;db_key=AST&amp;high=">Refereed Citations to the Article</a></strong>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009GeoRL..3617401Z&amp;link_type=AR&amp;db_key=AST">Also-Read Articles</a></strong> (<a href="http://adsabs.harvard.edu/cgi-bin/nph-ref_history?refs=AR&amp;bibcode=2009GeoRL..3617401Z">Reads History</a>)
+<dt>·
+<dt><strong>· <a href="http://www.microsofttranslator.com/BV.aspx?from=en&amp;a=http://adsabs.harvard.edu/abs/2009GeoRL..3617401Z">Translate This Page</a></strong>
+</dt></dt></dt></dt>
+<table><tbody>
+<tr><td align="left" valign="top"><b>Title:</b></td><td><br/></td><td align="left" valign="top">Expansion of the world's deserts due to vegetation-albedo feedback under global warming</td></tr>
+<tr><td align="left" valign="top"><b>Authors:</b></td><td><br/></td><td align="left" valign="top"><a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Zeng,+N&amp;fullauthor=Zeng,%20Ning&amp;charset=ISO-8859-1&amp;db_key=AST">Zeng, Ning</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Yoon,+J&amp;fullauthor=Yoon,%20Jinho&amp;charset=ISO-8859-1&amp;db_key=AST">Yoon, Jinho</a></td></tr>
+<tr><td align="left" valign="top"><b>Affiliation:</b></td><td><br/></td><td align="left" valign="top">AA(Earth System Science Interdisciplinary Center and Geology, University of Maryland, College Park, Maryland, USA), AB(Department of Atmospheric and Oceanic Science, University of Maryland, College Park, Maryland, USA)</td></tr>
+<tr><td align="left" valign="top"><b>Publication:</b></td><td><br/></td><td align="left" valign="top">Geophysical Research Letters, Volume 36, Issue 17, CiteID L17401 (<a href="http://www.agu.org/journals/gl">GeoRL Homepage</a>)</td></tr>
+<tr><td align="left" valign="top"><b>Publication Date:</b></td><td><br/></td><td align="left" valign="top">09/2009</td></tr>
+<tr><td align="left" valign="top"><b>Origin:</b></td><td><br/></td><td align="left" valign="top"><a href="http://www.agu.org">AGU</a></td></tr>
+<tr><td align="left" valign="top"><b>Keywords:</b></td><td><br/></td><td align="left" valign="top">Atmospheric Composition and Structure: Biosphere/atmosphere interactions (0426, 1610), Global Change: Earth system modeling (1225), Global Change: Impacts of global change (1225), Global Change: Climate dynamics (0429, 3309), Global Change: Global climate models (3337, 4928)</td></tr>
+<tr><td align="left" valign="top"><b>DOI:</b></td><td><br/></td><td align="left" valign="top"><a href="https://doi.org/10.1029/2009GL039699">10.1029/2009GL039699</a></td></tr>
+<tr><td align="left" valign="top"><b>Bibliographic Code:</b></td><td><br/></td><td align="left" valign="top"><a href="http://adsabs.harvard.edu/abs/2009GeoRL..3617401Z">2009GeoRL..3617401Z</a></td></tr>
+</tbody></table>
+<h3 align="center">                               Abstract</h3>
+Many subtropical regions are expected to become drier due to climate
+change. This will lead to reduced vegetation which may in turn amplify
+the initial drying. Using a coupled atmosphere-ocean-land model with a
+dynamic vegetation component that predicts surface albedo change, here
+we simulate the climate change from 1901 to 2099 with CO<sub>2</sub> and
+other forcings. In a standard IPCC-style simulation, the model simulated
+an increase in the world's `warm desert' area of 2.5 million
+km<sup>2</sup> or 10% at the end of the 21st century. In a more
+realistic simulation where the vegetation-albedo feedback was allowed to
+interact, the `warm desert' area expands by 8.5 million
+km<sup>2</sup> or 34%. This occurs mostly as an expansion of the world's
+major subtropical deserts such as the Sahara, the Kalahari, the Gobi,
+and the Great Sandy Desert. It is suggested that vegetation-albedo
+feedback should be fully included in IPCC future climate projections.
+<hr/>
+<table width="100%"><tbody><tr><td align="left"><b><a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2009GeoRL..3617401Z&amp;data_type=BIBTEX&amp;db_key=AST&amp;nocookieset=1">Bibtex entry for this abstract</a></b>   <b><a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?bibcode=2009GeoRL..3617401Z&amp;data_type=Custom&amp;format=%25z0%5c%5cbibitem%5b%25%5c2m%25%28y%29%5d%25%7bR%7d%20%25%5c5.3l%20%25%5cY,%25%5cj,%25%5cV,%25%5cp%5cn&amp;return_fmt=LONG&amp;db_key=AST&amp;nocookieset=1">Preferred format for this abstract</a></b> (see <a href="http://adsabs.harvard.edu/cgi-bin/pref_set">Preferences</a>)</td>
+</tr></tbody></table>
+<hr/>
+<div style="display: table">
+<div style="display: table-row; float: left;">
+<div style="display: table-cell; float: left; padding: 5px">
+<form action="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect" method="POST"><a name="private"></a>
+<input name="bibcode" type="hidden" value="2009GeoRL..3617401Z"/>
+<input name="library" type="submit" value=" Add this article to private library "/>
+</form>
+</div>
+<div style="display: table-cell; float: left; padding: 5px">
+<form action="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect" method="POST"><a name="private"></a>
+<input name="bibcode" type="hidden" value="2009GeoRL..3617401Z"/>
+<input name="library" type="submit" value=" Remove from private library "/>
+</form>
+</div>
+</div>
+<div style="display: table-row; clear: left;">
+<div style="display: table-cell; float: left; padding: 5px;">
+<form action="http://adsabs.harvard.edu/adsfeedback/submit_abstract.php" method="GET"><input name="submit" type="submit" value=" Submit corrections to this record "/><input name="bibcode" type="hidden" value="2009GeoRL..3617401Z"/><input name="db_key" type="hidden" value="AST"/></form>
+</div>
+<div style="display: table-cell; float: left; padding: 5px;">
+<form action="https://ui.adsabs.harvard.edu/#abs/2009GeoRL..3617401Z" method="GET"><input style="background-color: #6084D9; color: #ffffff; border: 2px solid #ff9900" type="submit" value=" View record in the new ADS "/></form>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<hr/>
+<form action="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect" method="POST"><a name="feedback"></a>
+<h3>Find Similar Abstracts:</h3>
+<input name="return_req" type="hidden" value="no_params"/>
+<table>
+<tr><td>Use:</td><td> <input name="use_auth" type="checkbox" value="YES"/></td><td>  Authors</td></tr>
+<tr><td></td><td> <input checked="" name="use_title" type="checkbox" value="YES"/></td><td>  Title</td></tr>
+<tr><td></td><td> <input checked="" name="use_kwds" type="checkbox" value="YES"/></td><td>  Keywords (in text query field)</td></tr>
+<tr><td></td><td> <input checked="" name="use_text" type="checkbox" value="YES"/></td><td>  Abstract Text</td></tr>
+<tr><td>Return:</td><td> <input checked="" name="return_req" type="radio" value="feedback"/></td><td>  Query Results</td><td>   Return <input name="nr_to_return" size="5" value="100"/>   items starting with number <input name="start_nr" size="5" value="1"/></td></tr>
+<tr><td></td><td> <input name="return_req" type="radio" value="form"/></td><td>  Query Form</td></tr>
+<tr><td>Database:</td><td> <input checked="" name="db_key" type="checkbox" value="AST"/></td><td>  Astronomy</td></tr>
+<tr><td></td><td> <input name="db_key" type="checkbox" value="PHY"/></td><td>  Physics</td></tr>
+<tr><td></td><td> <input name="db_key" type="checkbox" value="PRE"/></td><td>  arXiv e-prints</td></tr>
+</table>
+<input name="arxiv_sel" type="hidden" value="ALL"/>
+<input name="bib_dbkey" type="hidden" value="AST"/>
+<input name="selfeedback" type="submit" value="      Send Query     "/>    <input type="reset" value="      Reset      "/>
+<input name="bibcode" type="hidden" value="2009GeoRL..3617401Z"/>
+</form>
+<br/><hr/><br/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37369750-3', 'harvard.edu');
+  ga('send', 'pageview');
+
+</script>
+<!-- ADS_MIRROR: CFA -->
+
+

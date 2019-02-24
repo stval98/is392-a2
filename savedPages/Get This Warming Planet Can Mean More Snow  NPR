@@ -1,0 +1,630 @@
+<!DOCTYPE doctype html>
+<html class="no-js" lang="en"><head><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemref="speakable" itemscope="" itemtype="https://schema.org/SpeakableSpecification"/><title>Get This: Warming Planet Can Mean More Snow : NPR</title><meta content="[data-is-speakable]" id="speakable" itemprop="cssSelector"/><meta content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" id="google-site-verification" name="google-site-verification"/><meta charset="utf-8"/><meta content="noarchive,index,follow" name="robots"/><meta content="General" name="Rating"/><meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/><meta name="npr-pjax"/><meta content="2010-02-15" name="date"/><link href="https://www.npr.org/templates/story/story.php?storyId=123671588" rel="canonical"/><meta content="With snow blanketing much of the country, the topic of global warming has become the butt of jokes. But most scientists who study the climate don't see a contradiction between a warming world and lots of snow." name="description"/><link href="/rss/rss.php?id=1025" rel="alternate" title="Environment" type="application/rss+xml"/><link href="https://www.npr.org/feeds/1025/feed.json" rel="alternate" title="Environment" type="application/json"/><link href="https://media.npr.org/templates/favicon/favicon-180x180.png" rel="apple-touch-icon" sizes="180x180"/><link href="https://media.npr.org/templates/favicon/favicon-96x96.png" rel="icon" sizes="96x96"/><link href="https://media.npr.org/templates/favicon/favicon-32x32.png" rel="icon" sizes="32x32"/><link href="https://media.npr.org/templates/favicon/favicon-16x16.png" rel="icon" sizes="16x16"/><meta content="Get This: Warming Planet Can Mean More Snow" property="og:title"/><meta content="https://www.npr.org/templates/story/story.php?storyId=123671588" property="og:url"/><meta content="article" property="og:type"/><meta content="With snow blanketing much of the country, the topic of global warming has become the butt of jokes. But most scientists who study the climate don't see a contradiction between a warming world and lots of snow." property="og:description"/><meta content="https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400" property="og:image"/><meta content="NPR.org" property="og:site_name"/><meta content="138837436154588" property="fb:app_id"/><meta content="10643211755" property="fb:pages"/><meta content="summary" name="twitter:card"/><meta content="@NPR" name="twitter:site"/><meta content="npr.org" name="twitter:domain"/><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","staticAssetHost":"https:\/\/s.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":false};
+NPR.serverVars = {"storyId":"123671588","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"118ccc72b1a4ca2688b2a9282313f25d","isBuildOut":true,"topicIds":["P1025","1001","1002","1003","1007"],"primaryTopic":"Environment","topics":["Environment","News","Home Page Top Stories","National","Science"],"theme":"1025","programId":"Morning Edition","program":"3","aggIds":["3","1001","1002","1003","1007","1025","123652881"],"byline":["Christopher Joyce"],"pubDate":"2010021500","pageTypeId":"1","title":"Get This: Warming Planet Can Mean More Snow","publisherOrgId":"1","rocketfuelCode":20501671};
+</script>
+<script src="https://cdn.optimizely.com/js/11107397707.js" type="text/javascript">
+</script>
+<script src="https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js" type="text/javascript">
+</script>
+<script>
+   !function(e){function a(c){if(f[c])return f[c].exports;var d=f[c]={exports:{},id:c,loaded:!1};return e[c].call(d.exports,d,d.exports,a),d.loaded=!0,d.exports}var c=window.webpackJsonp;window.webpackJsonp=function(b,t){for(var n,r,o=0,i=[];o<b.length;o++)r=b[o],d[r]&&i.push.apply(i,d[r]),d[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":e[n]=function(a){var c=a.slice(1),f=a[0];return function(a,d,b){e[f].apply(this,[a,d,b].concat(c))}}(s);break;case"function":e[n]=s;break;default:e[n]=e[s]}}for(c&&c(b,t);i.length;)i.shift().call(null,a);if(t[0])return f[0]=0,a(0)};var f={},d={27:0};a.e=function(e,c){if(0===d[e])return c.call(null,a);if(void 0!==d[e])d[e].push(c);else{d[e]=[c];var f=document.getElementsByTagName("head")[0],b=document.createElement("script");b.type="text/javascript",b.charset="utf-8",b.async=!0,b.src=a.p+""+e+"."+{0:"1c093b305baf3a53f0d6",1:"2904f9571ee90d927a63",2:"ba330e4de360db245367",3:"2cfc5016c1031fd47380",4:"6a50c96629bab155b212",5:"4825304f288dbe206322",6:"4e1dd0943d6e36e2ec61",7:"9a607af4096934771c6f",8:"690f4f79a81aee17dd16",9:"39d16da75985f62a28b3",10:"551b51be47ecee204955",11:"cdaa073aee99968c886f",12:"af2177a1269a75a9d1cf",13:"44501acbecc7077b0aa0",14:"bd23023217642578460d",15:"c0cdb6583d7c739d7770",16:"0ef271e48b9c4ba9312e",17:"a99ae0d405a0617f05e8",18:"09d1f525a935ee450bf5",19:"adcd0d658b70bcefcb9f",20:"bda033837f811a401d8a",21:"86cda9ca79f1f0247627",22:"afa421080796ca91196d",23:"2a5d83e7be98d9734405",24:"e2a6462255d395b9bbe8",25:"b3ec395603f3bdaf847f",26:"bfaad678d3c1e547bd87",28:"f1f540714ed6ea6dea11",29:"ca3f1c0a7df21b9f7c9f",30:"59d898bd7e1189fb1814",31:"9ccbcb6c2de46dfb775b",32:"8c8896d9f251094804b0",33:"5331ceab41f84e20d9ce",34:"5cc9fb3328e01bdffccb",35:"caa7563617ef9430d341",36:"803b5fb7ff9fdc59cf39",37:"cd49019baecae89e016f",38:"474238410293247845e4",39:"48d3feccb9ab4f363ba9",40:"4ddad816aa46ee1a11e1",41:"a591420fd84151c98c25",42:"fcb4dae6c7f06d543834",43:"754f37e16a4b04ffae57",44:"193d5089de8a226d9c8d",45:"c96d0d4d3c834473d1c6",46:"6c7c4a5fd60cfe52e6b5",47:"d11a734f0d6173317f9a",48:"f493d48eb2499e74b1fb",49:"8f1b5ffcb0b545e7a49c",50:"927e1dd6042c31afa116",51:"e5c4816c59ce99e5dc4f",52:"15d4598507a928d9a0cc",53:"2e364c884bf120322c24",54:"f1ba02fbbba662b667a3",55:"829dcd628638aad45219",56:"7735d7ccd36c15fee5e7",57:"c004f1cf4a828533eb72",58:"45827ee72eb1e26fea69",59:"55ab58a927a16276650b",60:"f8b84ce2750625ea6def",61:"b860585b84bfdade5f65",62:"cf02cff5114ad280fe6a",63:"5808d02909595184f87d",64:"bc3f3afe22b3d426f007",65:"2179b091de5efeb80b0d",66:"f7295dbea6517477f1f2",67:"38779e75b7d6383111bf",68:"88805c016a929c50230a",69:"3e6a21eb396ae3a50d4e",70:"80598f7882434fb17492",71:"5368efdac7c4932f36d4",72:"ea8b0c07f344e12b8f59",73:"d94b0233fa91cb0c7465",74:"5661d991adca862ec347",75:"fb4f7b35824cb4ecf78f",76:"78b9ce93f8da8f68c839",77:"6de65b2387c5c1a79622",78:"bef679ec244eb244d926",79:"dda040e447804bad75fb",80:"8e9f101e8a113eae242b",81:"0549cc477c19748d3d9e",82:"668256051940b52d473f",83:"d325b95c76c8b6d31998",84:"4282b9265512a1c31f1b",85:"d557ef18dadabcb26763",86:"11751f3ed359b71e3386",87:"ad98bae9f684a95fa2ec",88:"2d3b596f540807eced8f",89:"47b50b0e13aae33f834b"}[e]+".chunk.js",f.appendChild(b)}},a.m=e,a.c=f,a.p="/templates/javascript/dist/bundles/"}(function(e){for(var a in e)if(Object.prototype.hasOwnProperty.call(e,a))switch(typeof e[a]){case"function":break;case"object":e[a]=function(a){var c=a.slice(1),f=e[a[0]];return function(e,a,d){f.apply(this,[e,a,d].concat(c))}}(e[a]);break;default:e[a]=e[e[a]]}return e}([]));
+</script>
+<script src="https://s.npr.org/templates/javascript/dist/bundles/globalNavigationDropdowns-ca3f1c0a7df21b9f7c9f.js" type="text/javascript">
+</script>
+<link data-persist="true" href="https://s.npr.org/templates/javascript/dist/bundles/persistent-css-d5e300b3bf2a37c44f4a.css" media="screen, print" rel="stylesheet"/><link href="https://s.npr.org/templates/javascript/dist/bundles/newsStory-css-d5e300b3bf2a37c44f4a.css" media="screen, print" rel="stylesheet"/><script type="text/javascript">
+   document.domain="npr.org";
+</script>
+</head><body class="news tmplNewsStory story-layout is-buildout no-transcript has-no-branding id123671588" data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR rocketfuel copyright auto-refresh navigation/global-navigation fitvids dfp globalfooter persistent-audio player/more-options what-input metrics/doubleclickFloodlight metrics/facebookTracking story/replace-centerstage ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement swfbuilder contentfooter story/sticky-header story/date-tooltip callout/end-of-story-callout social/sharepop podcast-cards" id="news"><div class="skip-links">
+<span>Accessibility links</span> <ul>
+<li><a class="skiplink" href="#mainContent">Skip to main content</a></li>
+<li><a class="skiplink" href="https://help.npr.org/customer/en/portal/articles/2535181-what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player-">Keyboard shortcuts for audio player</a></li>
+</ul>
+</div>
+<header aria-label="NPR header" class="npr-header" id="globalheader"><nav aria-label="main navigation" class="navigation">
+<div class="navigation__top-level-wrap" data-metrics-all="" data-metrics-category="global navigation">
+<ul class="navigation__top-level">
+<li class="navigation__home">
+<a data-metrics-action="click npr logo" href="/">
+<img alt="NPR logo" src="https://media.npr.org/chrome_svg/npr-logo.svg"/>
+</a>
+</li>
+<li id="navigation__station-mount"></li>
+<li class="navigation__account" id="user-account-dropdown-mount"></li>
+<li class="navigation__shop">
+<a data-metrics-action="click npr shop" href="https://shop.npr.org">Shop</a>
+</li>
+<li id="navigation__station-donate-mount"></li>
+<li class="navigation__toggle-wrap">
+<button aria-expanded="false" aria-haspopup="true" class="navigation__toggle navigation__toggle--open" data-metrics-action="open navigation menu" id="navigation__toggle--open">
+                    Open Navigation Menu
+                </button>
+</li>
+</ul>
+</div>
+<section class="menu menu--main" data-metrics-all="" data-metrics-category="global navigation" id="main-menu">
+<div class="menu__inner">
+<header class="menu__header">
+<button aria-expanded="true" aria-haspopup="true" class="navigation__toggle navigation__toggle--close" data-metrics-action="close navigation menu" id="navigation__toggle--close">
+                    Close <span>Navigation Menu</span>
+</button>
+</header>
+<ul class="menu__list">
+<li class="menu__item menu__item--home">
+<div class="menu__item-inner"><a data-metrics-action="click npr logo" href="/">Home</a></div>
+</li>
+<li class="menu__item menu__item--news menu__item--has-submenu" data-metrics-hover="toggle news drawer">
+<div class="menu__item-inner">
+<a data-metrics-action="click news" href="/sections/news/">News</a>
+<button class="menu__toggle-submenu" data-metrics-action="toggle news drawer">Expand/collapse submenu for News</button>
+</div>
+<ul class="submenu submenu--news">
+<li class="submenu__item"><a data-metrics-action="click national" href="/sections/national/">National</a></li>
+<li class="submenu__item"><a data-metrics-action="click world" href="/sections/world/">World</a></li>
+<li class="submenu__item"><a data-metrics-action="click politics" href="/sections/politics/">Politics</a></li>
+<li class="submenu__item"><a data-metrics-action="click business" href="/sections/business/">Business</a></li>
+<li class="submenu__item"><a data-metrics-action="click health" href="/sections/health/">Health</a></li>
+<li class="submenu__item"><a data-metrics-action="click science" href="/sections/science/">Science</a></li>
+<li class="submenu__item"><a data-metrics-action="click technology" href="/sections/technology/">Technology</a></li>
+<li class="submenu__item"><a data-metrics-action="click race &amp; culture" href="/sections/codeswitch/">Race &amp; Culture</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--arts-life menu__item--has-submenu" data-metrics-hover="toggle arts drawer">
+<div class="menu__item-inner">
+<a data-metrics-action="click arts &amp; life" href="/sections/arts/">Arts &amp; Life</a>
+<button class="menu__toggle-submenu" data-metrics-action="toggle arts drawer">Expand/collapse submenu for Arts &amp; Life</button>
+</div>
+<ul class="submenu submenu--arts-life">
+<li class="submenu__item"><a data-metrics-action="click books" href="/books/">Books</a></li>
+<li class="submenu__item"><a data-metrics-action="click movies" href="/sections/movies/">Movies</a></li>
+<li class="submenu__item"><a data-metrics-action="click television" href="/sections/television/">Television</a></li>
+<li class="submenu__item"><a data-metrics-action="click pop culture" href="/sections/pop-culture/">Pop Culture</a></li>
+<li class="submenu__item"><a data-metrics-action="click food" href="/sections/food/">Food</a></li>
+<li class="submenu__item"><a data-metrics-action="click art &amp; design" href="/sections/art-design/">Art &amp; Design</a> </li>
+<li class="submenu__item"><a data-metrics-action="click performing arts" href="/sections/performing-arts/">Performing Arts</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--music menu__item--has-submenu" data-metrics-hover="toggle music drawer">
+<div class="menu__item-inner">
+<a data-metrics-action="click music" href="/music/">Music</a>
+<button class="menu__toggle-submenu" data-metrics-action="toggle music drawer">Expand/collapse submenu for Music</button>
+</div>
+<ul class="submenu submenu--music"><li class="submenu__item">
+<a data-metrics-action="click tiny desk" href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-action="click all songs considered" href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-action="click music news" href="https://www.npr.org/sections/music-news/">
+        Music News
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-action="click music features" href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-action="click new music" href="https://www.npr.org/sections/new-music/">
+        New Music
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-action="click best music of 2018" href="https://www.npr.org/series/534681404/best-music-of-2018">
+        Best Music Of 2018
+    </a>
+</li></ul>
+</li>
+<li class="menu__item menu__item--shows-podcasts menu__item--has-submenu" data-metrics-hover="toggle programs &amp; podcasts drawer">
+<div class="menu__item-inner">
+<a data-metrics-action="click shows &amp; podcasts" href="/programs/">Shows &amp; Podcasts</a>
+<button class="menu__toggle-submenu" data-metrics-action="toggle programs &amp; podcasts drawer">Expand/collapse submenu for Shows &amp; Podcasts</button>
+</div>
+<div class="submenu submenu--shows-podcasts">
+<span class="submenu__category submenu__category--daily">Daily</span>
+<ul class="submenu__list submenu__list--daily">
+<li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+<a data-metrics-action="click morning edition" href="/programs/morning-edition/">
+<img alt="" src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg"/>
+                                    Morning Edition
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--saturday hidden">
+<a data-metrics-action="click weekend edition saturday" href="/programs/weekend-edition-saturday/">
+<img alt="" src="https://media.npr.org/assets/img/2018/08/06/npr_we_podcasttile1_sq-cf32a980b540f1d1b2d51173ca3cfdd7ecc55058-s100-c85.jpg"/>
+                                    Weekend Edition Saturday
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+<a data-metrics-action="click weekend edition sunday" href="/programs/weekend-edition-sunday/">
+<img alt="" src="https://media.npr.org/assets/img/2018/08/06/npr_we_podcasttile1_sq-cf32a980b540f1d1b2d51173ca3cfdd7ecc55058-s100-c85.jpg"/>
+                                    Weekend Edition Sunday
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click all things considered" href="/programs/all-things-considered/">
+<img alt="" src="https://media.npr.org/chrome/programs/logos/all-things-considered.png"/>
+                                    All Things Considered
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click fresh air" href="/programs/fresh-air/">
+<img alt="" src="https://media.npr.org/chrome/programs/logos/fresh-air.png"/>
+                                    Fresh Air
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click up first" href="/podcasts/510318/up-first">
+<img alt="" src="https://media.npr.org/chrome/programs/logos/up-first.jpg"/>
+                                    Up First
+                                </a>
+</li>
+</ul>
+<span class="submenu__category submenu__category--featured">Featured</span>
+<ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+<a data-metrics-action="click how i built this with guy raz" href="https://www.npr.org/podcasts/510313/how-i-built-this">
+<img alt="" src="https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=100"/>
+        How I Built This with Guy Raz
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-action="click wait wait...don't tell me!" href="https://www.npr.org/podcasts/344098539/wait-wait-don-t-tell-me">
+<img alt="" src="https://media.npr.org/assets/img/2018/08/06/npr_wwdtm_podcasttile_sq-1e9edf5dfb49a3fff3703764e39442173ba8558a.jpg?s=100"/>
+        Wait Wait...Don't Tell Me!
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-action="click planet money" href="https://www.npr.org/podcasts/510289/planet-money">
+<img alt="" src="https://media.npr.org/assets/img/2018/08/02/npr_planetmoney_podcasttile_sq-7b7fab0b52fd72826936c3dbe51cff94889797a0.jpg?s=100"/>
+        Planet Money
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-action="click hidden brain" href="https://www.npr.org/podcasts/510308/hidden-brain">
+<img alt="" src="https://media.npr.org/assets/img/2018/08/03/npr_hiddenbrain_podcasttile_sq-270ab642de6948802f485c6ad1f087239ef6e324.jpg?s=100"/>
+        Hidden Brain
+    </a>
+</li></ul>
+<ul class="submenu__list submenu__list--directories">
+<li class="submenu__item"><a data-metrics-action="click all programs" href="/programs/">More Shows &amp; Podcasts</a></li>
+</ul>
+</div>
+</li>
+<li class="menu__item menu__item--search">
+<div class="menu__item-inner">
+<a data-metrics-action="click search" href="/search">Search</a>
+</div>
+</li>
+<li class="menu__item menu__item--account" id="user-account-dropdown-mount-two"></li>
+<li class="menu__item menu__item--shop">
+<div class="menu__item-inner">
+<a data-metrics-action="click npr shop" href="https://shop.npr.org">Shop</a>
+</div>
+</li>
+</ul>
+</div>
+</section>
+<section class="menu menu--music" data-metrics-all="" data-metrics-category="music ecosystem navigation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--music">
+<li class="menu__item menu__item--music-home">
+<a data-metrics-action="click npr music logo" href="/music/">
+<img alt="NPR Music" class="music-logo" src="https://media.npr.org/chrome_svg/music-logo-dark.svg"/>
+<img alt="NPR Music" class="music-logo-alt" src="https://media.npr.org/chrome_svg/music-logo-light.svg"/>
+</a>
+</li>
+<li class="menu__item"><a data-metrics-action="click tiny desk" href="/series/tiny-desk-concerts/">Tiny Desk</a></li>
+<li class="menu__item"><a data-metrics-action="click all songs" href="/sections/allsongs/">All Songs Considered</a></li>
+<li class="menu__item"><a data-metrics-action="click music news" href="/sections/music-news/">Music News</a></li>
+<li class="menu__item"><a data-metrics-action="click features" href="/sections/music-features/">Features</a></li>
+<li class="menu__item"><a data-metrics-action="click new music" href="/sections/new-music/">New Music</a></li>
+</ul>
+</div>
+</section>
+<section class="menu menu--about" data-metrics-all="" data-metrics-category="about ecosystem navigation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--about">
+<li class="menu__item menu__item--about-home"><a data-metrics-action="click about npr" href="/about/aboutnpr/">About NPR</a></li>
+<li class="menu__item menu__item--about-overview"><a data-metrics-action="click overview" href="/about-npr/689087449/this-is-npr">Overview</a></li>
+<li class="menu__item menu__item--about-support"><a data-metrics-action="click support" href="/about-npr/685114062/your-support-makes-a-difference">Support</a></li>
+<li class="menu__item menu__item--about-careers"><a data-metrics-action="click careers" href="/about-npr/179008081/careers">Careers</a></li>
+<li class="menu__item menu__item--about-connect"><a data-metrics-action="click connect" href="/about-npr/685180639/stay-connected">Connect</a></li>
+<li class="menu__item menu__item--about-press"><a data-metrics-action="click press" href="/about-npr/690265854/all-the-latest-news-about-npr">Press</a></li>
+<li class="menu__item menu__item--about-ethics"><a data-metrics-action="click ethics" href="/about-npr/688875732/these-are-the-standards-of-our-journalism">Ethics</a></li>
+</ul>
+</div>
+</section>
+</nav></header><main aria-label="main content"><div class="speakable">
+<b data-is-speakable="">Get This: Warming Planet Can Mean More Snow</b> <b data-is-speakable="">With snow blanketing much of the country, the topic of global warming has become the butt of jokes. But most scientists who study the climate don't see a contradiction between a warming world and lots of snow.</b>
+</div>
+<div id="wrapper">
+<header class="contentheader contentheader--one" data-metrics='{"category":"Environment"}'></header> <div class="story-sticky-header">
+<div class="story-sticky-header-inner">
+<a class="nprhome nprhome-news" data-metrics='{"category":"global navigation","action":"click npr logo","label":"\/"}' href="/">
+<img alt="NPR logo" src="https://media.npr.org/chrome_svg/npr-logo.svg"/>
+</a>
+<article aria-label="audio-module" class="bucketwrap resaudio" id="res123732972"><div class="audio-module">
+<h4 class="audio-module-title">Get This: Warming Planet Can Mean More Snow</h4>
+<div class="audio-module-controls-wrap" data-audio='{"uid":"123671588:123732972","available":true,"duration":237,"title":"Get This: Warming Planet Can Mean More Snow","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2010\/02\/20100215_me_05.mp3?orgId=1&amp;topicId=1025&amp;d=237&amp;p=3&amp;story=123671588&amp;siteplayer=true","storyUrl":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588","slug":"Environment","program":"morning edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics='{"playedFrom":"from sticky header"}'>
+<div class="audio-module-controls">
+<a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2010/02/20100215_me_05.mp3?orgId=1&amp;topicId=1025&amp;d=237&amp;p=3&amp;story=123671588&amp;siteplayer=true&amp;dl=1">
+<b class="audio-module-listen-inner">
+<b class="audio-module-listen-icon icn-play"></b>
+<b class="audio-module-listen-text">
+<b class="audio-module-cta">Listen</b>
+<b class="audio-module-listen-duration">
+<span>· </span>
+<span>3:57</span>
+</b>
+</b>
+</b>
+</a>
+<time class="audio-module-duration" datetime="P3M,57S">3:57</time>
+</div>
+</div>
+<div class="audio-module-tools">
+<button class="audio-module-tools-toggle" data-metrics='{"category":"audio actions","action":"open more options","label":null,"noninteraction":true}'>
+<b class="icn-toggle"></b>
+<b class="label">Toggle more options</b>
+</button>
+<ul class="audio-module-more-tools">
+<li class="audio-tool audio-tool-download"><a data-metrics='{"category":"audio actions","action":"download audio","label":"123671588","noninteraction":true}' href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2010/02/20100215_me_05.mp3?orgId=1&amp;topicId=1025&amp;d=237&amp;p=3&amp;story=123671588&amp;siteplayer=true&amp;dl=1"><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+</li>
+<li class="audio-tool audio-tool-embed">
+<button data-embed-url="https://www.npr.org/player/embed/123671588/123732972" data-metrics='{"category":"audio actions","action":"embed audio","label":"123671588","noninteraction":true}'><b class="button-inner"><b class="icn-embed"></b><b class="audio-tool-label">Embed</b></b></button>
+<div class="audio-embed-overlay">
+<button class="btn-close"></button>
+<label class="embed-label">
+<b class="audio-embed-overlay__icon"></b>
+<b class="label">Embed</b>
+<input class="embed-url embed-url-no-touch" readonly="" value='&lt;iframe src="https://www.npr.org/player/embed/123671588/123732972" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;&lt;/iframe&gt;'/>
+</label>
+<b class="embed-url embed-url-touch">
+<code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/123671588/123732972" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+</b>
+</div>
+</li>
+<li class="audio-tool audio-tool-transcript">
+<a data-metrics='{"category":"audio actions","action":"click transcript","label":"123671588","noninteraction":true}' href="https://www.npr.org/templates/transcript/transcript.php?storyId=123671588">
+<b class="icn-transcript"></b>
+<b class="audio-tool-label">Transcript</b>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</article>
+<a class="title" href="#">
+<b>Get This: Warming Planet Can Mean More Snow</b>
+<time datetime="P3M,57S">3:57</time>
+</a>
+</div>
+</div> <section id="main-section"><article class="story"><a id="mainContent"></a><div class="slug-wrap">
+<h3 class="slug">
+<a href="https://www.npr.org/sections/environment/">Environment</a>
+</h3>
+</div>
+<div class="storytitle">
+<h1>Get This: Warming Planet Can Mean More Snow</h1>
+<input id="title123671588" type="hidden" value="Get This: Warming Planet Can Mean More Snow">
+<input id="shortTitle123671588" type="hidden" value="Get This: Warming Planet Can Mean More Snow"/>
+<input id="modelShortUrl123671588" type="hidden" value="https://www.npr.org/templates/story/story.php?storyId=123671588"/>
+<input id="modelFullUrl123671588" type="hidden" value="https://www.npr.org/templates/story/story.php?storyId=123671588"/>
+</input></div>
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-tools">
+<div class="storylocation linkLocation" id="primaryaudio">
+<article aria-label="audio-module" class="bucketwrap resaudio primaryaudio" id="res123732972"><div class="audio-module">
+<h4 class="audio-module-title">Get This: Warming Planet Can Mean More Snow</h4>
+<div class="audio-module-controls-wrap" data-audio='{"uid":"123671588:123732972","available":true,"duration":237,"title":"Get This: Warming Planet Can Mean More Snow","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/me\/2010\/02\/20100215_me_05.mp3?orgId=1&amp;topicId=1025&amp;d=237&amp;p=3&amp;story=123671588&amp;siteplayer=true","storyUrl":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588","slug":"Environment","program":"morning edition","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other"}' data-audio-metrics="[]">
+<div class="audio-module-controls">
+<a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2010/02/20100215_me_05.mp3?orgId=1&amp;topicId=1025&amp;d=237&amp;p=3&amp;story=123671588&amp;siteplayer=true&amp;dl=1">
+<b class="audio-module-listen-inner">
+<b class="audio-module-listen-icon icn-play"></b>
+<b class="audio-module-listen-text">
+<b class="audio-module-cta">Listen</b>
+<b class="audio-module-listen-duration">
+<span>· </span>
+<span>3:57</span>
+</b>
+</b>
+</b>
+</a>
+<time class="audio-module-duration" datetime="P3M,57S">3:57</time>
+</div>
+</div>
+<div class="audio-module-tools">
+<button class="audio-module-tools-toggle" data-metrics='{"category":"audio actions","action":"open more options","label":null,"noninteraction":true}'>
+<b class="icn-toggle"></b>
+<b class="label">Toggle more options</b>
+</button>
+<ul class="audio-module-more-tools">
+<li class="audio-tool audio-tool-download"><a data-metrics='{"category":"audio actions","action":"download audio","label":"123671588","noninteraction":true}' href="https://ondemand.npr.org/anon.npr-mp3/npr/me/2010/02/20100215_me_05.mp3?orgId=1&amp;topicId=1025&amp;d=237&amp;p=3&amp;story=123671588&amp;siteplayer=true&amp;dl=1"><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+</li>
+<li class="audio-tool audio-tool-embed">
+<button data-embed-url="https://www.npr.org/player/embed/123671588/123732972" data-metrics='{"category":"audio actions","action":"embed audio","label":"123671588","noninteraction":true}'><b class="button-inner"><b class="icn-embed"></b><b class="audio-tool-label">Embed</b></b></button>
+<div class="audio-embed-overlay">
+<button class="btn-close"></button>
+<label class="embed-label">
+<b class="audio-embed-overlay__icon"></b>
+<b class="label">Embed</b>
+<input class="embed-url embed-url-no-touch" readonly="" value='&lt;iframe src="https://www.npr.org/player/embed/123671588/123732972" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;&lt;/iframe&gt;'/>
+</label>
+<b class="embed-url embed-url-touch">
+<code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/123671588/123732972" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+</b>
+</div>
+</li>
+<li class="audio-tool audio-tool-transcript">
+<a data-metrics='{"category":"audio actions","action":"click transcript","label":"123671588","noninteraction":true}' href="https://www.npr.org/templates/transcript/transcript.php?storyId=123671588">
+<b class="icn-transcript"></b>
+<b class="audio-tool-label">Transcript</b>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</article>
+</div>
+<div aria-label="Share tools" class="share-tools share-tools--primary">
+<ul>
+<li class="share-tools__service share-tools__service--facebook"><button class="fbStory123671588" data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588"}' data-share-facebook='{"storyId": 123671588 }'><b class="share-tools__service-name">Facebook</b></button></li>
+<li class="share-tools__service share-tools__service--twitter"><button class="story123671588" data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588"}' data-share-twitter='{"storyId": 123671588 }'><b class="share-tools__service-name">Twitter</b></button></li>
+<li class="share-tools__service share-tools__service--flipboard"><button class="story123671588" data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588"}' data-share-flipboard='{"storyId": 123671588 }'><b class="share-tools__service-name">Flipboard</b></button></li>
+<li class="share-tools__service share-tools__service--email"><button class="share-tools__email-link" data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588"}' data-story-id="123671588"><b class="share-tools__service-name">Email</b></button></li>
+</ul>
+</div>
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+</div>
+<!-- END CLASS="STORY-TOOLS" -->
+<div class="story-meta has-byline" id="story-meta">
+<div class="story-meta__one">
+<div class="dateblock">
+<time datetime="2010-02-15T00:00:00-05:00">
+<span class="date">February 15, 2010</span><span class="time">12:00 AM ET</span>
+</time>
+</div> <div class="program-block">
+                  Heard on          <a href="https://www.npr.org/programs/morning-edition/2010/02/15/123652881/">Morning Edition</a>
+</div>
+<!-- END CLASS="PROGRAM-BLOCK" -->
+</div>
+<!-- END CLASS="STORY-META__ONE" -->
+<div class="story-meta__two">
+<div class="storybyline-wrap linkLocation" id="storybyline">
+<div class="bucketwrap byline" id="res123671587" previewtitle="bylines">
+<div class="byline-container--block">
+<div aria-label="Byline" class="byline byline--block byline--has-link">
+<div class="byline__photo">
+<a data-metrics='{"action":"Click Byline","category":"Story Metadata"}' href="https://www.npr.org/people/2100689/christopher-joyce" rel="author">
+<img alt="Christopher Joyce 2010" class="img" src="https://media.npr.org/assets/img/2011/12/30/chrisjoyce_4_sq-6400cfb7e806549409f12edc3aeb28ad586182a2-s100-c85.jpg"/>
+</a>
+</div>
+<p class="byline__name byline__name--block">
+<a data-metrics='{"action":"Click Byline","category":"Story Metadata"}' href="https://www.npr.org/people/2100689/christopher-joyce" rel="author">
+      Christopher Joyce
+    </a>
+</p>
+<a class="byline__social-handle byline__social-handle--5" data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' href="https://www.twitter.com/christophjoyce">
+      Twitter
+    </a>
+</div>
+</div>
+</div>
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES123671587" PREVIEWTITLE="BYLINES" -->
+</div>
+</div>
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div class="storytext storylocation linkLocation" id="storytext">
+<div class="bucketwrap image medium" id="res123671596">
+<div class="imagewrap" data-crop-type="">
+<img alt="" class="img lazyOnLoad" data-original="https://media.npr.org/assets/news/2010/02/10/snow-d0bd74ac5134de61aedadc5f6126c30f9482135e-s800.jpg" src="https://media.npr.org/assets/news/2010/02/10/snow-d0bd74ac5134de61aedadc5f6126c30f9482135e-s800-c15.jpg"/>
+<div class="enlarge-options">
+<a class="enlargelink" href="https://media.npr.org/assets/news/2010/02/10/snow-d0bd74ac5134de61aedadc5f6126c30f9482135e.jpg">Enlarge this image</a>
+</div>
+</div>
+<div class="credit-caption">
+<div class="caption-wrap">
+<div aria-label="Image caption" class="caption">
+<p>
+                Keith Yarrow gets a faceful of snow Tuesday as he cleans the driveway of his home in Mason City, Iowa. The storm dumped more than 10 inches of snow on north Iowa.
+                
+                <b aria-label="Image credit" class="credit">
+                    
+                    Bryon Houlgrave/The Globe Gazette/AP
+                    
+                </b>
+<b class="hide-caption"><b>hide caption</b></b>
+</p>
+</div>
+<b class="toggle-caption"><b>toggle caption</b></b>
+</div>
+<span aria-label="Image credit" class="credit">
+        
+        Bryon Houlgrave/The Globe Gazette/AP
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+<div class="img_wrap">
+<img alt="" data-original="https://media.npr.org/assets/news/2010/02/10/snow-d0bd74ac5134de61aedadc5f6126c30f9482135e.jpg"/>
+</div>
+</div>
+<div class="enlarge_html">
+<div class="image_data">
+<p class="caption">Keith Yarrow gets a faceful of snow Tuesday as he cleans the driveway of his home in Mason City, Iowa. The storm dumped more than 10 inches of snow on north Iowa.</p>
+<span aria-label="Image credit" class="credit">
+            
+            Bryon Houlgrave/The Globe Gazette/AP
+            
+        </span>
+</div>
+</div>
+</div>
+<p>With snow blanketing much of the country, the topic of global warming has become the butt of jokes.  </p> <p>Climate skeptics built an igloo in Washington, D.C., during the recent storm and dedicated it to former Vice President Al Gore, who's become the public face of climate change.  There was also a YouTube video called "<a href="http://www.youtube.com/watch?v=Up2sm2Sa6P0">12 inches of global warming</a>" that showed snow plows driving through a blizzard.  </p> <p>For scientists who study the climate, it's all a bit much.  They're trying to dig out.  </p> <p>Most don't see a contradiction between a warming world and lots of snow.  That includes Kevin Trenberth, a prominent climate scientist at the National Center for Atmospheric Research in Colorado.  </p> <p>"The fact that the oceans are warmer now than they were, say, 30 years ago means there's about on average 4 percent more water vapor lurking around over the oceans than there was, say, in the 1970s," he says. </p> <p>Warmer water means more water vapor rises up into the air, and what goes up must come down.   </p> <p>"So one of the consequences of a warming ocean near a coastline like the East Coast and Washington, D.C., for instance, is that you can get dumped on with more snow partly as a consequence of global warming," he says. </p> <aside aria-label="advertisement" id="ad-backstage-wrap">
+<div class="ad-backstage" data-ad-config='{"network":"\/6735\/n6735","site":{"default":"NPR","mobile":"NPRMOBILE"},"zone":"News_Science_Environment","targets":{"testserver":"false","storyId":"123671588","program":"Morning_Edition"},"location":"backstage","deferred":false,"isBetweenContent":true,"isAggSponsorship":false,"borderClass":""}' id="ad-backstage-News_Science_Environment"></div>
+</aside> <p>And Trenberth notes that you don't need very cold temperatures to get big snow.  In fact, when the mercury drops too low, it may be too cold to snow. </p> <p>There's something else fiddling with the weather this year — a strong El Nino.  That's the weather pattern that, every few years, raises itself up out of the western Pacific Ocean and blows east to the Americas.  It brings heavy rains and storms to California and the south and southeast.  It also pushes high-altitude jet streams farther south, which bring colder air with them.  </p> <p>Trenberth also says El Nino can "lock in" weather patterns like a meteorological highway, so that storms keep coming down the same track.  </p> <p>True, those storms have been record breakers.  But meteorologist Jeff Masters, with the Web site <a href="http://www.wunderground.com/">Weather Underground</a>, says it's average temperatures — not snowfall — that really measure climate change. </p> <p>"Because if it's cold enough to snow, you will get snow," Masters says. "We still have winter even if temperatures have warmed on average, oh, about 1 degree Fahrenheit over the past 100 years."  </p> <p>Masters say that 1 degree average warming is not enough to eliminate winter. Or storms.   </p> <p>A storm is part of what scientists classify as weather.  Weather is largely influenced by local conditions and changes week to week.  It's fickle — fraught with wild ups and downs.  </p> <p>Climate is the long-term trend of atmospheric conditions across large regions, even the whole planet.  Changes in climate are slow and measured in decades, not weeks. </p> <p>Masters and most climate scientists say a warming climate would be expected to affect the weather, sometimes drastically, but exactly where and when is hard to predict.</p> <p>"In that kind of a climate, you will have more frequent extreme events, heat waves and so on, but again, none of those individual events is proof itself that climate is changing," Masters says.  </p> <p>Climate scientists say they can't prove any single weather event is due to climate change.  Thus, they say, Hurricane Katrina or the heat wave in Vancouver that's dogging the Winter Olympics isn't proof that climate change is happening.  Nor can southern and eastern snowstorms prove that it's not. </p>
+</div>
+<div class="supplementarycontent storylocation linkLocation" id="supplementarycontent">
+<div class="container medium nobar" id="con123671586" previewtitle="Related NPR Stories">
+<h3 class="conheader">Related NPR Stories</h3>
+<div class="bucketwrap internallink simple" id="res123738347">
+<div class="bucket simple">
+<a data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123733017"}' href="https://www.npr.org/templates/story/story.php?storyId=123733017">Climate Change Plays Role In Shrinking Island</a> <span class="date">Feb. 15, 2010</span>
+</div>
+<!-- END CLASS="BUCKET SIMPLE" -->
+</div>
+<!-- END ID="RES123738347" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+<div class="bucketwrap internallink simple" id="res123671629">
+<div class="bucket simple">
+<a data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2010\/02\/50_states_snow_florida.html"}' href="https://www.npr.org/sections/thetwo-way/2010/02/50_states_snow_florida.html">All 50 States May Soon Have Snow On The Ground; You Can Help Document It</a> <span class="date">Feb. 12, 2010</span>
+</div>
+<!-- END CLASS="BUCKET SIMPLE" -->
+</div>
+<!-- END ID="RES123671629" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+<div class="bucketwrap internallink simple" id="res123671631">
+<div class="bucket simple">
+<a data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123642077"}' href="https://www.npr.org/templates/story/story.php?storyId=123642077">Parts Of South Brace For First Snowfall In A Decade</a> <span class="date">Feb. 12, 2010</span>
+</div>
+<!-- END CLASS="BUCKET SIMPLE" -->
+</div>
+<!-- END ID="RES123671631" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+<div class="bucketwrap internallink simple" id="res123671633">
+<div class="bucket simple">
+<a data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123558638"}' href="https://www.npr.org/templates/story/story.php?storyId=123558638">East Coast Digs Out From Record Snow</a> <span class="date">Feb. 10, 2010</span>
+</div>
+<!-- END CLASS="BUCKET SIMPLE" -->
+</div>
+<!-- END ID="RES123671633" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
+</div>
+<!-- END CLASS="CONTAINER MEDIUM NOBAR" ID="CON123671586" PREVIEWTITLE="RELATED NPR STORIES" -->
+</div>
+<div aria-label="Share tools" class="share-tools share-tools--secondary">
+<ul>
+<li class="share-tools__service share-tools__service--facebook"><button class="fbStory123671588" data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588"}' data-share-facebook='{"storyId": 123671588 }'><b class="share-tools__service-name">Facebook</b></button></li>
+<li class="share-tools__service share-tools__service--twitter"><button class="story123671588" data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588"}' data-share-twitter='{"storyId": 123671588 }'><b class="share-tools__service-name">Twitter</b></button></li>
+<li class="share-tools__service share-tools__service--flipboard"><button class="story123671588" data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588"}' data-share-flipboard='{"storyId": 123671588 }'><b class="share-tools__service-name">Flipboard</b></button></li>
+<li class="share-tools__service share-tools__service--email"><button class="share-tools__email-link" data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/templates\/story\/story.php?storyId=123671588"}' data-story-id="123671588"><b class="share-tools__service-name">Email</b></button></li>
+</ul>
+</div>
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div data-newsletter='{"newsletterId":"news","title":"Daily News","marketingHeader":"Sign Up For The NPR Daily Newsletter","frequency":"each weekday","shortDescription":"Catch up on the latest headlines and unique NPR stories, sent every weekday.","contentImage":"https:\/\/media.npr.org\/assets\/img\/2018\/07\/18\/dailynews-june27-screencap-cropped-small_custom.png","staticMarkupDir":"\/buckets\/topics\/header1001.html","brandingDir":"\/branding\/sections\/news\/","brandingLink":"https:\/\/www.npr.org\/sections\/news\/"}' id="newsletter-acquisition-callout-data">
+</div>
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;NEWS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;DAILY NEWS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NPR DAILY NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EACH WEEKDAY&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;CATCH UP ON THE LATEST HEADLINES AND UNIQUE NPR STORIES, SENT EVERY WEEKDAY.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2018\/07\/18\/DAILYNEWS-JUNE27-SCREENCAP-CROPPED-SMALL_CUSTOM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/TOPICS\/HEADER1001.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/NEWS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/NEWS\/&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside aria-label="recommended stories" class="recommended-stories" id="end-of-story-recommendations-mount"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"Environment"}'></header><footer aria-label="NPR footer" class="npr-footer" id="npr-footer" role="contentinfo"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+<div class="npr-footer__module-group">
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Read &amp; Listen</h6>
+<ul>
+<li class="npr-footer__item"><a data-metrics-action="Click Homepage" href="/">Home</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click News" href="/sections/news/">News</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Arts &amp; Life" href="/sections/arts/">Arts &amp; Life</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Music" href="/music/">Music</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Podcasts" href="/podcasts/">Podcasts</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Programs" href="/programs/">Programs</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Connect</h6>
+<ul>
+<li class="npr-footer__item"><a data-metrics-action="Click Newsletters" href="/newsletters">Newsletters</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Facebook" href="https://www.facebook.com/NPR/">Facebook</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Twitter" href="https://twitter.com/NPR">Twitter</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Instagram" href="https://www.instagram.com/npr/">Instagram</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Contact" href="https://www.npr.org/contact">Contact</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Help" href="https://help.npr.org">Help</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">About NPR</h6>
+<ul>
+<li class="npr-footer__item"><a data-metrics-action="Click Overview" href="/about/">Overview</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Finances" href="/about-npr/178660742/public-radio-finances">Finances</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click People" href="/about-npr/179803822/people-at-npr">People</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Press" href="/series/750003/press-room/">Press</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Public Editor" href="/sections/publiceditor/">Public Editor</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Corrections" href="/corrections/">Corrections</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Get Involved</h6>
+<ul>
+<li class="npr-footer__item"><a data-metrics-action="Click Support Public Radio" href="/series/750002/support-public-radio">Support Public Radio</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Sponsor NPR" href="/about-npr/186948703/corporate-sponsorship">Sponsor NPR</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click NPR Careers" href="/careers/">NPR Careers</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click NPR Shop" href="https://shop.npr.org/">NPR Shop</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click NPR Events" href="https://www.nprpresents.org">NPR Events</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Visit NPR" href="/about-npr/177066727/visit-npr">Visit NPR</a></li>
+</ul>
+</div>
+</div>
+<div class="npr-footer__module npr-footer__module--secondary">
+<ul>
+<li class="npr-footer__item"><a data-metrics-action="Click Terms of Use" href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Privacy" href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Your Privacy Choices" href="/about-npr/179878450/privacy-policy#yourchoices">Your Privacy Choices</a></li>
+<li class="npr-footer__item"><a data-metrics-action="Click Text Only" href="https://text.npr.org/">Text Only</a></li>
+<li class="npr-footer__item"><span class="copy-year"></span></li>
+</ul>
+</div>
+</div></footer></section> <div id="main-sidebar">
+<aside aria-label="advertisement" id="ad-standard-wrap">
+<div class="ad-standard" data-ad-config='{"network":"\/6735\/n6735","site":{"default":"NPR","mobile":"NPRMOBILE"},"zone":"News_Science_Environment","targets":{"testserver":"false","storyId":"123671588","program":"Morning_Edition"},"location":"standard","deferred":false,"isBetweenContent":false,"isAggSponsorship":false,"borderClass":""}' id="ad-standard-News_Science_Environment"></div>
+<p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+</aside>
+</div>
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+<!-- END ID="WRAPPER" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { webpackJsonp([86,27],{0:function(n,t,c){n.exports=c(1767)},1767:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(36),c(1512),c(267),c(360),c(241),c(569),c(353),c(1515),c(352),c(1514),c(1513),c(1365),c(404),c(2191)}(c)}.bind(this);c.e(0,t),c.e(3,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main><noscript><iframe height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&amp;ca=20501671&amp;ra=gtmcb" style="display:none;padding:0;margin:0;" width="0"></iframe></noscript><noscript><iframe><img height="1" src="https://www.facebook.com/tr?id=1621557368158968&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></iframe></noscript><script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            // Wait until the metric for chartbeat have been setup
+            // in templates/javascript/metrics/chartbeat.js
+            if( !!NPR.ChartbeatLoaded) {
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            } else {
+                setTimeout(loadChartbeat, 1000);
+            }
+        }
+
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            window._sf_endpt = (new Date()).getTime();
+            loadChartbeat();
+        };
+    })();
+</script></body></html>

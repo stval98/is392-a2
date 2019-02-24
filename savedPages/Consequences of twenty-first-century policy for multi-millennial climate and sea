@@ -1,0 +1,322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<html>
+<!--RAW FILE-->
+<head>
+<base href="http://adsabs.harvard.edu/abs/2016NatCC...6..360C"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="http://adsabs.harvard.edu/abs/2016NatCC...6..360C" rel="canonical"/>
+<meta content="noarchive" name="robots">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Consequences of twenty-first-century policy for multi-millennial climate and sea</title>
+<meta content="en" name="citation_language"/>
+<meta content="10.1038/nclimate2923" name="citation_doi"/>
+<meta content="http://adsabs.harvard.edu/abs/2016NatCC...6..360C" name="citation_abstract_html_url"/>
+<meta content="Consequences of twenty-first-century policy for multi-millennial climate and sea-level change" name="citation_title"/>
+<meta content="Clark, Peter U.; Shakun, Jeremy D.; Marcott, Shaun A.; Mix, Alan C.; Eby, Michael; Kulp, Scott; Levermann, Anders; Milne, Glenn A.; Pfister, Patrik L.; Santer, Benjamin D.; Schrag, Daniel P.; Solomon, Susan; Stocker, Thomas F.; Strauss, Benjamin H.; Weaver, Andrew J.; Winkelmann, Ricarda; Archer, David; Bard, Edouard; Goldner, Aaron; Lambeck, Kurt; Pierrehumbert, Raymond T.; Plattner, Gian-Kasper" name="citation_authors"/>
+<meta content="04/2016" name="citation_date"/>
+<meta content="Nature Climate Change" name="citation_journal_title"/>
+<meta content="6" name="citation_volume"/>
+<meta content="360" name="citation_firstpage"/>
+<meta content="369" name="citation_lastpage"/>
+<link href="http://prismstandard.org/namespaces/1.2/basic/" rel="schema.prism" title="schema(PRISM)"/>
+<meta content="Nature Climate Change" name="prism.publicationName"/>
+<meta content="6" name="prism.volume"/>
+<meta content="360" name="prism.startingPage"/>
+<meta content="369" name="prism.endingPage"/>
+<link href="http://purl.org/dc/elements/1.1/" rel="schema.dc" title="schema(DC)"/>
+<meta content="en" name="dc.language"/>
+<meta content="doi:10.1038/nclimate2923" name="dc.identifier"/>
+<meta content="2016-04" name="dc.date"/>
+<meta content="Nature Climate Change, Volume 6, Issue 4, pp. 360-369 (2016)." name="dc.source"/>
+<meta content="Consequences of twenty-first-century policy for multi-millennial climate and sea-level change" name="dc.title"/>
+<meta content="Clark, Peter U." name="dc.creator"/>
+<meta content="Shakun, Jeremy D." name="dc.creator"/>
+<meta content="Marcott, Shaun A." name="dc.creator"/>
+<meta content="Mix, Alan C." name="dc.creator"/>
+<meta content="Eby, Michael" name="dc.creator"/>
+<meta content="Kulp, Scott" name="dc.creator"/>
+<meta content="Levermann, Anders" name="dc.creator"/>
+<meta content="Milne, Glenn A." name="dc.creator"/>
+<meta content="Pfister, Patrik L." name="dc.creator"/>
+<meta content="Santer, Benjamin D." name="dc.creator"/>
+<meta content="Schrag, Daniel P." name="dc.creator"/>
+<meta content="Solomon, Susan" name="dc.creator"/>
+<meta content="Stocker, Thomas F." name="dc.creator"/>
+<meta content="Strauss, Benjamin H." name="dc.creator"/>
+<meta content="Weaver, Andrew J." name="dc.creator"/>
+<meta content="Winkelmann, Ricarda" name="dc.creator"/>
+<meta content="Archer, David" name="dc.creator"/>
+<meta content="Bard, Edouard" name="dc.creator"/>
+<meta content="Goldner, Aaron" name="dc.creator"/>
+<meta content="Lambeck, Kurt" name="dc.creator"/>
+<meta content="Pierrehumbert, Raymond T." name="dc.creator"/>
+<meta content="Plattner, Gian-Kasper" name="dc.creator"/>
+<link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script language="JavaScript" type="text/javascript">
+<!-- Begin
+function mkemail(parts) {
+    var sep = ".";
+    var str = arguments[0];
+    for ( var i = 1 ; i < arguments.length ; i++ ) {
+        if ( arguments[i] == "" ) {
+            sep = String.fromCharCode(29+35) ;
+           continue ;
+        } else {
+            str = str.concat ( sep ) ;
+            str = str.concat ( arguments[i] ) ;
+            sep = ".";
+        }
+    }
+    return(str);
+}
+var toggle = 0 ;
+function t(){
+if ( toggle == 0 ) {
+setStyleByClass("span","a","backgroundColor","#ffffff");
+setStyleByClass("div","h","backgroundColor","#ffffff");
+setStyleByClass("div","h","opacity","0");
+setStyleByClass("div","h","filter","alpha(opacity=0)");
+setStyleByClass("span","b","backgroundColor","#ffffff");
+setStyleByClass("div","i","backgroundColor","#ffffff");
+setStyleByClass("div","i","opacity","0");
+setStyleByClass("div","i","filter","alpha(opacity=0)");
+setStyleByClass("span","c","backgroundColor","#ffffff");
+setStyleByClass("div","j","backgroundColor","#ffffff");
+setStyleByClass("div","j","opacity","0");
+setStyleByClass("div","j","filter","alpha(opacity=0)");
+setStyleByClass("span","d","backgroundColor","#ffffff");
+setStyleByClass("div","k","backgroundColor","#ffffff");
+setStyleByClass("div","k","opacity","0");
+setStyleByClass("div","k","filter","alpha(opacity=0)");
+setStyleByClass("span","e","backgroundColor","#ffffff");
+setStyleByClass("div","l","backgroundColor","#ffffff");
+setStyleByClass("div","l","opacity","0");
+setStyleByClass("div","l","filter","alpha(opacity=0)");
+setStyleByClass("span","f","backgroundColor","#ffffff");
+setStyleByClass("div","m","backgroundColor","#ffffff");
+setStyleByClass("div","m","opacity","0");
+setStyleByClass("div","m","filter","alpha(opacity=0)");
+setStyleByClass("span","g","backgroundColor","#ffffff");
+setStyleByClass("div","n","backgroundColor","#ffffff");
+setStyleByClass("div","n","opacity","0");
+setStyleByClass("div","n","filter","alpha(opacity=0)");
+toggle = 1 ;
+} else {
+setStyleByClass("span","a","backgroundColor","#ffff88");
+setStyleByClass("div","h","backgroundColor","#ffff00");
+setStyleByClass("div","h","opacity","0.3");
+setStyleByClass("div","h","filter","alpha(opacity=30)");
+setStyleByClass("span","b","backgroundColor","#ccccff");
+setStyleByClass("div","i","backgroundColor","#3333ff");
+setStyleByClass("div","i","opacity","0.3");
+setStyleByClass("div","i","filter","alpha(opacity=30)");
+setStyleByClass("span","c","backgroundColor","#ffcccc");
+setStyleByClass("div","j","backgroundColor","#ff3333");
+setStyleByClass("div","j","opacity","0.3");
+setStyleByClass("div","j","filter","alpha(opacity=30)");
+setStyleByClass("span","d","backgroundColor","#bbffff");
+setStyleByClass("div","k","backgroundColor","#00ffff");
+setStyleByClass("div","k","opacity","0.3");
+setStyleByClass("div","k","filter","alpha(opacity=30)");
+setStyleByClass("span","e","backgroundColor","#ffdd77");
+setStyleByClass("div","l","backgroundColor","#ff6600");
+setStyleByClass("div","l","opacity","0.3");
+setStyleByClass("div","l","filter","alpha(opacity=30)");
+setStyleByClass("span","f","backgroundColor","#ccffaa");
+setStyleByClass("div","m","backgroundColor","#33ff00");
+setStyleByClass("div","m","opacity","0.3");
+setStyleByClass("div","m","filter","alpha(opacity=30)");
+setStyleByClass("span","g","backgroundColor","#ffccff");
+setStyleByClass("div","n","backgroundColor","#ff00ff");
+setStyleByClass("div","n","opacity","0.3");
+setStyleByClass("div","n","filter","alpha(opacity=30)");
+toggle = 0 ;
+}
+}
+var ie = (document.all) ? true : false;
+
+function setStyleByClass(t,c,p,v){
+	var elements;
+	if(t == '*') {
+		elements = (ie) ? document.all : document.getElementsByTagName('*');
+	} else {
+		elements = document.getElementsByTagName(t);
+	}
+	for (var i = 0; i < elements.length; i++)
+    {
+		var node = elements.item(i);
+		for(var j = 0; j < node.attributes.length; j++)
+		{
+			if(node.attributes.item(j).nodeName == 'class')
+			{
+				if(node.attributes.item(j).nodeValue == c)
+				{
+				eval('node.style.' + p + " = '" +v + "'");
+				}
+			}
+		}
+	}
+}
+//  End -->
+</script>
+<style>.a{background-color: #ffff88}</style>
+<style>.h{background-color: #ffff00}</style>
+<style>.b{background-color: #ccccff}</style>
+<style>.i{background-color: #3333ff}</style>
+<style>.c{background-color: #ffcccc}</style>
+<style>.j{background-color: #ff3333}</style>
+<style>.d{background-color: #bbffff}</style>
+<style>.k{background-color: #00ffff}</style>
+<style>.e{background-color: #ffdd77}</style>
+<style>.l{background-color: #ff6600}</style>
+<style>.f{background-color: #ccffaa}</style>
+<style>.m{background-color: #33ff00}</style>
+<style>.g{background-color: #ffccff}</style>
+<style>.n{background-color: #ff00ff}</style>
+<style type="text/css">
+@media (max-width : 980px) {
+* {
+  font-size: 18px !important;
+}
+a {
+  margin: 8px !important;
+  display:inline-block;
+}
+td:first-of-type {
+   white-space: normal !important;
+}
+td:first-of-type {
+   white-space: nowrap;
+}
+}
+</style>
+<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style>
+<style type="text/css">
+a:link {color: #0000ff}
+a.oa:link {color: #00a000}
+a:visited {color: #4000a0}
+a.oa:visited {color: #006666}
+a:hover {color: #ff0000}
+a.oa:hover {color: #cc33cc}
+</style>
+</meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#4000a0">
+<div align="right" style="font-size:84%;padding-bottom:4px"><a href="http://adsabs.harvard.edu/cgi-bin/nph-manage_account?man_cmd=login&amp;man_url=http://adsabs.harvard.edu/abs/2016NatCC...6..360C">Sign on</a></div>
+<p><h3><a href="http://adsabs.harvard.edu/">SAO/NASA ADS</a> <a href="http://adsabs.harvard.edu/physics_service.html">Physics Abstract Service</a></h3>
+<hr/>
+<p>
+<dl>
+<dt><table width="100%"><tbody><tr><td align="left"><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&amp;arxiv_sel=ALL&amp;db_key=PHY&amp;text=Most%20of%20the%20policy%20debate%20surrounding%20the%20actions%20needed%20to%20mitigate%20and%0aadapt%20to%20anthropogenic%20climate%20change%20has%20been%20framed%20by%20observations%20of%0athe%20past%20150%20years%20as%20well%20as%20climate%20and%20sea-level%20projections%20for%20the%0atwenty-first%20century.%20The%20focus%20on%20this%20250-year%20window,%20however,%0aobscures%20some%20of%20the%20most%20profound%20problems%20associated%20with%20climate%0achange.%20Here,%20we%20argue%20that%20the%20twentieth%20and%20twenty-first%20centuries,%20a%0aperiod%20during%20which%20the%20overwhelming%20majority%20of%20human-caused%20carbon%0aemissions%20are%20likely%20to%20occur,%20need%20to%20be%20placed%20into%20a%20long-term%0acontext%20that%20includes%20the%20past%2020%20millennia,%20when%20the%20last%20Ice%20Age%20ended%0aand%20human%20civilization%20developed,%20and%20the%20next%20ten%20millennia,%20over%20which%0atime%20the%20projected%20impacts%20of%20anthropogenic%20climate%20change%20will%20grow%20and%0apersist.%20This%20long-term%20perspective%20illustrates%20that%20policy%20decisions%0amade%20in%20the%20next%20few%20years%20to%20decades%20will%20have%20profound%20impacts%20on%0aglobal%20climate,%20ecosystems%20and%20human%20societies%20--%20not%20just%20for%20this%0acentury,%20but%20for%20the%20next%20ten%20millennia%20and%20beyond.%0a+&amp;title=Consequences%20of%20twenty-first-century%20policy%20for%20multi-millennial%20climate%20and%20sea-level%20change">Find Similar Abstracts</a> (with <a href="#feedback">default settings below</a>)</strong></td>
+</tr></tbody></table>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016NatCC...6..360C&amp;link_type=EJOURNAL&amp;db_key=PHY&amp;high=">Electronic Refereed Journal Article (HTML)</a></strong>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016NatCC...6..360C&amp;link_type=REFERENCES&amp;db_key=PHY&amp;high=">References in the article</a></strong>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016NatCC...6..360C&amp;link_type=CITATIONS&amp;db_key=PHY">Citations to the Article (53)</a></strong></dt></dt></dt></dt></dl></p></p></body></html> (<a href="http://adsabs.harvard.edu/cgi-bin/nph-ref_history?refs=CITATIONS&amp;bibcode=2016NatCC...6..360C">Citation History</a>)
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016NatCC...6..360C&amp;link_type=REFCIT&amp;db_key=PHY&amp;high=">Refereed Citations to the Article</a></strong>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2016NatCC...6..360C&amp;link_type=AR&amp;db_key=PHY">Also-Read Articles</a></strong> (<a href="http://adsabs.harvard.edu/cgi-bin/nph-ref_history?refs=AR&amp;bibcode=2016NatCC...6..360C">Reads History</a>)
+<dt>·
+<dt><strong>· <a href="http://www.microsofttranslator.com/BV.aspx?from=en&amp;a=http://adsabs.harvard.edu/abs/2016NatCC...6..360C">Translate This Page</a></strong>
+</dt></dt></dt></dt>
+<table><tbody>
+<tr><td align="left" valign="top"><b>Title:</b></td><td><br/></td><td align="left" valign="top">Consequences of twenty-first-century policy for multi-millennial climate and sea-level change</td></tr>
+<tr><td align="left" valign="top"><b>Authors:</b></td><td><br/></td><td align="left" valign="top"><a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Clark,+P&amp;fullauthor=Clark,%20Peter%20U.&amp;charset=ISO-8859-1&amp;db_key=PHY">Clark, Peter U.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Shakun,+J&amp;fullauthor=Shakun,%20Jeremy%20D.&amp;charset=ISO-8859-1&amp;db_key=PHY">Shakun, Jeremy D.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Marcott,+S&amp;fullauthor=Marcott,%20Shaun%20A.&amp;charset=ISO-8859-1&amp;db_key=PHY">Marcott, Shaun A.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Mix,+A&amp;fullauthor=Mix,%20Alan%20C.&amp;charset=ISO-8859-1&amp;db_key=PHY">Mix, Alan C.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Eby,+M&amp;fullauthor=Eby,%20Michael&amp;charset=ISO-8859-1&amp;db_key=PHY">Eby, Michael</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Kulp,+S&amp;fullauthor=Kulp,%20Scott&amp;charset=ISO-8859-1&amp;db_key=PHY">Kulp, Scott</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Levermann,+A&amp;fullauthor=Levermann,%20Anders&amp;charset=ISO-8859-1&amp;db_key=PHY">Levermann, Anders</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Milne,+G&amp;fullauthor=Milne,%20Glenn%20A.&amp;charset=ISO-8859-1&amp;db_key=PHY">Milne, Glenn A.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Pfister,+P&amp;fullauthor=Pfister,%20Patrik%20L.&amp;charset=ISO-8859-1&amp;db_key=PHY">Pfister, Patrik L.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Santer,+B&amp;fullauthor=Santer,%20Benjamin%20D.&amp;charset=ISO-8859-1&amp;db_key=PHY">Santer, Benjamin D.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Schrag,+D&amp;fullauthor=Schrag,%20Daniel%20P.&amp;charset=ISO-8859-1&amp;db_key=PHY">Schrag, Daniel P.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Solomon,+S&amp;fullauthor=Solomon,%20Susan&amp;charset=ISO-8859-1&amp;db_key=PHY">Solomon, Susan</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Stocker,+T&amp;fullauthor=Stocker,%20Thomas%20F.&amp;charset=ISO-8859-1&amp;db_key=PHY">Stocker, Thomas F.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Strauss,+B&amp;fullauthor=Strauss,%20Benjamin%20H.&amp;charset=ISO-8859-1&amp;db_key=PHY">Strauss, Benjamin H.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Weaver,+A&amp;fullauthor=Weaver,%20Andrew%20J.&amp;charset=ISO-8859-1&amp;db_key=PHY">Weaver, Andrew J.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Winkelmann,+R&amp;fullauthor=Winkelmann,%20Ricarda&amp;charset=ISO-8859-1&amp;db_key=PHY">Winkelmann, Ricarda</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Archer,+D&amp;fullauthor=Archer,%20David&amp;charset=ISO-8859-1&amp;db_key=PHY">Archer, David</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Bard,+E&amp;fullauthor=Bard,%20Edouard&amp;charset=ISO-8859-1&amp;db_key=PHY">Bard, Edouard</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Goldner,+A&amp;fullauthor=Goldner,%20Aaron&amp;charset=ISO-8859-1&amp;db_key=PHY">Goldner, Aaron</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Lambeck,+K&amp;fullauthor=Lambeck,%20Kurt&amp;charset=ISO-8859-1&amp;db_key=PHY">Lambeck, Kurt</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Pierrehumbert,+R&amp;fullauthor=Pierrehumbert,%20Raymond%20T.&amp;charset=ISO-8859-1&amp;db_key=PHY">Pierrehumbert, Raymond T.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Plattner,+G&amp;fullauthor=Plattner,%20Gian-Kasper&amp;charset=ISO-8859-1&amp;db_key=PHY">Plattner, Gian-Kasper</a></td></tr>
+<tr><td align="left" valign="top"><b>Affiliation:</b></td><td><br/></td><td align="left" valign="top">AA(College of Earth, Ocean, and Atmospheric Sciences, Oregon State University, Corvallis, Oregon 97331, USA; <email><script language="JavaScript" type="text/javascript">document.write(mkemail("clarkp","","onid","orst","edu"));</script></email>), AB(Department of Earth and Environmental Sciences, Boston College, Chestnut Hill, Massachusetts 02467, USA), AC(Department of Geoscience, University of Wisconsin, Madison, Wisconsin 53706, USA), AD(College of Earth, Ocean, and Atmospheric Sciences, Oregon State University, Corvallis, Oregon 97331, USA), AE(School of Earth and Ocean Sciences, University of Victoria, Victoria, British Columbia V8W 3P6, Canada; Department of Geography, Simon Fraser University, Burnaby, British Columbia V5A 1S6, Canada), AF(Climate Central, Princeton, New Jersey 08542, USA), AG(Potsdam Institute for Climate Impact Research, Potsdam 14412, Germany; Lamont-Doherty Earth Observatory, Columbia University, New York, New York 10964, USA), AH(Department of Earth and Environmental Sciences, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada), AI(Climate and Environmental Physics, University of Bern, Sidlerstrasse 5, CH-3012 Bern, Switzerland), AJ(Program for Climate Model Diagnosis and Intercomparison, Lawrence Livermore National Laboratory, Livermore, California 94550, USA), AK(Department of Earth and Planetary Sciences, Harvard University, Cambridge, Massachusetts 02138, USA), AL(Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA), AM(Climate and Environmental Physics, University of Bern, Sidlerstrasse 5, CH-3012 Bern, Switzerland; Oeschger Center for Climate Change Research, Zahringerstrasse 25, CH-3012 Bern, Switzerland), AN(Climate Central, Princeton, New Jersey 08542, USA), AO(School of Earth and Ocean Sciences, University of Victoria, Victoria, British Columbia V8W 3P6, Canada), AP(Potsdam Institute for Climate Impact Research, Potsdam 14412, Germany), AQ(Department of Geophysical Sciences, University of Chicago, Chicago, Illinois 60637, USA), AR(CEREGE, Aix-Marseille University - CNRS- IRD - College de France, Technopole de l'Arbois, BP 80, 13545 Aix-en-Provence Cedex 4, France), AS(AAAS Science and Technology Fellow, Washington DC 20001, USA), AT(Research School of Earth Sciences, The Australian National University, Canberra, Australian Capital Territory 0200, Australia; Laboratoire de Géologie de l'École Normale Supérieure, UMR 8538 du CNRS, 75231 Paris, France), AU(Department of Physics, Oxford University, Oxford OX1 3PU, UK), AV(Climate and Environmental Physics, University of Bern, Sidlerstrasse 5, CH-3012 Bern, Switzerland)</td></tr>
+<tr><td align="left" valign="top"><b>Publication:</b></td><td><br/></td><td align="left" valign="top">Nature Climate Change, Volume 6, Issue 4, pp. 360-369 (2016).</td></tr>
+<tr><td align="left" valign="top"><b>Publication Date:</b></td><td><br/></td><td align="left" valign="top">04/2016</td></tr>
+<tr><td align="left" valign="top"><b>Origin:</b></td><td><br/></td><td align="left" valign="top"><a href="http://www.nature.com">NATURE</a></td></tr>
+<tr><td align="left" valign="top"><b>Abstract Copyright:</b></td><td><br/></td><td align="left" valign="top">(c) 2016: Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.</td></tr>
+<tr><td align="left" valign="top"><b>DOI:</b></td><td><br/></td><td align="left" valign="top"><a href="https://doi.org/10.1038/nclimate2923">10.1038/nclimate2923</a></td></tr>
+<tr><td align="left" valign="top"><b>Bibliographic Code:</b></td><td><br/></td><td align="left" valign="top"><a href="http://adsabs.harvard.edu/abs/2016NatCC...6..360C">2016NatCC...6..360C</a></td></tr>
+</tbody></table>
+<h3 align="center">                               Abstract</h3>
+Most of the policy debate surrounding the actions needed to mitigate and
+adapt to anthropogenic climate change has been framed by observations of
+the past 150 years as well as climate and sea-level projections for the
+twenty-first century. The focus on this 250-year window, however,
+obscures some of the most profound problems associated with climate
+change. Here, we argue that the twentieth and twenty-first centuries, a
+period during which the overwhelming majority of human-caused carbon
+emissions are likely to occur, need to be placed into a long-term
+context that includes the past 20 millennia, when the last Ice Age ended
+and human civilization developed, and the next ten millennia, over which
+time the projected impacts of anthropogenic climate change will grow and
+persist. This long-term perspective illustrates that policy decisions
+made in the next few years to decades will have profound impacts on
+global climate, ecosystems and human societies -- not just for this
+century, but for the next ten millennia and beyond.
+<hr/>
+<table width="100%"><tbody><tr><td align="left"><b><a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2016NatCC...6..360C&amp;data_type=BIBTEX&amp;db_key=PHY&amp;nocookieset=1">Bibtex entry for this abstract</a></b>   <b><a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?bibcode=2016NatCC...6..360C&amp;data_type=Custom&amp;format=%25z0%5c%5cbibitem%5b%25%5c2m%25%28y%29%5d%25%7bR%7d%20%25%5c5.3l%20%25%5cY,%25%5cj,%25%5cV,%25%5cp%5cn&amp;return_fmt=LONG&amp;db_key=PHY&amp;nocookieset=1">Preferred format for this abstract</a></b> (see <a href="http://adsabs.harvard.edu/cgi-bin/pref_set">Preferences</a>)</td>
+</tr></tbody></table>
+<hr/>
+<div style="display: table">
+<div style="display: table-row; float: left;">
+<div style="display: table-cell; float: left; padding: 5px">
+<form action="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect" method="POST"><a name="private"></a>
+<input name="bibcode" type="hidden" value="2016NatCC...6..360C"/>
+<input name="library" type="submit" value=" Add this article to private library "/>
+</form>
+</div>
+<div style="display: table-cell; float: left; padding: 5px">
+<form action="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect" method="POST"><a name="private"></a>
+<input name="bibcode" type="hidden" value="2016NatCC...6..360C"/>
+<input name="library" type="submit" value=" Remove from private library "/>
+</form>
+</div>
+</div>
+<div style="display: table-row; clear: left;">
+<div style="display: table-cell; float: left; padding: 5px;">
+<form action="http://adsabs.harvard.edu/adsfeedback/submit_abstract.php" method="GET"><input name="submit" type="submit" value=" Submit corrections to this record "/><input name="bibcode" type="hidden" value="2016NatCC...6..360C"/><input name="db_key" type="hidden" value="PHY"/></form>
+</div>
+<div style="display: table-cell; float: left; padding: 5px;">
+<form action="https://ui.adsabs.harvard.edu/#abs/2016NatCC...6..360C" method="GET"><input style="background-color: #6084D9; color: #ffffff; border: 2px solid #ff9900" type="submit" value=" View record in the new ADS "/></form>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<hr/>
+<form action="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect" method="POST"><a name="feedback"></a>
+<h3>Find Similar Abstracts:</h3>
+<input name="return_req" type="hidden" value="no_params"/>
+<table>
+<tr><td>Use:</td><td> <input name="use_auth" type="checkbox" value="YES"/></td><td>  Authors</td></tr>
+<tr><td></td><td> <input checked="" name="use_title" type="checkbox" value="YES"/></td><td>  Title</td></tr>
+<tr><td></td><td> <input checked="" name="use_text" type="checkbox" value="YES"/></td><td>  Abstract Text</td></tr>
+<tr><td>Return:</td><td> <input checked="" name="return_req" type="radio" value="feedback"/></td><td>  Query Results</td><td>   Return <input name="nr_to_return" size="5" value="100"/>   items starting with number <input name="start_nr" size="5" value="1"/></td></tr>
+<tr><td></td><td> <input name="return_req" type="radio" value="form"/></td><td>  Query Form</td></tr>
+<tr><td>Database:</td><td> <input name="db_key" type="checkbox" value="AST"/></td><td>  Astronomy</td></tr>
+<tr><td></td><td> <input checked="" name="db_key" type="checkbox" value="PHY"/></td><td>  Physics</td></tr>
+<tr><td></td><td> <input name="db_key" type="checkbox" value="PRE"/></td><td>  arXiv e-prints</td></tr>
+</table>
+<input name="arxiv_sel" type="hidden" value="ALL"/>
+<input name="bib_dbkey" type="hidden" value="PHY"/>
+<input name="selfeedback" type="submit" value="      Send Query     "/>    <input type="reset" value="      Reset      "/>
+<input name="bibcode" type="hidden" value="2016NatCC...6..360C"/>
+</form>
+<br/><hr/><br/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37369750-3', 'harvard.edu');
+  ga('send', 'pageview');
+
+</script>
+<!-- ADS_MIRROR: CFA -->
+
+

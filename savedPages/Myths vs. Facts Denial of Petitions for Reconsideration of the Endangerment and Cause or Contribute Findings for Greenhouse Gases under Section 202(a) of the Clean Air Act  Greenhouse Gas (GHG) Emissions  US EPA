@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<!--[if IEMobile 7]><html class="iem7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 no-js" lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)]><!--> <html class="no-js not-oldie" dir="ltr" lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width" name="MobileOptimized"/>
+<meta content="width=device-width" name="viewport"/>
+<meta content="Drupal 7 (http://drupal.org)" name="generator"/>
+<link href="https://www.epa.gov/sites/all/themes/epa/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+<!--googleon: all--><meta content="Myths and facts about the denial of petitions for reconsideration." name="DC.description"/>
+<meta content="Myths vs. Facts: Denial of Petitions for Reconsideration of the Endangerment and Cause or Contribute Findings for Greenhouse Gases under Section 202(a) of the Clean Air Act" name="DC.title"/>
+<!--googleoff: snippet--><meta content="IPCC, climate change science, CRU" name="keywords"/>
+<link href="https://www.epa.gov/ghgemissions/myths-vs-facts-denial-petitions-reconsideration-endangerment-and-cause-or-contribute" rel="canonical"/>
+<link href="https://www.epa.gov/node/158683" rel="shortlink"/>
+<meta content="US EPA" property="og:site_name"/>
+<meta content="government" property="og:type"/>
+<meta content="Myths vs. Facts: Denial of Petitions for Reconsideration of the Endangerment and Cause or Contribute Findings for Greenhouse Gases under Section 202(a) of the Clean Air Act | US EPA" property="og:title"/>
+<meta content="https://www.epa.gov/ghgemissions/myths-vs-facts-denial-petitions-reconsideration-endangerment-and-cause-or-contribute" property="og:url"/>
+<meta content="Myths and facts about the denial of petitions for reconsideration." property="og:description"/>
+<meta content="2017-07-11T15:34:56-04:00" property="og:updated_time"/>
+<meta content="https://www.epa.gov/sites/all/themes/epa/img/epa-seal-large.png" property="og:image"/>
+<meta content="United States of America" property="og:country_name"/>
+<meta content="2016-08-25T09:44:27-04:00" property="article:published_time"/>
+<meta content="2018-05-30T15:50:28-04:00" property="article:modified_time"/>
+<meta content="en" name="DC.language"/>
+<meta content="Learn the Issues" name="DC.Subject.epachannel"/>
+<meta content="Overviews and Factsheets" name="DC.type"/>
+<meta content="2016-08-25" name="DC.date.created"/>
+<meta content="2017-07-11" name="DC.date.modified"/>
+<meta content="2019-05-30" name="DC.date.reviewed"/>
+<meta content="US EPA,OA" name="DC.creator"/>
+<meta content="Greenhouse Gas Emissions" name="WebArea"/>
+<meta content="Microsite" name="WebAreaType"/>
+<meta content="Basic page" name="ContentType"/>
+<title>Myths vs. Facts: Denial of Petitions for Reconsideration of the Endangerment and Cause or Contribute Findings for Greenhouse Gases under Section 202(a) of the Clean Air Act | Greenhouse Gas (GHG) Emissions | US EPA</title>
+<!--googleoff: all-->
+<style media="all">
+@import url("https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?pn8x9e");
+</style>
+<style media="all">
+@import url("https://www.epa.gov/sites/all/modules/contrib/date/date_api/date.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/modules/contrib/picture/picture_wysiwyg.css?pn8x9e");
+</style>
+<style media="all">
+@import url("https://www.epa.gov/sites/all/modules/custom/add_definitions/add_definitions.min.css?pn8x9e");
+</style>
+<style media="all">
+@import url("https://www.epa.gov/sites/all/themes/epa/css/base.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/typography.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/drupal.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/layout.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/core/contextual.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/contrib/date.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/design.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/mobile-menu.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/drop-down-menu.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/flexslider.min.css?pn8x9e");
+@import url("https://www.epa.gov/sites/all/themes/epa/css/lib/colorbox.min.css?pn8x9e");
+</style>
+<!--[if lt IE 9]>
+<style media="all">
+@import url("https://www.epa.gov/sites/all/themes/epa/css/ie.min.css?pn8x9e");
+</style>
+<![endif]-->
+<style media="all">
+@import url("https://www.epa.gov/sites/all/themes/epa/css/lib/jquery.ui.theme.min.css?pn8x9e");
+</style>
+<link href="https://www.epa.gov/newsreleases/search/rss" rel="alternate" title="EPA.gov All Press Releases" type="application/atom+xml"/>
+<link href="https://www.epa.gov/newsreleases/search/rss/field_press_office/headquarters" rel="alternate" title="EPA.gov Headquarters Press Releases" type="application/atom+xml"/>
+<link href="https://blog.epa.gov/blog/feed/" rel="alternate" title="Greenversations, EPA's Blog" type="application/atom+xml"/>
+<link href="/feed/126337/rss.xml" rel="alternate" title="Greenhouse Gas Emissions" type="application/atom+xml"/> <!--[if lt IE 9]><script src="/sites/all/themes/epa/js/html5.min.js"></script><![endif]--> <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-L8ZB');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node-158683 node-type-page og-context og-context-node og-context-node-126337 section-ghgemissions microsite">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-L8ZB" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links"><a class="skip-link element-invisible element-focusable" href="#main-content">Jump to main content</a></div>
+<div class="block block-pane block-pane-official-website-header sitewide-alert sitewide-alert--official" id="block-pane-official-website-header">
+<div class="sitewide-alert__content"> <p>An official website of the United States government.</p>
+</div>
+</div>
+<div class="sitewide-alert sitewide-alert--information element-hidden" data-alert="66b40d0321f8af5a6a0620d32c73ab359c95c3ff584d7dcd7871733ab74e3729"><div class="sitewide-alert__content"><p>We've made some changes to <a href="/">EPA.gov</a>. If the information you are looking for is not here, you may be able to find it on the <a href="https://archive.epa.gov/">EPA Web Archive</a> or the <a href="https://19january2017snapshot.epa.gov/">January 19, 2017 Web Snapshot</a>.</p>
+</div></div>
+<header class="masthead clearfix" role="banner">
+<img alt="" class="site-logo" src="https://www.epa.gov/sites/all/themes/epa/logo.png"/>
+<div class="site-name-and-slogan">
+<h1 class="site-name">
+<a href="/" rel="home" title="Go to the home page"> <span>US EPA</span>
+</a>
+</h1>
+<div class="site-slogan">United States Environmental Protection Agency</div>
+</div>
+<div class="region-header"> <div class="block block-epa-core block-epa-core-gsa-epa-search" id="block-epa-core-gsa-epa-search">
+<form action="https://search.epa.gov/epasearch/epasearch" class="epa-search" method="get">
+<label class="element-hidden" for="search-box">Search</label>
+<input class="form-text" id="search-box" name="querytext" placeholder="Search EPA.gov" value=""/>
+<button class="epa-search-button" id="search-button" title="Search" type="submit">Search</button>
+<input name="areaname" type="hidden" value=""/>
+<input name="areacontacts" type="hidden" value=""/>
+<input name="areasearchurl" type="hidden" value=""/>
+<input name="typeofsearch" type="hidden" value="epa"/>
+<input name="result_template" type="hidden" value="2col.ftl"/>
+</form>
+</div>
+</div>
+</header>
+<nav class="nav main-nav clearfix" role="navigation">
+<div class="nav__inner">
+<h2 class="element-invisible">Main menu</h2><ul class="menu"><li class="expanded menu-item"><a class="menu-link" href="/environmental-topics" title="View links to the most popular pages for each of EPA’s top environmental topics.">Environmental Topics</a><ul class="menu"><li class="menu-item"><a class="menu-link" href="/environmental-topics/air-topics" title="">Air</a></li>
+<li class="menu-item"><a class="menu-link" href="/bedbugs" title="">Bed Bugs</a></li>
+<li class="menu-item"><a class="menu-link" href="/environmental-topics/chemicals-and-toxics-topics" title="">Chemicals and Toxics</a></li>
+<li class="menu-item"><a class="menu-link" href="/environmental-topics/environmental-information-location" title="">Environmental Information by Location</a></li>
+<li class="menu-item"><a class="menu-link" href="/environmental-topics/greener-living" title="">Greener Living</a></li>
+<li class="menu-item"><a class="menu-link" href="/environmental-topics/health-topics" title="">Health</a></li>
+<li class="menu-item"><a class="menu-link" href="/environmental-topics/land-waste-and-cleanup-topics" title="">Land, Waste, and Cleanup</a></li>
+<li class="menu-item"><a class="menu-link" href="/lead" title="">Lead</a></li>
+<li class="menu-item"><a class="menu-link" href="/mold" title="">Mold</a></li>
+<li class="menu-item"><a class="menu-link" href="/pesticides" title="">Pesticides</a></li>
+<li class="menu-item"><a class="menu-link" href="/radon" title="">Radon</a></li>
+<li class="menu-item"><a class="menu-link" href="/environmental-topics/science-topics" title="">Science</a></li>
+<li class="menu-item"><a class="menu-link" href="/environmental-topics/water-topics" title="">Water</a></li>
+<li class="menu-item"><a class="menu-link" href="/environmental-topics/z-index" title="">A-Z Index</a></li>
+</ul></li>
+<li class="menu-item"><a class="menu-link" href="/laws-regulations" title="View links to regulatory information by topic and sector, and to top pages about environmental laws, regulations, policies, compliance, and enforcement.">Laws &amp; Regulations</a><ul class="menu"><li class="menu-item"><a class="menu-link" href="/regulatory-information-sector" title="">By Business Sector</a></li>
+<li class="menu-item"><a class="menu-link" href="/regulatory-information-topic" title="">By Topic</a></li>
+<li class="menu-item"><a class="menu-link" href="/compliance" title="">Compliance</a></li>
+<li class="menu-item"><a class="menu-link" href="/enforcement" title="">Enforcement</a></li>
+<li class="menu-item"><a class="menu-link" href="/laws-regulations/laws-and-executive-orders" title="">Laws and Executive Orders</a></li>
+<li class="menu-item"><a class="menu-link" href="/laws-regulations/policy-guidance" title="">Policy and Guidance</a></li>
+<li class="menu-item"><a class="menu-link" href="/laws-regulations/regulations" title="">Regulations</a></li>
+</ul></li>
+<li class="expanded menu-item"><a class="menu-link" href="/aboutepa" title="Learn more about our mission, organization, and locations.">About EPA</a><ul class="menu"><li class="menu-item"><a class="menu-node-unpublished menu-link" href="/aboutepa/epas-acting-administrator" title="">EPA Administrator</a></li>
+<li class="menu-item"><a class="menu-link" href="/aboutepa/current-epa-leadership" title="">Current Leadership</a></li>
+<li class="menu-item"><a class="menu-link" href="/aboutepa/epa-organization-chart" title="">Organization Chart</a></li>
+<li class="menu-item"><a class="menu-link" href="http://cfpub.epa.gov/locator/index.cfm" title="">Staff Directory</a></li>
+<li class="menu-item"><a class="menu-link" href="/planandbudget" title="">Planning, Budget and Results</a></li>
+<li class="menu-item"><a class="menu-link" href="/careers" title="">Jobs and Internships</a></li>
+<li class="menu-item"><a class="menu-link" href="/aboutepa#pane-2" title="">Headquarters Offices</a></li>
+<li class="menu-item"><a class="menu-link" href="/aboutepa#pane-4" title="">Regional Offices</a></li>
+<li class="menu-item"><a class="menu-link" href="/aboutepa#pane-5" title="">Labs and Research Centers</a></li>
+</ul></li>
+</ul> </div>
+</nav>
+<section class="main-content clearfix" id="main-content" lang="en" role="main">
+<h2 class="microsite-name">Greenhouse Gas Emissions</h2>
+<div class="region-preface clearfix"> <div class="block block-pane block-pane-epa-web-area-connect" id="block-pane-epa-web-area-connect">
+<span class="connect-title"><a class="connect-title__link" href="/ghgemissions/forms/contact-us-about-greenhouse-gas-emissions">Contact Us</a></span>
+</div>
+<div class="block block-pane block-pane-social-sharing" id="block-pane-social-sharing">
+<span class="connect-title">Share</span>
+<ul class="share-links">
+<li class="share-links__item facebook">
+<a aria-label="Facebook" class="share-links__link" href="https://www.facebook.com/sharer.php?u=https://www.epa.gov/ghgemissions/myths-vs-facts-denial-petitions-reconsideration-endangerment-and-cause-or-contribute&amp;t=Myths%20vs.%20Facts%3A%20Denial%20of%20Petitions%20for%20Reconsideration%20of%20the%20Endangerment%20and%20Cause%20or%20Contribute%20Findings%20for%20Greenhouse%20Gases%20under%20Section%20202%28a%29%20of%20the%20Clean%20Air%20Act" rel="noopener noreferrer" target="_blank" title="Share this page on Facebook">
+<svg aria-hidden="true" class="icon icon--social-link">
+<use xlink:href="/sites/all/themes/epa/img/svg/small-icons.svg#small-facebook"></use>
+</svg>
+</a>
+</li>
+<li class="share-links__item twitter">
+<a aria-label="Twitter" class="share-links__link" href="https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/ghgemissions/myths-vs-facts-denial-petitions-reconsideration-endangerment-and-cause-or-contribute&amp;text=Myths%20vs.%20Facts%3A%20Denial%20of%20Petitions%20for%20Reconsideration%20of%20the%20Endangerment%20and%20Cause%20or%20Contribute%20Findings%20for%20Greenhouse%20Gases%20under%20Section%20202%28a%29%20of%20the%20Clean%20Air%20Act&amp;url=https://www.epa.gov/ghgemissions/myths-vs-facts-denial-petitions-reconsideration-endangerment-and-cause-or-contribute&amp;via=EPA&amp;count=none&amp;lang=en" rel="noopener noreferrer" target="_blank" title="Tweet this page">
+<svg aria-hidden="true" class="icon icon--social-link">
+<use xlink:href="/sites/all/themes/epa/img/svg/small-icons.svg#small-twitter"></use>
+</svg>
+</a>
+</li>
+<li class="share-links__item pinterest">
+<a aria-label="Pinterest" class="share-links__link" href="https://pinterest.com/pin/create/button/?url=https://www.epa.gov/ghgemissions/myths-vs-facts-denial-petitions-reconsideration-endangerment-and-cause-or-contribute&amp;description=Myths%20vs.%20Facts%3A%20Denial%20of%20Petitions%20for%20Reconsideration%20of%20the%20Endangerment%20and%20Cause%20or%20Contribute%20Findings%20for%20Greenhouse%20Gases%20under%20Section%20202%28a%29%20of%20the%20Clean%20Air%20Act&amp;media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png" rel="noopener noreferrer" target="_blank" title="Pin this page">
+<svg aria-hidden="true" class="icon icon--social-link">
+<use xlink:href="/sites/all/themes/epa/img/svg/small-icons.svg#small-pinterest"></use>
+</svg>
+</a>
+</li>
+<li class="share-links__item email">
+<a aria-label="Email this page" class="share-links__link" href="mailto:%20?subject=Shared%20from%20the%20US%20EPA:%20Myths%20vs.%20Facts%3A%20Denial%20of%20Petitions%20for%20Reconsideration%20of%20the%20Endangerment%20and%20Cause%20or%20Contribute%20Findings%20for%20Greenhouse%20Gases%20under%20Section%20202%28a%29%20of%20the%20Clean%20Air%20Act&amp;body=Myths%20vs.%20Facts%3A%20Denial%20of%20Petitions%20for%20Reconsideration%20of%20the%20Endangerment%20and%20Cause%20or%20Contribute%20Findings%20for%20Greenhouse%20Gases%20under%20Section%20202%28a%29%20of%20the%20Clean%20Air%20Act%20-%20https://www.epa.gov/ghgemissions/myths-vs-facts-denial-petitions-reconsideration-endangerment-and-cause-or-contribute">
+<svg aria-hidden="true" class="icon icon--social-link">
+<use xlink:href="/sites/all/themes/epa/img/svg/small-icons.svg#small-email"></use>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="main-column clearfix">
+<!--googleon: all-->
+<h1 class="page-title">Myths vs. Facts: Denial of Petitions for Reconsideration of the Endangerment and Cause or Contribute Findings for Greenhouse Gases under Section 202(a) of the Clean Air Act</h1>
+<!--googleoff: all-->
+<!--googleon: all-->
+<div class="panel-pane pane-node-content">
+<div class="pane-content">
+<div class="node node-page clearfix view-mode-full">
+<p><strong>Myth:</strong> The University of East Anglia's Climatic Research Unit (CRU) emails prove that temperature data and trends were manipulated.</p>
+<p><strong>Fact:</strong> Not true. Petitioners say that emails disclosed from CRU provide evidence of a conspiracy to manipulate data. The media coverage after the emails were released was based on email statements quoted out of context and on unsubstantiated theories of conspiracy. The CRU emails do not show either that the science is flawed or that the scientific process has been compromised. EPA carefully reviewed the CRU emails and found no indication of improper data manipulation or misrepresentation of results.</p>
+<p><strong>Myth:</strong> The jury is still out on climate change and CRU emails undermine the credibility of climate change science overall.</p>
+<p><strong>Fact:</strong> Climate change is real and it is happening now. The U.S. Global Change Research Program, the National Academy of Sciences, and the Intergovernmental Panel on Climate Change (IPCC) have each independently concluded that warming of the climate system in recent decades is "unequivocal." This conclusion is not drawn from any one source of data but is based on multiple lines of evidence, including three worldwide temperature datasets showing nearly identical warming trends as well as numerous other independent indicators of global warming (e.g., rising sea levels, shrinking Arctic sea ice). Some people have "cherry-picked" a limited selection of CRU email statements to draw broad, unsubstantiated conclusions about the validity of all climate science.</p>
+<p><strong>Myth:</strong> The CRU emails and several errors found in the most recent IPCC report undermine the credibility of the IPCC Fourth Assessment Report.</p>
+<p><strong>Fact:</strong> The IPCC's primary conclusions are based on an assessment of thousands of individual studies and collective insights from the comprehensive climate science literature. Although many errors were alleged, EPA confirmed only two errors. The small number of documented errors are not central to IPCC's main conclusions or to EPA's Endangerment Finding. In a report of such magnitude, a few errors do not undermine the credibility of the entire work of the IPCC. The process used by the IPCC stands as one of the most comprehensive, rigorous, and transparent ever conducted on a complex set of scientific issues.</p>
+<p><strong>Myth:</strong> EPA misstepped when it did not do its own scientific analysis of climate change to inform the Endangerment Finding and instead relied on existing scientific assessments.</p>
+<p><strong>Fact:</strong> EPA relied on major scientific assessments, including reports from the U.S. Global Change Research Program, National Academy of Sciences, and IPCC, because they represent the best available information to determine the state of climate change science. These assessments are designed to address the breadth and scope of all published literature and undergo multiple levels of rigorous review. This approach ensures that EPA benefits from the depth and strength of thousands of climate scientists.</p>
+<p class="pagetop"><a href="#main-content">Top of Page</a></p>
+</div>
+</div>
+</div>
+<div class="block block-pane block-pane-epa-web-area-footer" id="block-pane-epa-web-area-footer">
+<p class="web-area-footer"><a class="contact-us" href="/ghgemissions/forms/contact-us-about-greenhouse-gas-emissions">Contact Us</a> to ask a question, provide feedback, or report a problem.</p>
+</div>
+<!--googleoff: all-->
+</div>
+<div class="region-sidebar-first region-sidebar"> <div class="block block-og-menu block-og-menu-og-single-menu-block" id="block-og-menu-og-single-menu-block">
+<h2 class="element-invisible">Greenhouse Gas Emissions</h2>
+<ul class="menu"><li class="expanded menu-item"><a class="menu-node-unpublished menu-link" href="/ghgemissions" title="">Greenhouse Gas Emissions</a><ul class="menu"><li class="menu-item"><a class="menu-node-unpublished menu-link" href="/ghgemissions/overview-greenhouse-gases">Overview of Greenhouse Gases</a></li>
+<li class="menu-item"><a class="menu-node-unpublished menu-link" href="/ghgemissions/sources-greenhouse-gas-emissions">Sources of Greenhouse Gas Emissions</a></li>
+<li class="menu-item"><a class="menu-node-unpublished menu-link" href="/ghgemissions/global-greenhouse-gas-emissions-data">Global Emissions</a></li>
+<li class="menu-item"><a class="menu-node-unpublished menu-link" href="/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks">National Emissions</a></li>
+<li class="menu-item"><a class="menu-link" href="/ghgreporting" title="">Facility-Level Emissions</a></li>
+<li class="menu-item"><a class="menu-node-unpublished menu-link" href="/ghgemissions/household-carbon-footprint-calculator">Carbon Footprint Calculator</a></li>
+<li class="menu-item"><a class="menu-link" href="http://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator" title="">GHG Equivalencies Calculator </a></li>
+</ul></li>
+</ul>
+</div>
+</div>
+</section>
+<footer class="main-footer clearfix" role="contentinfo">
+<div class="main-footer__inner">
+<div class="region-footer"> <div class="block block-pane block-pane-epa-global-footer" id="block-pane-epa-global-footer">
+<div class="row cols-3">
+<div class="col size-1of3">
+<div class="col__title">Discover.</div>
+<ul class="menu">
+<li><a href="/accessibility">Accessibility</a></li>
+<li><a href="/aboutepa/epas-administrator">EPA Administrator</a></li>
+<li><a href="/planandbudget">Budget &amp; Performance</a></li>
+<li><a href="/contracts">Contracting</a></li>
+<li><a href="/home/grants-and-other-funding-opportunities">Grants</a></li>
+<li><a href="https://19january2017snapshot.epa.gov">January 19, 2017 Web Snapshot</a></li>
+<li><a href="/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees">No FEAR Act Data</a></li>
+<li><a href="/privacy">Privacy</a></li>
+<li><a href="/privacy/privacy-and-security-notice">Privacy and Security Notice</a></li>
+</ul>
+</div>
+<div class="col size-1of3">
+<div class="col__title">Connect.</div>
+<ul class="menu">
+<li><a href="https://www.data.gov/">Data.gov</a></li>
+<li><a href="/office-inspector-general/about-epas-office-inspector-general">Inspector General</a></li>
+<li><a href="/careers">Jobs</a></li>
+<li><a href="/newsroom">Newsroom</a></li>
+<li><a href="/open">Open Government</a></li>
+<li><a href="https://www.regulations.gov/">Regulations.gov</a></li>
+<li><a href="/newsroom/email-subscriptions">Subscribe</a></li>
+<li><a href="https://www.usa.gov/">USA.gov</a></li>
+<li><a href="https://www.whitehouse.gov/">White House</a></li>
+</ul>
+</div>
+<div class="col size-1of3">
+<div class="col__title">Ask.</div>
+<ul class="menu">
+<li><a href="/home/forms/contact-epa">Contact Us</a></li>
+<li><a href="/home/epa-hotlines">Hotlines</a></li>
+<li><a href="/foia">FOIA Requests</a></li>
+<li><a href="/home/frequent-questions-specific-epa-programstopics">Frequent Questions</a></li>
+</ul>
+<div class="col__title">Follow.</div>
+<ul class="social-menu">
+<li><a class="menu-link social-facebook" href="https://www.facebook.com/EPA">Facebook</a></li>
+<li><a class="menu-link social-twitter" href="https://twitter.com/epa">Twitter</a></li>
+<li><a class="menu-link social-youtube" href="https://www.youtube.com/user/USEPAgov">YouTube</a></li>
+<li><a class="menu-link social-flickr" href="https://www.flickr.com/photos/usepagov">Flickr</a></li>
+<li><a class="menu-link social-instagram" href="https://www.instagram.com/epagov">Instagram</a></li>
+</ul>
+<p class="last-updated">Last updated on July 11, 2017</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script src="https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script src="https://www.epa.gov/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.epa.gov/misc/drupal.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script src="https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script src="https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2"></script>
+<script src="https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2"></script>
+<script>
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script src="https://www.epa.gov/sites/all/modules/contrib/picture/picturefill2/picturefill.js?v=2.0"></script>
+<script src="https://www.epa.gov/sites/all/modules/contrib/picture/picture.js?v=7.63"></script>
+<script src="https://www.epa.gov/sites/all/libraries/hoverIntent/jquery.hoverIntent.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/modules/custom/epa_core/js/alert.www.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/modules/custom/epa_core/js/close-alert.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/libraries/tablesorter/jquery.tablesorter.min.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/modules/custom/epa_core/js/search-autocomplete.min.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/modules/custom/add_definitions/add_definitions.min.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/themes/epa/js/script.min.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/themes/epa/js/mobile-menu.min.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/themes/epa/js/drop-down-menu.min.js?pn8x9e"></script>
+<script src="https://www.epa.gov/sites/all/themes/epa/js/svgxuse.min.js?pn8x9e"></script>
+<script>
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"epa","theme_token":"pPPAkKCKRVXM8Eu1LHRqAQSd3IBbPB-qHBaPJku5nlg"},"epa_wysiwyg":{"site_default_lang":"en"},"add_definitions":{"path":"sites\/all\/modules\/custom\/add_definitions","dictionary_filter":"1","dictionary_undo":"1","dictionary_occurrences":"1","service_endpoint":"https:\/\/ofmpub.epa.gov\/termlookup\/v1\/terms"},"ogContext":{"groupType":"node","gid":"126337"}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/sites/all/themes/epa/js/ie.min.js"></script><![endif]--></body>
+</html>
+<!-- Page cached by Boost @ 2019-02-23 11:15:22, expires @ 2019-02-25 11:15:22, lifetime 2 days -->

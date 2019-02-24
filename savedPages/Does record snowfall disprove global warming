@@ -1,0 +1,769 @@
+
+<!DOCTYPE HTML>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="NOARCHIVE" name="ROBOTS"/>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<title>Does record snowfall disprove global warming?</title>
+<!-- Does record snowfall disprove global warming? -->
+<!-- Does record snowfall disprove global warming? -->
+<meta content="Eo1LRXgYEcwODbLBc5a-IsdHpAY6ikT1Iz5TRXEscp8" name="google-site-verification">
+<meta content="global warming, skeptics, skepticism, climate change, CO2 emissions" name="keywords"/>
+<meta content="To claim that record snowfall is inconsistent with a warming world betrays a lack of understanding of the link between global warming and extreme precipitation. Warming causes more moisture in the air which leads to more extreme precipitation events. This includes more heavy snowstorms in regions where snowfall conditions are favourable. Far from contradicting global warming, record snowfall is predicted by climate models and consistent with our expectation of more extreme precipitation events." name="description"/>
+<meta content="http://www.skepticalscience.com/images/_core/head/button_sks_200.jpg" property="og:image">
+<meta content="http://www.skepticalscience.com/images/_core/head/button_sks2_200.jpg" property="og:image">
+<meta content="Skeptical Science" property="og:site_name"/>
+<link href="layout2.css" rel="stylesheet" type="text/css"/>
+<link href="layout2posts.css" rel="stylesheet" type="text/css"/>
+<link href="layouttcp.css" rel="stylesheet" type="text/css"/>
+<link href="layout2print.css" media="print" rel="stylesheet" type="text/css"/>
+<link href="presentation2.css" rel="stylesheet" type="text/css"/>
+<link href="datepicker.css" rel="stylesheet" type="text/css"/>
+<link href="tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Orbitron" rel="stylesheet" type="text/css"/> <!--
+		<link href='//fonts.googleapis.com/css?family=Syncopate' rel='stylesheet' type='text/css'>
+		<link href='//fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
+		<link href='//fonts.googleapis.com/css?family=Codystar' rel='stylesheet' type='text/css'>
+		-->
+<!-- Added CSS for tip definitions -->
+<link href="skstips/css/slide.css" media="screen" rel="stylesheet" type="text/css"> <!-- FOR SKS PANEL -->
+<link href="skstips/css/jquery.jgrowl.sks.css" rel="stylesheet" type="text/css"/><!--SkSTD-->
+<link href="skstips/css/skstips.css" rel="stylesheet" type="text/css"/><!--SkSTD-->
+<!-- End of CSS for tip definitions -->
+<link href="feed.xml" rel="alternate" title="Skeptical Science RSS" type="application/rss+xml"/><!--  was href="http://www.skepticalscience.com/feed.xml" -->
+<!--script type="text/javascript" src="//s7.addthis.com/static/r07/menu97.js"></script-->
+<!--script src='http://static.1.rp-api.com/rjs/repostus.js' type='text/javascript'></script> <meta content='32b8eec9f4678a6425a6e2de6c4f2a46' name='RepostUsAPIKey' /-->
+<script src="datepicker.js" type="text/javascript"></script>
+<script src="menuItems.js" type="text/javascript"></script>
+<script src="menu.js" type="text/javascript"></script>
+<script src="skstips/js/jquery-1.9.0.min.js" type="text/javascript"></script> <script src="skstips/js/jquery-migrate-1.0.0.js"></script> <script src="jscripts/zoombie.js" type="text/javascript"></script>
+<!-- Added javascript for tip definitions -->
+<script src="skstips/js/jquery-ui.min.js" type="text/javascript"></script>
+<script src="skstips/js/jquery.jgrowl.js" type="text/javascript"></script><!--SkSTD-->
+<script src="skstips/js/jquery.jstree.js" type="text/javascript"></script><!--FOR SLIDING PANEL-->
+<script src="skstips/js/jquery.cookie.js" type="text/javascript"></script><!--FOR SLIDING PANEL-->
+<script src="skstips/js/jquery.hotkeys.js" type="text/javascript"></script><!--FOR SLIDING PANEL-->
+<script src="skstips/js/json2.js" type="text/javascript"></script><!--FOR SLIDING PANEL-->
+<script src="skstips/jsgen/skstiptionary_1546196651289.js" type="text/javascript"></script><!--SkSTD-->
+<script src="skstips/js/skstipsinit.js" type="text/javascript"></script><!--SkSTD-->
+<script src="skstips/js/skstips.js" type="text/javascript"></script><!--SkSTD-->
+<script src="skstips/js/slide.js" type="text/javascript"></script><!-- FOR SLIDING PANEL -->
+<!-- End of code for tip definitions -->
+<script src="tweet/jquery.tweet.js" type="text/javascript"></script>
+<script type="text/javascript">
+		    $(document).ready(function(){
+		        $(".tweet").tweet({
+		            username: "skepticscience",
+		            join_text: "auto",
+		            count: 7,
+		            loading_text: "loading tweets..."
+		        });
+		    });
+		</script>
+<script src="jscripts/tiny_mce_old/tiny_mce.js" type="text/javascript"></script>
+<script type="text/javascript">
+tinymce.init({
+        mode : 'specific_textareas',
+        editor_selector : 'mceCommentEditor',
+        theme : 'ribbon',
+        plugins : 'advimage,table,tablegrid,inlinepopups,preview,paste',
+//      plugins : 'image,table,tablegrid,preview,paste', // Tiny MCE 4
+        paste_remove_styles: true,
+        paste_text_sticky: true,
+        paste_text_sticky_default: true,
+//      inlinepopups_skin : 'ribbon_popup',
+        theme_ribbon_tab1 : {   title : "Basic",
+                                        items : [["bold,italic,underline,strikethrough"],["sub,sup"],["bullist,numlist"],["outdent,indent,blockquote"],["preview"]]
+							},
+        theme_ribbon_tab2 : {   title : "Insert",
+                                        items : [["image","tablegrid"],["link,unlink"]]//,["charmap,hr"]]
+							},
+		theme_ribbon_tab3 : {   title : "Source",
+								source : true
+							},
+        theme_ribbon_tab4 : {   title : "Table",
+										bind : "table",
+                                        items : [["row_props","cell_props"],["delete_col,delete_row,delete_table"],["col_after,col_before,row_after,row_before"],["split_cells,merge_cells"]]
+							}//,
+//      theme_ribbon_tab5 : {   title : "Image",
+//									bind : "img",
+//                                  items : [["image_float_left", "image_float_right", "image_float_none"],
+//                                              ["image_alt"],
+//                                              ["image_width_plus", "|", "image_width_min", "|", "image_width_original"],     
+//                                              ["image_edit", "|", "image_remove"]]
+//  						}
+});
+</script>
+<script type="text/javascript">
+		function confirmIt(where, msg)
+			{
+			if (confirm(msg))
+				{
+				window.location.href = ''+where+'';
+				return true;
+				}
+			else
+				{
+				return;
+				}
+			}
+	</script>
+<script>
+		//	Add zoombie zoom lens to any image with "zoom" in the ID
+		$(function () {
+			$("#mainbody img").each(function (index) {
+							if (this.id && this.id.match(/zoom/i) && this.naturalWidth > this.width)
+								$(this).zoombieLens({ Size: 200 });
+							else if (this.className.match(/zoomable/i) && this.naturalWidth > this.width)
+								$(this).zoombieLens({ Size: 200 });
+							else if (this.parentNode && this.parentNode.className.match(/zoomable/i) && this.naturalWidth > this.width)
+								$(this).zoombieLens({ Size: 200 });
+					});
+			});
+	</script>
+<link href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" rel="stylesheet" type="text/css"/>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#4b81e8"
+    }
+  },
+  "position": "top",
+  "static": true,
+  "content": {
+    "message": "Skeptical Science uses cookies to help ensure the site runs well for you and other users. ",
+    "href": "privacy.shtml"
+  }
+})});
+</script>
+</link></meta></meta></meta></head>
+<body><!-- Panel -->
+<div id="toppanel">
+<!-- The tab on top -->
+<div class="tabset">
+<ul class="tabs" id="skstabs">
+<li class="corner left" id="termleft"> </li>
+<li id="termmain">
+<a class="open" href="javascript: void(0);" id="termopen">Look up a Term</a>
+<a class="close" href="javascript: void(0);" id="termclose" style="display: none;">Close Panel</a>
+</li>
+<li class="corner right" id="termright"> </li>
+<li class="under hidden" id="clammain">
+<a class="open" href="javascript: void(0);" id="clamopen">CLAM Bake</a>
+<a class="close" href="javascript: void(0);" id="clamclose" style="display: none;">Close Clams</a>
+</li>
+<li class="corner right under hidden" id="clamright"> </li>
+</ul>
+</div> <!-- / top -->
+<div id="panel">
+<div class="content notclearfix" id="termContent">
+<div class="subpanels" id="termSlide">
+<div class="subpanel" id="termPanel" style="left: 0">
+<div class="left">
+<h1>Climate Science Glossary</h1>
+<h2>Term Lookup</h2>
+<p class="grey">Enter a term in the search box to find its definition.</p>
+<h2>Settings</h2>
+<p class="grey">Use the controls in the far right panel to increase or decrease the number of terms automatically displayed (or to completely turn that feature off).</p>
+</div>
+<div class="left">
+<!-- Term Lookup -->
+<!--form class="clearfix" action="#" method="post"-->
+<h1>Term Lookup</h1>
+<label class="grey" for="termLookup">Term:</label>
+<input class="field" id="termLookup" name="termLookup" type="text" value=""/>
+<div class="clear"></div>
+<button class="bt_dark" id="defineTerm" onclick="defineSksTip()">Define</button>
+<!--/form-->
+</div>
+<div class="left right">
+<!-- Automatic Lookup Settings -->
+<!--form action="#" method="post"-->
+<h1>Settings</h1>
+<label><input checked="checked" id="sksBeginner" name="sksBeginner" onclick="applySksSettings(true)" type="checkbox" value="beginner"/>  Beginner</label>
+<label><input checked="checked" id="sksIntermediate" name="sksIntermediate" onclick="applySksSettings(true)" type="checkbox" value="intermediate"/>  Intermediate</label>
+<label><input checked="checked" id="sksAdvanced" name="sksAdvanced" onclick="applySksSettings(true)" type="checkbox" value="advanced"/>  Advanced</label>
+<label><input checked="" id="sksNoTerms" name="sksNoTerms" onclick="applySksSettings()" type="checkbox" value="noterms"/>  No Definitions</label>
+<label for="sksTipLife">Definition Life:</label>
+<select id="sksTipLife" name="sksTipLife" onchange="applySksSettings()" style="width: 100px">
+<option value="5000">5  seconds</option>
+<option value="10000">10 seconds</option>
+<option selected="selected" value="20000">20 seconds</option>
+<option value="30000">30 seconds</option>
+<option value="60000">1 minute</option>
+<option value="0">Until closed</option>
+</select>
+<!--/form-->
+</div>
+<div style="clear: both; padding: 5px 50px">
+<hr/>
+<em>All IPCC definitions taken from Climate Change 2007: The Physical Science Basis. Working Group I Contribution to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Annex I, Glossary, pp. 941-954. Cambridge University Press. </em>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> <!--panel -->
+<!--  For Facebook reposts -->
+<img src="images/_core/head/button_sks_200.jpg" style="display: none"/>
+<img src="images/_core/head/button_sks2_200.jpg" style="display: none;"/>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1020">
+<tr>
+<td colspan="5" id="hdr" valign="top">
+<div style="background: url(environment/environmentid.png) repeat-x 0 0; height: 100px;">
+<p style="float:right; margin-right:5px; margin-top:8px">
+<a href="argument.php" title="View skeptic arguments in English">
+<img src="images/_core/head/wflag_english.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=14" title="View translations in Chinese">
+<img src="images/_core/head/wflag_chinese.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=1" title="View translations in Czech">
+<img src="images/_core/head/wflag_czech.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=29" title="View translations in Croatian">
+<img src="images/_core/head/wflag_croatian.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=5" title="View translations in Danish">
+<img src="images/_core/head/wflag_danish.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=15" title="View translations in Dutch">
+<img src="images/_core/head/wflag_dutch.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=2" title="View translations in Finnish">
+<img src="images/_core/head/wflag_finnish.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=12" title="View translations in French">
+<img src="images/_core/head/wflag_french.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=6" title="View translations in German">
+<img src="images/_core/head/wflag_german.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=21" title="View translations in Hebrew">
+<img src="images/_core/head/wflag_israel.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=28" title="View translations in Hungarian">
+<img src="images/_core/head/wflag_hungarian.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=8" title="View translations in Icelandic">
+<img src="images/_core/head/wflag_icelandic.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=24" title="View translations in Indonesian">
+<img src="images/_core/head/wflag_indonesian.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=17" title="View translations in Italian">
+<img src="images/_core/head/wflag_italian.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=11" title="View translations in Japanese">
+<img src="images/_core/head/wflag_japanese.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=32" title="View translations in Korean">
+<img src="images/_core/head/wflag_korean.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=23" title="View translations in Norwegian">
+<img src="images/_core/head/wflag_norwegian.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=9" title="View translations in Polish">
+<img src="images/_core/head/wflag_polish.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=10" title="View translations in Portuguese">
+<img src="images/_core/head/wflag_portugese.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=16" title="View translations in Russian">
+<img src="images/_core/head/wflag_russian.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=19" title="View translations in Slovak">
+<img src="images/_core/head/wflag_slovak.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=22" title="View translations in Slovenian">
+<img src="images/_core/head/wflag_slovene.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=4" title="View translations in Spanish">
+<img src="images/_core/head/wflag_spanish.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=7" title="View translations in Swedish">
+<img src="images/_core/head/wflag_swedish.gif" style="margin-right:5px"/>
+</a><a href="translation.php?lang=18" title="View translations in Thai">
+<img src="images/_core/head/wflag_thai.gif" style="margin-right:5px"/>
+</a></p></div>
+</td>
+</tr>
+<tr>
+<td colspan="5" id="bar">
+<a href="./">Home</a>
+<a href="argument.php" onmouseout="deactivate(1);" onmouseover="activate(1);"><img id="image1" src="images/_core/head/p.gif"/>Arguments</a>
+<a href="software.shtml" onmouseout="deactivate(2);" onmouseover="activate(2);"><img id="image2" src="images/_core/head/p.gif"/>Software</a>
+<a href="resources.shtml" onmouseout="deactivate(3);" onmouseover="activate(3);"><img id="image3" src="images/_core/head/p.gif"/>Resources</a>
+<a href="comments.php">Comments</a>
+<a href="tcp.php?t=home" onmouseout="deactivate(6);" onmouseover="activate(6);"><img id="image6" src="images/_core/head/p.gif"/>The Consensus Project</a>
+<a href="translation.php" onmouseout="deactivate(4);" onmouseover="activate(4);"><img id="image4" src="images/_core/head/p.gif"/>Translations</a>
+<a href="about.shtml" onmouseout="deactivate(5);" onmouseover="activate(5);"><img id="image5" src="images/_core/head/p.gif"/>About</a>
+<a href="donate.php">Donate</a>
+</td>
+</tr>
+<tr valign="top"> <!--  Start the main (content) row -->
+<td id="leftmargin" width="210">
+<img height="7" src="images/_core/head/left_top_shadow.gif" width="210"><br/>
+<form action="search.php" method="get" name="SearchForm" style="margin:0 10px">
+<input name="Search" onclick="this.value='';" style="vertical-align:middle" type="text" value="Search..."/><input src="images/_core/head/button_go.gif" style="vertical-align:middle" type="image">
+</input></form>
+<p style="margin:10px 0 0 10px">
+<a href="http://twitter.com/skepticscience" target="_new"><img alt="Twitter" src="images/_core/head/icon_twitter.gif" title="Twitter"/></a>
+<a href="http://www.facebook.com/SkepticalScience" target="_new"><img alt="Facebook" src="images/_core/head/icon_facebook.gif" title="Facebook"/></a>
+<a href="http://www.youtube.com/user/SkepticalScience" target="_new"><img alt="YouTube" src="images/_core/head/icon_youtube.gif" title="YouTube"/></a>
+<a href="http://pinterest.com/skepscience/" target="_new"><img alt="Pinterest" src="images/_core/head/icon_pinterest.gif" title="Pinterest"/></a>
+</p>
+<p style="margin:10px 0 0 10px">
+<a href="feed.xml" rel="alternate" type="application/rss+xml"><img alt="RSS Posts" src="images/_core/head/icon_rss_posts.gif" style="vertical-align:top" title="RSS Posts"/></a>
+<a href="comments.xml" rel="alternate" type="application/rss+xml"><img alt="RSS Comments" src="images/_core/head/icon_rss_comments.gif" style="vertical-align:top" title="RSS Comments"/></a>
+<a href="subscribe.php"><img alt="Email Subscribe" src="images/_core/head/icon_email2.gif" style="vertical-align:top"/></a>
+</p>
+<img height="2" src="images/_core/head/left_divider.gif" style="margin:7px 0" width="210"><br/>
+<a href="argument.php"><img height="84" src="images/_core/head/left_header.gif" style="display:block" width="210"/></a>
+<table border="0" cellpadding="0" cellspacing="0" style="margin-left:5px">
+<tr>
+<td width="32"><img src="images/_core/head/left_1.gif"/></td>
+<td><a href="climate-change-little-ice-age-medieval-warm-period.htm">Climate's changed before</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_2.gif"/></td>
+<td><a href="solar-activity-sunspots-global-warming.htm">It's the sun</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_3.gif"/></td>
+<td><a href="global-warming-positives-negatives.htm">It's not bad</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_4.gif"/></td>
+<td><a href="global-warming-scientific-consensus.htm">There is no consensus</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_5.gif"/></td>
+<td><a href="global-cooling.htm">It's cooling</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_6.gif"/></td>
+<td><a href="climate-models.htm">Models are unreliable</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_7.gif"/></td>
+<td><a href="surface-temperature-measurements.htm">Temp record is unreliable</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_8.gif"/></td>
+<td><a href="Can-animals-and-plants-adapt-to-global-warming.htm">Animals and plants can adapt</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_9.gif"/></td>
+<td><a href="global-warming-stopped-in-1998.htm">It hasn't warmed since 1998</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_10.gif"/></td>
+<td><a href="antarctica-gaining-ice.htm">Antarctica is gaining ice</a></td>
+</tr>
+<tr>
+<td width="32"><img src="images/_core/head/left_11.gif"/></td>
+<td><a href="argument.php">View All Arguments...</a></td>
+</tr>
+</table>
+<img src="images/_core/head/left_therm_bottom.gif"><br/>
+<img height="2" src="images/_core/head/left_divider.gif" style="margin:7px 0" width="210"><br/>
+<p align="center" style="margin:5px 0 0 0">
+<a href="ipcc.php"><img src="images/_core/left_margin/IPCC_88.jpg"/></a>
+<a href="rcp.php"><img src="images/_core/left_margin/rcp_icon.jpg"/></a>
+</p>
+<p align="center" style="margin:5px 0 0 0">
+<a href="tcp.php?t=home"><img src="images/_core/left_margin/theConsensusProject_88.png"/></a>
+<a href="trend.php"><img src="images/_core/left_margin/trend_button_88.jpg"/></a>
+</p>
+<p align="center" style="margin:5px 0 0 0">
+<a href="search.php?Search=prudent+path"><img src="images/_core/left_margin/pp88.jpg"/></a>
+<a href="search.php?Search=Predictions_150"><img src="images/_core/left_margin/Predictions_88.jpg"/></a>
+</p>
+<p align="center" style="margin:5px 0 0 0">
+<a href="search.php?Search=mackieOAposts"><img src="images/_core/left_margin/button_oanotok_88.jpg"/></a>
+<a href="skepticquotes.php"><img src="images/_core/left_margin/climate_myths88.jpg"/></a>
+</p>
+<p align="center" style="margin:5px 0 0 0">
+<a href="http://sks.to/history"><img src="images/_core/left_margin/button_history.gif"/></a>
+<a href="misinformers.php"><img src="images/_core/left_margin/button_misinformers_88.gif"/></a>
+</p>
+<img height="2" src="images/_core/head/left_divider.gif" style="margin:7px 0" width="210"><br/>
+<form method="post" name="form1" style="margin:0 0 0 10px">
+<input name="Login" type="hidden" value="1"/>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr><td>Username</td><td width="5"></td><td><input name="Username" style="width:80px;" type="text"/></td></tr>
+<tr><td>Password</td><td></td><td><input name="Password" style="width:80px;" type="password"/></td></tr>
+<tr><td colspan="3"><input checked="" name="AutoLogin" type="checkbox"/> Keep me logged in</td></tr>
+<tr><td><input src="images/_core/head/button_login.gif" type="image"/></td><td></td><td><a href="register.php">New? Register here</a></td></tr>
+<tr><td colspan="3"><a href="password.php">Forgot your password?</a></td></tr>
+</table>
+</form>
+<img height="2" src="images/_core/head/left_divider.gif" style="margin:7px 0" width="210"><br/>
+<h2 style="margin-left:10px">Latest Posts</h2></img></img></img></img></img></img></td></tr></table></body></html>
+<ul>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-News-Roundup_08.html">2019 SkS Weekly Climate Change &amp; Global Warming News Roundup #8</a></li>
+<li style="margin-bottom:5px"><a href="new_research_20190211.html">New research, February 11-17, 2019</a></li>
+<li style="margin-bottom:5px"><a href="coal-use-peaked-2014.html">Global coal use may have peaked in 2014, says latest IEA World Energy Outlook</a></li>
+<li style="margin-bottom:5px"><a href="new-light-antarctica-contribution-slr.html">Studies shed new light on Antarctica’s future contribution to sea level rise</a></li>
+<li style="margin-bottom:5px"><a href="swedish-teenager-compelling-plea.html">A Swedish Teenager's Compelling Plea on Climate</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-Digest_07.html">2019 SkS Weekly Climate Change &amp; Global Warming Digest #7</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-News-Roundup_07.html">2019 SkS Weekly Climate Change &amp; Global Warming News Roundup #7</a></li>
+<li style="margin-bottom:5px"><a href="new_research_20190204.html">New research, February 4-10, 2019</a></li>
+<li style="margin-bottom:5px"><a href="climate-damages-51-per-ton.html">Climate Damages: Uncertain but Ominous, or $51 per Ton?</a></li>
+<li style="margin-bottom:5px"><a href="Angus-Taylor-Interview.html">A Duplicitous Minister?</a></li>
+<li style="margin-bottom:5px"><a href="buying-insurance-ignoring-cost-benefit.html">On Buying Insurance, and Ignoring Cost-Benefit Analysis</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-Digest_06.html">2019 SkS Weekly Climate Change &amp; Global Warming Digest #6</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-News-Roundup_06.html">2019 SkS Weekly Climate Change &amp; Global Warming News Roundup #6</a></li>
+<li style="margin-bottom:5px"><a href="new_research_20190128.html">New research, January 28 - February 3, 2019</a></li>
+<li style="margin-bottom:5px"><a href="EVs-are-crucial.html">EV’s:  Crucial to Reducing CO2 Emissions</a></li>
+<li style="margin-bottom:5px"><a href="methane-time-bomb-concern.html">The Methane 'Time Bomb': How big a concern?</a></li>
+<li style="margin-bottom:5px"><a href="oceans-routinely-break-heat-records.html">Earth’s oceans are routinely breaking heat records</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-Digest_05.html">2019 SkS Weekly Climate Change &amp; Global Warming Digest #5</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-News-Roundup_05.html">2019 SkS Weekly Climate Change &amp; Global Warming News Roundup #5</a></li>
+<li style="margin-bottom:5px"><a href="new_research_20190121.html">New research, January 21-27, 2019</a></li>
+<li style="margin-bottom:5px"><a href="GND-must-not-sabotage-climate-goals.html">A Green New Deal must not sabotage climate goals</a></li>
+<li style="margin-bottom:5px"><a href="SkS_Analogy_18_Cliff_jumping_and_temperature_changes.html">SkS Analogy 18 - Cliff jumping and temperature changes</a></li>
+<li style="margin-bottom:5px"><a href="methane-time-bomb-how-big-concern.html">The Methane 'Time Bomb': How big a concern?</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-Digest_04.html">2019 SkS Weekly Climate Change &amp; Global Warming Digest #4</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-News-Roundup_04.html">2019 SkS Weekly Climate Change &amp; Global Warming News Roundup #4</a></li>
+<li style="margin-bottom:5px"><a href="new_research_20190114.html">New research, January 14-20, 2019</a></li>
+<li style="margin-bottom:5px"><a href="SkS_Analogy_17_Lotteries_evaporation_superstorms.html">SkS Analogy 17 - Lotteries, evaporation, and superstorms</a></li>
+<li style="margin-bottom:5px"><a href="state-of-climate-2018.html">State of the climate: How the world warmed in 2018</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-Digest_03.html">2019 SkS Weekly Climate Change &amp; Global Warming Digest #3</a></li>
+<li style="margin-bottom:5px"><a href="2019-SkS-Weekly-News-Roundup_03.html">2019 SkS Weekly Climate Change &amp; Global Warming News Roundup #3</a></li>
+</ul>
+<p><a href="newsarchives.php">Archives</a></p>
+<p><a href="http://climatehustler.org/">Climate Hustle</a></p>
+ <!--  Define the center (content) column -->
+<td style="background-color:#ffffff;" width="15"><img height="7" src="images/_core/head/right_top_shadow.gif" width="15"/></td>
+<td id="centerColumn" style="background-color:#ffffff;" width="570">
+<img height="7" src="images/_core/head/right_top_shadow.gif" style="display:block" width="570"/>
+<div id="mainbody"><p style="text-align:right; padding-right:20px; margin-bottom:0">
+<a href="translation.php?a=215&amp;l=4" title="View this argument in Spanish"><img src="images/_core/flags/flag_spanish.gif" style="margin-left:10px"/></a><a href="arg_Rekordschneefaelle-widerlegen-globale-Erwaermung.htm" title="View this argument in German"><img src="images/_core/flags/flag_german.gif" style="margin-left:10px"/></a><a href="translation.php?a=215&amp;l=16" title="View this argument in Russian"><img src="images/_core/flags/flag_russian.gif" style="margin-left:10px"/></a><a href="translation.php?a=215&amp;l=17" title="View this argument in Italian"><img src="images/_core/flags/flag_italian.gif" style="margin-left:10px"/></a></p><h1>Does record snowfall disprove global warming?</h1>
+<div style="float:right; margin-right:37px; margin-top:2px"><a href="link_to_us.php?Argument0=215">Link to this page</a></div>
+<h2 style="color:#7DBF18; margin-bottom:0">What the science says...</h2>
+<div style="background-color:#E2F0D2; border:1px solid #C7E3B3; padding:10px 10px; margin:0;">
+<p>To claim that record snowfall is inconsistent with a warming world betrays a lack of understanding of the link between global warming and extreme precipitation. Warming causes more moisture in the air which leads to more extreme precipitation events. This includes more heavy snowstorms in regions where snowfall conditions are favourable. Far from contradicting global warming, record snowfall is predicted by climate models and consistent with our expectation of more extreme precipitation events.</p>
+</div><div class="commenthead"><h2>Climate Myth...</h2></div></div></td>
+<div class="comment"><p style="margin:15px 0 0 15px">Record snowfall disproves global warming<br/>
+		  "Global warming continues to cause trouble to this tiny, blue planet: A new record was set Wednesday when Chicago had its ninth consecutive day of measurable snowfall and Flint, Michigan, broke a 95-year-old record early Wednesday morning when the temperature plummeted to a frigid 19 below zero. The previous record? Minus 10, set in 1914. Meanwhile, it will likely to continue to snow in Chicago in the coming days. Global warming sure is… <em>cold!"</em> (<a href="http://www.theatlanticright.com/2009/01/15/global-warming-hits-america-record-snowfall/">Michael van der Galien</a>)</p></div><p><p>The 2009/2010 winter saw a number of dramatic, record breaking snowstorms. Early February saw two "once in a 100 years" snowstorms hit Philadelphia, now being dubbed <a href="http://news.yahoo.com/s/ap/20100206/ap_on_go_pr_wh/us_democrats_weather" target="_self"><span style="color: #0046aa;">"Snowmageddon"</span></a>. Does record snowfall prove that global warming isn't happening? What do observations say? 2009 was the <a href="https://skepticalscience.com/2009-2nd-hottest-year-on-record-sun-coolest-in-a-century.html"><span style="color: #0046aa;">second hottest year on record</span></a>. January 2010 was the <a href="http://climateprogress.org/2010/02/05/hottest-january-in-uah-satellite-record-roy-spencer-global-warming/"><span style="color: #0046aa;">hottest January in the UAH satellite record</span></a>. Satellites data indicates last month was the <a href="http://www.drroyspencer.com/2010/03/february-2010-uah-global-temperature-update-version-5-3-unveiled/" target="_self"><span style="color: #0046aa;">second hottest February in the satellite record</span></a>. Observations tell us that rumours of global warming's death have been greatly exaggerated. </p>
+<p><a href="https://skepticalscience.com/UAH_Temperature_Large.gif" target="_self"></a><a href="https://skepticalscience.com/images/UAH_Temperature_Large.gif" target="_blank"><img alt="UAH Satellite temperature of near surface layer" border="0" height="282" src="https://skepticalscience.com/images/UAH_Satellite_Temperature.gif" title="UAH Satellite temperature of near surface layer" width="500"/></a><br><em>Figure 1: UAH satellite measurement of near surface temperature. January 2010 is the hottest January in the satellite record. February 2010 is the <a href="http://www.drroyspencer.com/2010/03/february-2010-uah-global-temperature-update-version-5-3-unveiled/" target="_self"><span style="color: #0046aa;">second hottest February in the satellite record</span></a>. Click on the image for <a href="https://skepticalscience.com/images/UAH_Temperature_Large.gif" target="_blank"><span style="color: #0046aa;">larger version</span></a>.</em></br></p>
+<p>If global warming is still happening, why are some areas experiencing record snowfall events? As climate warms, evaporation from the ocean increases. This results in more water vapour in the air. Globally, atmospheric water vapour has increased by about 5% over the 20th century. Most of the increase has occurred since 1970 (<a href="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch3s3-4-2-1.html" target="_self"><span style="color: #0046aa;">IPCC AR4 3.4.2.1</span></a>). This is confirmed by satellites that find the total atmospheric moisture content has been increasing since measurements began in 1988 (<a href="http://www.pnas.org/cgi/reprint/0702872104v1.pdf"><span style="color: #0046aa;">Santer 2007</span></a>).</p>
+<p><em><img alt="Change in water vapor % over global ocean" border="0" height="191" src="https://skepticalscience.com/images/Water_vapor.gif" title="Change in water vapor % over global ocean" width="450"><br/>Figure 2: Change in water vapor percentage relative to the 1988 to 2004 period over the global ocean plus linear trend, measured by satellite (</img></em><a href="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch3s3-4-2-1.html" target="_self"><em><span style="color: #0046aa;">IPCC AR4 3.4.2.1</span></em></a><em>).</em></p>
+<p>The extra moisture in the air is expected to produce more precipitation, including more extreme precipitation events. Observations bear this out. A study of precipitation trends over the United States found that heavy precipitation events (over 50mm in a day) have increased 20% over the 20th Century (<a href="http://journals.ametsoc.org/doi/full/10.1175/1525-7541(2004)005%3C0064%3ACCOTHC%3E2.0.CO%3B2" target="_blank"><span style="color: #0046aa;">Groisman 2004</span></a>). Most of this increase occured after 1970. Various  analyses of precipitation over the globe have similarly found a widespread increase in heavy precipitation days since 1950 (<a href="http://www.knmi.nl/publications/fulltexts/global_extremes_for_jgr.pdf" target="_self"><span style="color: #0046aa;">Alexander 2006</span></a>, <a href="http://www.drinetwork.ca/extremes/documents/Groisman_et_al_2005_Global_Intense_precip.pdf" target="_self"><span style="color: #0046aa;">Groisman 2006</span></a>).</p>
+<p><img alt="" border="0" src="https://skepticalscience.com/images/Heavy_Precipitation_Days.gif"><br/><em>Figure 3: Global number of days per year when precipitation was greater than 10mm per day, expressed as an anomaly from the 1961 tp 1990 reference period (</em><a href="http://www.knmi.nl/publications/fulltexts/global_extremes_for_jgr.pdf" target="_self"><em><span style="color: #0046aa;">Alexander 2006</span></em></a><em>).</em></img></p>
+<p>Snowstorms can occur if temperatures are in the range of -10°C to 0°C. Global warming decreases the likeliness of snowstorm conditions in warmer, southern regions. However, in northern, colder regions, temperatures are often too cold for very heavy snow so warming can bring more favourable snowstorm conditions (<a href="http://web.archive.org/web/20130901132423/http://downloads.climatescience.gov/sap/sap3-3/sap3-3-final-all.pdf" target="_blank"><span style="color: #0046aa;">Kunkel 2008</span></a>). This is borne out in observations. Over the last century, there has been a downward trend in snowstorms across the lower Midwest, South and West Coast. Conversely, there's been an increase in snowstorms in the upper Midwest East, and Northeast with the overall national trend also upwards (<a href="http://hinessight.blogs.com/files/snow-study.pdf" target="_blank"><span style="color: #0046aa;">Changnon 2006</span></a>).</p>
+<p>To claim that record snowfall is inconsistent with a warming world betrays a lack of understanding of the link between global warming and extreme precipitation. Global temperatures in the last few months of record snowfall are some of the hottest on record. Warming causes more moisture in the air which leads to more extreme precipitation events. This includes more heavy snowstorms in regions where snowfall conditions are favourable. Far from contradicting global warming, record snowfall is predicted by climate models and consistent with our expectation of more extreme precipitation events.</p>
+<p style="text-align: justify;">Intermediate rebuttal written by John Cook</p>
+<hr/>
+<p style="text-align: justify;"><strong>Update July 2015</strong>:</p>
+<p style="text-align: justify;">Here is a related lecture-video from <a href="https://www.edx.org/course/making-sense-climate-science-denial-uqx-denial101x-0" target="_blank">Denial101x - Making Sense of Climate Science Denial</a></p>
+<p style="text-align: justify;"><iframe allowfullscreen="allowfullscreen" frameborder="0" height="290" src="https://www.youtube.com/embed/B1fwNnJUYgU" width="515"></iframe></p></p>
+<p class="greenbox">Last updated on 26 October 2016 by pattimer. <a href="archive.php?a=215&amp;l=2">View Archives</a></p>
+
+<p><a href="print.php?r=130">Printable Version</a>  |  
+				<a href="https://skepticalscience.net/pdf/rebuttal/Record-snowfall-disproves-global-warming-intermediate.pdf">Offline PDF Version</a>  | 
+				<a href="link_to_us.php?Argument0=215" title="Link to this argument">Link to this page</a>
+<p>
+<div class="commenthead"><h2>Comments</h2></div>
+<div class="comment">
+<p>Comments 1 to 7:</p><ol class="olcomments" id="comments" start="1">
+<li style="margin-bottom:10px">
+<div style="margin-bottom:5px">
+<a name="28445"><strong>Roger A. Wehage</strong></a> at 
+						<a href="#28445">20:36 PM on 20 October, 2010</a>
+</div>
+					I believe that <a href="http://www.mtu.edu/alumni/favorites/snowfall/snowfall.html">here</a> is an excellent example of what John is describing related to temperature effects on snowfall. Below is a plot of the annual snowfall in Houghton, Michigan listed in tabular form on the above website.<br/>
+<br/>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/AI2BxbCscBDNdpdyNFIWUw?feat=embedwebsite"><img height="348" src="http://lh5.ggpht.com/_YJNKkq90bhA/TL6k2UFxPNI/AAAAAAAAAHQ/atZFwjoC1VA/s400/Total%20Inches%20of%20Snow%20Houghton%2C%20Michigan.jpg" width="450"/></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/raw915/ClimateChange?feat=embedwebsite">Climate Change</a></td></tr></table><br/>
+<br/>
+Houghton's snowfall is primarily influenced by moisture from the lake (lake-effect snow) and temperature. The graph clearly shows three trends, a relatively constant annual snowfall from 1890 to around 1935, an increasing annual snowfall from around 1935 to around 1980, and decreasing annual snowfall from around 1980 to 2010. I don't have access to average annual winter temperatures, but it is likely that average winter temperatures were colder between 1890 through the 1930s and have been rising steadily until today.<br/>
+<br/>
+Assuming the above, then during the colder years from 1890 to the 1930s the lake likely froze over earlier and thawed later, allowing less moisture to evaporate into the air and reducing lake-effect snow. From the 1930s to around 1980, as winter temperatures increased, the lake started to freeze over later and thaw earlier, allowing more moisture to evaporate, which increased lake-effect snowfall. After around 1980, as temperatures continued to rise, more of the moisture was likely falling as rain, so the average annual snowfall started decreasing again.
+</li>
+<li style="margin-bottom:10px">
+<div style="margin-bottom:5px">
+<a name="28457"><strong>Roger A. Wehage</strong></a> at 
+						<a href="#28457">22:08 PM on 20 October, 2010</a>
+</div>
+					Below is a scatter plot of the monthly snowfall in Houghton, Michigan by year prior to 2010 as given <a href="http://www.mtu.edu/alumni/favorites/snowfall/snowfall.html">here</a>.<br/>
+<br/>
+<table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/A3bNp0vP8O2HL8Kh_QvBRg?feat=embedwebsite"><img height="348" src="http://lh5.ggpht.com/_YJNKkq90bhA/TL69fMTuGxI/AAAAAAAAAHY/anVV7p9v3Ic/s800/Monthly%20Snowfall%20by%20Year%20Houghton%2C%20Michigan.jpg" width="450"/></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="http://picasaweb.google.com/raw915/ClimateChange?feat=embedwebsite">Climate Change</a></td></tr></table><br/>
+<br/>
+The data shows a relatively uniform amount of snowfall in the months of October and November across the 120 year span. In these months the lake would generally be warmer and not frozen over, so evaporative moisture would be available, but temperatures more likely to be too warm for snow.<br/>
+<br/>
+Then in December, January, and February the monthly snowfall steadily increases as the years get closer to 2010, but only up to a point. These would be the months of colder temperatures and partially to fully frozen lake surface. As John pointed out, less snow tends to fall in extremely cold temperatures, and in this case, less snow also falls when the lake is frozen over. So in the far out years both extremely cold temperatures and frozen lake were likely to have occurred more often. In intermediate years of higher snowfall, the temperatures started to moderate and the lake froze over later, allowing more evaporation and more opportunity for substantial snowfalls. Then the plot shows significant declines in monthly snowfall in these months from around 1980 to present. Most significant are the months of January and February. My guess for this is that the lake had little ice in December, allowing more evaporation, and the temperatures were periodically cold enough to allow substantial snow and other times rain. Then the lake partially froze over in January and February, reducing the evaporation rate, and the temperatures were sometimes ideal for snow and at other times for rain.<br/>
+<br/>
+The trends for March and April snowfall are less clear over the 120 year span. However, both months do appear to have a peak around the 1980 timeframe where the total annual snowfall peaked. These snowfalls were probably less associated with lake effect than with ideal snow conditions. In those years when the lake had significant ice, melting probably didn't start until May.
+</li>
+<li style="margin-bottom:10px">
+<div style="margin-bottom:5px">
+<a name="28483"><strong>Daniel Bailey</strong></a> at 
+						<a href="#28483">01:22 AM on 21 October, 2010</a>
+</div>
+					Re: Roger A. Wehage (1,2)<br/>
+<br/>
+While I appreciate you using an example so near to my hometown (<b><a href="http://en.wikipedia.org/wiki/Marquette,_Michigan">Marquette</a></b>), I would be cautious in extrapolating local conditions from an area of complex weather patterns to the globe as a whole.<br/>
+<br/>
+Given the proximity of the Great Lakes to the Northern Jet Stream and the Arctic in general, weather here is highly variable.  Even in conditions optimal for snow, if the wind direction is slightly out of alignment for any length of time, the big snow cannon in the lake doesn't hit full output.<br/>
+<br/>
+When winds are more stable, it is common to receive 4-8" of snow overnight...for many consecutive nights.  The big dumps, however, come from system-generated snowfalls, not lake-effect.  An "Alberta Clipper" dipping down out of the Canadian plains brings with it compressed isobars due to the deep low at the core.  The high winds and energy sheer drives blizzards of 1-2 day duration, along with 18-24" snowfalls.<br/>
+<br/>
+The other source, more common now than when I was a boy in the '60s &amp;'70s, is pressure systems moving up from the Gulf of Mexico.  The enormous moisture levels they import, coupled with the colder air masses at surface levels and the tight rotation of the lows, results also in 18'24" snowfalls.  <br/>
+<br/>
+The difference between them being the moisture contents of the snow they bring.  Gulf-originating snowfalls tend to have moisture contents nearly double that of the Alberta Clippers.  And as snowfall accumulations here are a function of moisture contents, total precipitation may be a better comparator for weather patterns here pre-1980 and post 1980.<br/>
+<br/>
+But thanks for the trip down memory lane.<br/>
+<br/>
+By the way, the record snowfalls up in the Copper Country (where Houghton is located) is <b><a href="http://www.mtu.edu/alumni/favorites/snowfall/snowfall.html">355"</a></b> in the winter of 1978-1979.  Marquette received over 320" the winter of 2001-2002.<br/>
+<br/>
+PS:  Snow melts throughout the winter (through various warm spells), but spring onset happens well before May.  This year, March had no snowfall recorded here and temps were in the 40s.  Apart from a brief 2-day snowfall in early April, spring came in March this year, with April hitting 80s and May, 90s.  Too hot.<br/>
+<br/>
+The Yooper
+</li>
+<li style="margin-bottom:10px">
+<div style="margin-bottom:5px">
+<a name="28500"><strong>Roger A. Wehage</strong></a> at 
+						<a href="#28500">03:35 AM on 21 October, 2010</a>
+</div>
+					Re: Daniel Bailey @3: I didn't claim that lake effect was the only contributing factor to the large snowfalls in the Upper Peninsula. But it is likely the most significant factor. If it were not, then one might expect similar snowfalls over northern Minnesota, northern Wisconsin, the Upper Peninsula, and parts of Canada to the west and northwest of Houghton. For example, the most snow to fall in a season anywhere in <a href="http://en.wikipedia.org/wiki/Climate_of_Minnesota">Minnesota</a> was 170 inches, far short of Houghton and Calumet. <br/>
+<br/>
+One could look at current and <a href="http://www4.ncdc.noaa.gov/cgi-win/wwcgi.dll?WWNEXRAD~Images2">historical weather radar data</a> to see the origin and extent of rain and snowfall in particular areas. Typically one often sees precipitation originating and falling over the water and moving inland.<br/>
+<br/>
+Another factor is that warm, moist air over lake waters likely moderates temperatures downwind and increases the amount of snow associated with Alberta Clippers.<br/>
+<br/>
+And I agree with your comment about heavy snows from the southwest, which shouldn't be affected by lake moisture. <a href="http://climate.umn.edu/text/historical/mspsnow.txt">Minneapolis</a> has experienced a number of heavier snowfalls over the past 40-50 years, and it is likely that more of the moisture comes up from the southwest.
+</li>
+<li style="margin-bottom:10px">
+<div style="margin-bottom:5px">
+<a name="93716"><strong>dvaytw</strong></a> at 
+						<a href="#93716">18:35 PM on 20 April, 2013</a>
+</div>
+<p>Deniers I've argued with about this claim that this is a "post prediction" in that scientists were earlier saying we should expect warmer and drier witners.  Can someone provide me articles dis-proving this claim?</p>
+</li>
+<li style="margin-bottom:10px">
+<div style="margin-bottom:5px">
+<a name="93731"><strong>scaddenp</strong></a> at 
+						<a href="#93731">07:22 AM on 21 April, 2013</a>
+</div>
+<p>dvaytw - in very general terms, the Clausius–Clapeyron relationship between temperature and water vapour is known from mid-19th C. Issues with precipitation were flagged in Ch 4 of WGII of the IPCC FAR 1990. Beyond the broad picture however, regional climate prediction was not possible then (and remains a considerable challenge now  -see for instance <a href="http://www.realclimate.org/index.php/archives/2013/04/verification-of-regional-model-trends/" rel="external">here</a>) and so perhaps you ask the source of the their claim for drier winters? </p>
+</li>
+<li style="margin-bottom:10px">
+<div style="margin-bottom:5px">
+<a name="129989"><strong>michael sweet</strong></a> at 
+						<a href="#129989">23:27 PM on 16 January, 2019</a>
+</div>
+<p>Molsen,</p><p>This copy of the graph Daniel Bailey posted on another thread yesterday shows that spring snow extent has decreased for decades.  Your "dozen years" includes the lowest ever measured snow extent.  It is clearly a blatant cherry pick starting after snow extent collapsed.</p><p><img alt="snow graph" height="410" src="https://web.archive.org/web/20181116073139if_/https://climate.rutgers.edu/snowcover/images/nhland_season2.png" title="snow graph" width="500"/></p><p>The Rutgers snow lab also has winter and fall graphs"</p><p><img alt="winter" height="400" src="https://climate.rutgers.edu/snowcover/images/nhland_season1.png" title="winter" width="500"/></p><p>fall:</p><p><img alt="fall" height="409" src="https://climate.rutgers.edu/snowcover/images/nhland_season4.png" title="fall" width="500"/></p><p>I see little winter change while fall is increasing.  It appears that the additional atmospheric water is causing increasing snowfall when it is cold in spite of the fact that temperatures have increased.</p><p>According to<a href="https://journals.ametsoc.org/doi/10.1175/JCLI-D-12-00832.1"> this peer reviewed </a>article (written by a Rutgers scientist):</p><p style="padding-left: 30px;">"Annual snowfall is projected to decrease across much of the Northern Hemisphere during the twenty-first century, with increases projected at higher latitudes. On a seasonal basis, the transition zone between negative and positive snowfall trends corresponds approximately to the −10°C isotherm of the late twentieth-century mean surface air temperature, such that positive trends prevail in winter over large regions of Eurasia and North America. Redistributions of snowfall throughout the entire snow season are projected to occur—even in locations where there is little change in annual snowfall. Changes in the fraction of precipitation falling as snow contribute to decreases in snowfall across most Northern Hemisphere regions, while changes in total precipitation typically contribute to increases in snowfall."</p><p>It appears that the observed changes in snowfall are what scientists expected in advance.</p><p>I find it striking that two different new posters mention snow extent.  Did WUWT have a snow article this week?</p>
+</li>
+</ol>
+<h2 style="margin-bottom:0;margin-left: 15px;">Post a Comment</h2>
+<p style="margin:10px 15px">Political, off-topic or ad hominem comments will be deleted. <a href="comments_policy.shtml">Comments Policy...</a></p>
+<p>You need to be logged in to post a comment. Login via the left margin or if you're new, <a href="register.php">register here</a>.</p></div>
+<p><a href="link_to_us.php?Argument0=215" title="Link to this argument">Link to this page</a>
+</p></p></p>
+<td style="background-color:#ffffff;" width="15"><img height="7" src="images/_core/head/right_top_shadow.gif" width="15"/></td>
+<td id="rightmargin" width="210">
+<img height="7" src="images/_core/head/left_top_shadow.gif" style="display:block;" width="210"><br/>
+<!--<a href="donate.php"><img src="images/donate.gif" alt="Donate to support SkS" style="float:left; margin:0 5px 0 15px;">
+								 <strong><a href="How-you-can-support-Skeptical-Science.html">to support<br>SkS</a></strong>-->
+<p style="margin:0 0 15px 0; text-align:center;">
+<a href="Eureka_Prize_Winner_2011.html">
+<img src="images/_core/foot/eureka.gif"/></a>
+</p>
+<p style="margin:0 0 15px 0; text-align:center;">
+<a href="https://www.protruthpledge.org">
+<img src="images/_core/foot/protruth_pledge.gif" width="180"/></a>
+</p>
+<div style="margin:0 0 15px 0; text-align:center;">
+<a href="//skepticalscience.com/Climate-Science-crowdfunding-crowdsourcing.html"><img src="https://www.skepticalscience.com//pics/crowdsourcing.png"/></a>
+</div>
+<!--<div style="margin:0 0 15px 0; text-align:center;">
+                        			        <a href="http://www.blurb.com/user/robhoneycutt?profile_preview=true"><img src="https://skepticalscience.com/images/28ccep.png"></a>
+                                			<br><b><a href="http://www.blurb.com/user/robhoneycutt?profile_preview=true">Get It Here</a></b>  or via <b><a href="https://itunes.apple.com/us/book/id1196605903">iBooks</a></b>. 
+                        			</div>-->
+<div style="margin:0 0 15px 0; text-align:center;">
+<a href="http://sks.to/denial101x"><img src="https://skepticalscience.com/pics/Denial101x_ad.png"/></a>
+</div>
+<div id="whatsup" style="margin:0 0 15px 0; text-align:center;">
+<script>
+
+	function reveal(revelation) {
+		if ('q' in revelation && revelation.q.length > 0) {
+			$("#reveal").text(revelation.n);
+			$("#revealImage").css( { 'background-image' : "url('nsh/images/static/" + revelation.f + ".png')" } );
+		}
+	}
+	
+	function finalReveal() {
+		$('#reveal').text('');
+		$("#revealImage").css( { 'background-image' : "url('nsh/images/static/nsh_widget.png')" } );
+	}
+
+	window.serverSpread = Math.floor(Math.random() * 15);
+	window.nextNsh = 1410454800;
+	window.nshlimit = 97;
+	window.lastnshnum = 0;
+	
+	function nshTimer() {
+		var n, diff0, diff, secs, mins, hours, days;
+	
+		n = Math.floor( Date.now() / 1000 );
+		n += window.browserDiff;
+		diff0  =  n - 1410094800;
+		diff = Math.abs(diff0);
+		secs = diff % 60;
+		diff = ( diff - secs ) / 60;
+		mins = diff % 60;
+		diff = ( diff - mins ) / 60;
+		
+		if ( diff0 < 0 ) {
+			hours = diff % 24;
+			diff = ( diff - hours ) / 24;
+			days = diff + '&nbsp;:&nbsp;';
+		} else {
+			days = '';
+			hours = diff;
+			if (!window.lastnshhour)
+				window.lastnshhour = hours;
+		}
+		
+		if (secs  < 10) secs  = '0' + secs;
+		if (mins  < 10) mins  = '0' + mins;
+		if (hours < 10) hours = '0' + hours;
+
+		if (hours >= window.nshlimit) {
+			hours = window.nshlimit;
+			mins  = '00';
+			secs  = '00';
+		}
+		$('#timerd').html(days);
+		$('#timerh').text(hours);
+		$('#timerm').text(mins);
+		$('#timers').text(secs);
+	
+		if ( diff0 >= 0 ) {
+			if (hours >= window.nshlimit) {
+				clearInterval( window.clearNshTimer );	
+			} else {
+				$('#timer').css( { color : "#B8D174" } );
+				if ( n > window.nextNsh ) {
+					$('#timers').css( { color : "#FF9900" } );
+				} else if ( window.nextNsh - n <= 10) {
+					$('#timers').css( { color : "#FFFF00" } );
+				} else {
+					$('#timers').css( { color : "#B8D174" } );
+				}
+				
+			}
+		}
+
+		if ( !window.nextNsh )
+			window.nextNsh = n + 10;
+
+		if ( window.nextNsh && n >= window.nextNsh + serverSpread ) {
+
+			var missing = [];
+			if (window.loadMissing)
+				for (var i = 1; i < window.lastnshnum; i++)
+					if (!(n in dataNsh[i]))
+						missing.push(i); 
+			
+			window.nextNsh = undefined;
+			$.ajax({
+				cache	: false,
+				url		: 'nsh/nextnsh.php?bt=' + Date.now() + '&ms=' + missing.join(),
+				dataType: 'json'
+			}).done(function(json) {
+
+				window.lastnshnum = json.k;
+				window.nextNsh = json.nr;
+				if ('bd' in json)
+					window.browserDiff = json.bd;
+				if ('n' in json)
+					reveal(json);
+				if (window.nextNsh && window.nextNsh < 0) {
+					clearInterval( window.clearNshTimer );
+					$('#timerd').html('');
+					$('#timerh').text(window.nshlimit);
+					$('#timerm').text('00');
+					$('#timers').text('00');
+					$('#timers').css( { color : "#B8D174" } );
+					setTimeout( finalReveal, 3600000);
+				}
+				
+			}).fail(function() {
+				console.log('Ajax error');
+			});
+		}
+	}
+
+	$.ajax({
+		cache	: false,
+		url		: 'nsh/nextnsh.php?bt=' + Date.now(),
+		dataType: 'json'
+	}).done(function(json) {
+
+		$('#timerd').html('');
+		$('#timerh').text(window.nshlimit);
+		$('#timerm').text('00');
+		$('#timers').text('00');
+		finalReveal();
+//		if ('n' in json)
+//			reveal(json);
+		
+	}).fail(function() {
+		console.log('Ajax error');
+	});
+</script>
+<div id="whatsupinner" style="width: 85%; margin-left: auto; margin-right: auto; background-color: #111; border-radius: 12px; overflow: hidden;">
+<a href="nsh?" target="_blank">
+<div id="revealImage" style="background-image: url('nsh/images/silhouette/32.png'); background-repeat: no-repeat; background-position: left top; background-size: contain; width: 90%; height: 300px; overflow: hidden; position: relative;">
+<div id="reveal" style="font-family: Orbitron; font-size: 14px; color: #B8D174; position: absolute; top: 5%; left:  5%; width: 90%; text-align: center; "></div>
+<div id="timer" style="font-family: Orbitron; font-size: 16px; color: #90891F; position: absolute; bottom: 10%; left: 10%; width: 90%; text-align: center; background-color: #111; padding: 4px; box-shadow: 0 0 20px 20px black;">
+<div style="float: right; padding-right: 15px;"> </div>
+<div id="timers" style="float: right; width:1.5em;"></div>
+<div style="float: right"> : </div>
+<div id="timerm" style="float: right; width: 1.5em;"></div>
+<div style="float: right"> : </div>
+<div id="timerh" style="float: right; width: 1.5em;"></div>
+<div id="timerd" style="float: right"></div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div style="margin:0 0 15px 0; text-align:center;">
+<iframe frameborder="0" height="271" id="sksIframe" scrolling="no" src="//skepticalscience.net/widgets/heat_widget/heat_widget.htm" style="border: medium none; background-color: transparent; overflow: hidden;" width="180"></iframe>
+</div>
+<p style="margin:0 0 15px 0; text-align:center;">
+<a href="http://theconsensusproject.com" style="text-decoration: none; color: #A2927F; font-weight: bold; font-size: 14px;" target="_blank">
+<img src="images/_core/foot/tcpsite.png" style="border: 1px solid black" title="The Consensus Project Website"/><br/>
+<span>The Consensus Project Website</span></a>
+</p>
+<p style="margin:0 0 15px 0; text-align:center;">
+<a href="http://sks.to/escalator">THE ESCALATOR<br/>
+<img src="images/_core/foot/SkepticsvRealists_180.gif"/><br/>
+                                (free to republish)</a>
+</p>
+<br clear="all"/>
+</img></td>
+
+<tr height="40" style="border-right:1px solid #98AFBF;">
+<td bgcolor="#C4D2DB" style="border-left:1px solid #98AFBF; padding-left:15px">© Copyright 2019 John Cook</td>
+<td colspan="3" style="background-color:#ffffff"></td>
+<td bgcolor="#C4D2DB" style="border-right:1px solid #98AFBF; padding-left:15px"></td>
+</tr>
+<tr bgcolor="#98AFBF" height="1">
+<td width="210"><img height="1" src="images/_core/head/p.gif" style="display:block" width="210"/></td>
+<td width="15"><img height="1" src="images/_core/head/p.gif" style="display:block" width="15"/></td>
+<td width="570"><img height="1" src="images/_core/head/p.gif" style="display:block" width="570"/></td>
+<td width="15"><img height="1" src="images/_core/head/p.gif" style="display:block" width="15"/></td>
+<td width="210"><img height="1" src="images/_core/head/p.gif" style="display:block" width="210"/></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align:center; padding-bottom: 45px;">
+<a href="/">Home</a> | 
+						 <a href="links.php">Links</a> | 
+						 <a href="translation.php">Translations</a> | 
+						 <a href="about.shtml">About Us</a> |
+						 <a href="privacy.shtml">Privacy</a> | 
+						 <a href="contact.php">Contact Us</a>
+</td>
+</tr>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-548140-3");
+pageTracker._trackPageview();
+</script>
+

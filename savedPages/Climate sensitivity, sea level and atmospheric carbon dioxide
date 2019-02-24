@@ -1,0 +1,314 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<html>
+<!--RAW FILE-->
+<head>
+<base href="http://adsabs.harvard.edu/abs/2013RSPTA.37120294H"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="http://adsabs.harvard.edu/abs/2013RSPTA.37120294H" rel="canonical"/>
+<meta content="noarchive" name="robots">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Climate sensitivity, sea level and atmospheric carbon dioxide</title>
+<meta content="en" name="citation_language"/>
+<meta content="10.1098/rsta.2012.0294" name="citation_doi"/>
+<meta content="http://adsabs.harvard.edu/abs/2013RSPTA.37120294H" name="citation_abstract_html_url"/>
+<meta content="Climate sensitivity, sea level and atmospheric carbon dioxide" name="citation_title"/>
+<meta content="Hansen, J.; Sato, M.; Russell, G.; Kharecha, P." name="citation_authors"/>
+<meta content="0962-8436" name="citation_issn"/>
+<meta content="09/2013" name="citation_date"/>
+<meta content="Philosophical Transactions of the Royal Society of London Series A" name="citation_journal_title"/>
+<meta content="371" name="citation_volume"/>
+<meta content="20120294" name="citation_firstpage"/>
+<meta content="20120294" name="citation_lastpage"/>
+<meta content="1211.4846" name="citation_arxiv_id"/>
+<link href="http://prismstandard.org/namespaces/1.2/basic/" rel="schema.prism" title="schema(PRISM)"/>
+<meta content="Philosophical Transactions of the Royal Society of London Series A" name="prism.publicationName"/>
+<meta content="0962-8436" name="prism.issn"/>
+<meta content="371" name="prism.volume"/>
+<meta content="20120294" name="prism.startingPage"/>
+<meta content="20120294" name="prism.endingPage"/>
+<link href="http://purl.org/dc/elements/1.1/" rel="schema.dc" title="schema(DC)"/>
+<meta content="en" name="dc.language"/>
+<meta content="doi:10.1098/rsta.2012.0294" name="dc.identifier"/>
+<meta content="2013-09" name="dc.date"/>
+<meta content="Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 371, issue 2001, pp. 20120294-20120294" name="dc.source"/>
+<meta content="Climate sensitivity, sea level and atmospheric carbon dioxide" name="dc.title"/>
+<meta content="Hansen, J." name="dc.creator"/>
+<meta content="Sato, M." name="dc.creator"/>
+<meta content="Russell, G." name="dc.creator"/>
+<meta content="Kharecha, P." name="dc.creator"/>
+<link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script language="JavaScript" type="text/javascript">
+<!-- Begin
+function mkemail(parts) {
+    var sep = ".";
+    var str = arguments[0];
+    for ( var i = 1 ; i < arguments.length ; i++ ) {
+        if ( arguments[i] == "" ) {
+            sep = String.fromCharCode(29+35) ;
+           continue ;
+        } else {
+            str = str.concat ( sep ) ;
+            str = str.concat ( arguments[i] ) ;
+            sep = ".";
+        }
+    }
+    return(str);
+}
+var toggle = 0 ;
+function t(){
+if ( toggle == 0 ) {
+setStyleByClass("span","a","backgroundColor","#ffffff");
+setStyleByClass("div","h","backgroundColor","#ffffff");
+setStyleByClass("div","h","opacity","0");
+setStyleByClass("div","h","filter","alpha(opacity=0)");
+setStyleByClass("span","b","backgroundColor","#ffffff");
+setStyleByClass("div","i","backgroundColor","#ffffff");
+setStyleByClass("div","i","opacity","0");
+setStyleByClass("div","i","filter","alpha(opacity=0)");
+setStyleByClass("span","c","backgroundColor","#ffffff");
+setStyleByClass("div","j","backgroundColor","#ffffff");
+setStyleByClass("div","j","opacity","0");
+setStyleByClass("div","j","filter","alpha(opacity=0)");
+setStyleByClass("span","d","backgroundColor","#ffffff");
+setStyleByClass("div","k","backgroundColor","#ffffff");
+setStyleByClass("div","k","opacity","0");
+setStyleByClass("div","k","filter","alpha(opacity=0)");
+setStyleByClass("span","e","backgroundColor","#ffffff");
+setStyleByClass("div","l","backgroundColor","#ffffff");
+setStyleByClass("div","l","opacity","0");
+setStyleByClass("div","l","filter","alpha(opacity=0)");
+setStyleByClass("span","f","backgroundColor","#ffffff");
+setStyleByClass("div","m","backgroundColor","#ffffff");
+setStyleByClass("div","m","opacity","0");
+setStyleByClass("div","m","filter","alpha(opacity=0)");
+setStyleByClass("span","g","backgroundColor","#ffffff");
+setStyleByClass("div","n","backgroundColor","#ffffff");
+setStyleByClass("div","n","opacity","0");
+setStyleByClass("div","n","filter","alpha(opacity=0)");
+toggle = 1 ;
+} else {
+setStyleByClass("span","a","backgroundColor","#ffff88");
+setStyleByClass("div","h","backgroundColor","#ffff00");
+setStyleByClass("div","h","opacity","0.3");
+setStyleByClass("div","h","filter","alpha(opacity=30)");
+setStyleByClass("span","b","backgroundColor","#ccccff");
+setStyleByClass("div","i","backgroundColor","#3333ff");
+setStyleByClass("div","i","opacity","0.3");
+setStyleByClass("div","i","filter","alpha(opacity=30)");
+setStyleByClass("span","c","backgroundColor","#ffcccc");
+setStyleByClass("div","j","backgroundColor","#ff3333");
+setStyleByClass("div","j","opacity","0.3");
+setStyleByClass("div","j","filter","alpha(opacity=30)");
+setStyleByClass("span","d","backgroundColor","#bbffff");
+setStyleByClass("div","k","backgroundColor","#00ffff");
+setStyleByClass("div","k","opacity","0.3");
+setStyleByClass("div","k","filter","alpha(opacity=30)");
+setStyleByClass("span","e","backgroundColor","#ffdd77");
+setStyleByClass("div","l","backgroundColor","#ff6600");
+setStyleByClass("div","l","opacity","0.3");
+setStyleByClass("div","l","filter","alpha(opacity=30)");
+setStyleByClass("span","f","backgroundColor","#ccffaa");
+setStyleByClass("div","m","backgroundColor","#33ff00");
+setStyleByClass("div","m","opacity","0.3");
+setStyleByClass("div","m","filter","alpha(opacity=30)");
+setStyleByClass("span","g","backgroundColor","#ffccff");
+setStyleByClass("div","n","backgroundColor","#ff00ff");
+setStyleByClass("div","n","opacity","0.3");
+setStyleByClass("div","n","filter","alpha(opacity=30)");
+toggle = 0 ;
+}
+}
+var ie = (document.all) ? true : false;
+
+function setStyleByClass(t,c,p,v){
+	var elements;
+	if(t == '*') {
+		elements = (ie) ? document.all : document.getElementsByTagName('*');
+	} else {
+		elements = document.getElementsByTagName(t);
+	}
+	for (var i = 0; i < elements.length; i++)
+    {
+		var node = elements.item(i);
+		for(var j = 0; j < node.attributes.length; j++)
+		{
+			if(node.attributes.item(j).nodeName == 'class')
+			{
+				if(node.attributes.item(j).nodeValue == c)
+				{
+				eval('node.style.' + p + " = '" +v + "'");
+				}
+			}
+		}
+	}
+}
+//  End -->
+</script>
+<style>.a{background-color: #ffff88}</style>
+<style>.h{background-color: #ffff00}</style>
+<style>.b{background-color: #ccccff}</style>
+<style>.i{background-color: #3333ff}</style>
+<style>.c{background-color: #ffcccc}</style>
+<style>.j{background-color: #ff3333}</style>
+<style>.d{background-color: #bbffff}</style>
+<style>.k{background-color: #00ffff}</style>
+<style>.e{background-color: #ffdd77}</style>
+<style>.l{background-color: #ff6600}</style>
+<style>.f{background-color: #ccffaa}</style>
+<style>.m{background-color: #33ff00}</style>
+<style>.g{background-color: #ffccff}</style>
+<style>.n{background-color: #ff00ff}</style>
+<style type="text/css">
+@media (max-width : 980px) {
+* {
+  font-size: 18px !important;
+}
+a {
+  margin: 8px !important;
+  display:inline-block;
+}
+td:first-of-type {
+   white-space: normal !important;
+}
+td:first-of-type {
+   white-space: nowrap;
+}
+}
+</style>
+<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style>
+<style type="text/css">
+a:link {color: #0000ff}
+a.oa:link {color: #00a000}
+a:visited {color: #4000a0}
+a.oa:visited {color: #006666}
+a:hover {color: #ff0000}
+a.oa:hover {color: #cc33cc}
+</style>
+</meta></head>
+<body alink="#ff0000" bgcolor="#ffffff" link="#0000ff" text="#000000" vlink="#4000a0">
+<div align="right" style="font-size:84%;padding-bottom:4px"><a href="http://adsabs.harvard.edu/cgi-bin/nph-manage_account?man_cmd=login&amp;man_url=http://adsabs.harvard.edu/abs/2013RSPTA.37120294H">Sign on</a></div>
+<p><h3><a href="http://adsabs.harvard.edu/">SAO/NASA ADS</a> <a href="http://adsabs.harvard.edu/general_service.html">General Science Abstract Service</a></h3>
+<hr/>
+<p>
+<dl>
+<dt><table width="100%"><tbody><tr><td align="left"><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&amp;arxiv_sel=ALL&amp;db_key=GEN&amp;text=Cenozoic%20temperature,%20sea%20level%20and%20CO2%20co-variations%20provide%20insights%0ainto%20climate%20sensitivity%20to%20external%20forcings%20and%20sea%20level%20sensitivity%0ato%20climate%20change.%20Climate%20sensitivity%20depends%20on%20the%20initial%20climate%0astate,%20but%20potentially%20can%20be%20accurately%20inferred%20from%20precise%0apaleoclimate%20data.%20Pleistocene%20climate%20oscillations%20yield%20a%0afast-feedback%20climate%20sensitivity%203%20%2b/-%201%7b%5cdeg%7dC%20for%204%20W/m2%20CO2%20forcing%0aif%20Holocene%20warming%20relative%20to%20the%20Last%20Glacial%20Maximum%20%28LGM%29%20is%20used%0aas%20calibration,%20but%20the%20error%20%28uncertainty%29%20is%20substantial%20and%20partly%0asubjective%20because%20of%20poorly%20defined%20LGM%20global%20temperature%20and%20possible%0ahuman%20influences%20in%20the%20Holocene.%20Glacial-to-interglacial%20climate%20change%0aleading%20to%20the%20prior%20%28Eemian%29%20interglacial%20is%20less%20ambiguous%20and%20implies%0aa%20sensitivity%20in%20the%20upper%20part%20of%20the%20above%20range,%20i.e.,%203-4%7b%5cdeg%7dC%20for%0a4%20W/m2%20CO2%20forcing.%20Slow%20feedbacks,%20especially%20change%20of%20ice%20sheet%20size%0aand%20atmospheric%20CO2,%20amplify%20total%20Earth%20system%20sensitivity%20by%20an%20amount%0athat%20depends%20on%20the%20time%20scale%20considered.%20Ice%20sheet%20response%20time%20is%0apoorly%20defined,%20but%20we%20show%20that%20the%20slow%20response%20and%20hysteresis%20in%0aprevailing%20ice%20sheet%20models%20are%20exaggerated.%20We%20use%20a%20global%20model,%0asimplified%20to%20essential%20processes,%20to%20investigate%20state-dependence%20of%0aclimate%20sensitivity,%20finding%20an%20increased%20sensitivity%20towards%20warmer%0aclimates,%20as%20low%20cloud%20cover%20is%20diminished%20and%20increased%20water%20vapor%0aelevates%20the%20tropopause.%20Burning%20all%20fossil%20fuels,%20we%20conclude,%20would%0amake%20much%20of%20the%20planet%20uninhabitable%20by%20humans,%20thus%20calling%20into%0aquestion%20strategies%20that%20emphasize%20adaptation%20to%20climate%20change.%0a+&amp;title=Climate%20sensitivity,%20sea%20level%20and%20atmospheric%20carbon%20dioxide">Find Similar Abstracts</a> (with <a href="#feedback">default settings below</a>)</strong></td>
+</tr></tbody></table>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RSPTA.37120294H&amp;link_type=EJOURNAL&amp;db_key=GEN&amp;high=">Electronic Refereed Journal Article (HTML)</a></strong>
+<dt><strong>· <a class="oa" href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RSPTA.37120294H&amp;link_type=PREPRINT&amp;db_key=GEN">arXiv e-print</a></strong></dt></dt></dt></dl></p></p></body></html> (arXiv:1211.4846)
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RSPTA.37120294H&amp;link_type=REFERENCES&amp;db_key=GEN&amp;high=">References in the article</a></strong>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RSPTA.37120294H&amp;link_type=CITATIONS&amp;db_key=GEN">Citations to the Article (46)</a></strong></dt></dt> (<a href="http://adsabs.harvard.edu/cgi-bin/nph-ref_history?refs=CITATIONS&amp;bibcode=2013RSPTA.37120294H">Citation History</a>)
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RSPTA.37120294H&amp;link_type=REFCIT&amp;db_key=GEN&amp;high=">Refereed Citations to the Article</a></strong>
+<dt><strong>· <a href="http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2013RSPTA.37120294H&amp;link_type=AR&amp;db_key=GEN">Also-Read Articles</a></strong> (<a href="http://adsabs.harvard.edu/cgi-bin/nph-ref_history?refs=AR&amp;bibcode=2013RSPTA.37120294H">Reads History</a>)
+<dt>·
+<dt><strong>· <a href="http://www.microsofttranslator.com/BV.aspx?from=en&amp;a=http://adsabs.harvard.edu/abs/2013RSPTA.37120294H">Translate This Page</a></strong>
+</dt></dt></dt></dt>
+<table><tbody>
+<tr><td align="left" valign="top"><b>Title:</b></td><td><br/></td><td align="left" valign="top">Climate sensitivity, sea level and atmospheric carbon dioxide</td></tr>
+<tr><td align="left" valign="top"><b>Authors:</b></td><td><br/></td><td align="left" valign="top"><a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Hansen,+J&amp;fullauthor=Hansen,%20J.&amp;charset=ISO-8859-1&amp;db_key=GEN">Hansen, J.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Sato,+M&amp;fullauthor=Sato,%20M.&amp;charset=ISO-8859-1&amp;db_key=GEN">Sato, M.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Russell,+G&amp;fullauthor=Russell,%20G.&amp;charset=ISO-8859-1&amp;db_key=GEN">Russell, G.</a>; <a href="http://adsabs.harvard.edu/cgi-bin/author_form?author=Kharecha,+P&amp;fullauthor=Kharecha,%20P.&amp;charset=ISO-8859-1&amp;db_key=GEN">Kharecha, P.</a></td></tr>
+<tr><td align="left" valign="top"><b>Publication:</b></td><td><br/></td><td align="left" valign="top">Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 371, issue 2001, pp. 20120294-20120294</td></tr>
+<tr><td align="left" valign="top"><b>Publication Date:</b></td><td><br/></td><td align="left" valign="top">09/2013</td></tr>
+<tr><td align="left" valign="top"><b>Origin:</b></td><td><br/></td><td align="left" valign="top"><a href="http://crossref.org">CROSSREF</a></td></tr>
+<tr><td align="left" valign="top"><b>DOI:</b></td><td><br/></td><td align="left" valign="top"><a href="https://doi.org/10.1098/rsta.2012.0294">10.1098/rsta.2012.0294</a></td></tr>
+<tr><td align="left" valign="top"><b>Bibliographic Code:</b></td><td><br/></td><td align="left" valign="top"><a href="http://adsabs.harvard.edu/abs/2013RSPTA.37120294H">2013RSPTA.37120294H</a></td></tr>
+</tbody></table>
+<h3 align="center">                               Abstract</h3>
+Cenozoic temperature, sea level and CO2 co-variations provide insights
+into climate sensitivity to external forcings and sea level sensitivity
+to climate change. Climate sensitivity depends on the initial climate
+state, but potentially can be accurately inferred from precise
+paleoclimate data. Pleistocene climate oscillations yield a
+fast-feedback climate sensitivity 3 +/- 1{\deg}C for 4 W/m2 CO2 forcing
+if Holocene warming relative to the Last Glacial Maximum (LGM) is used
+as calibration, but the error (uncertainty) is substantial and partly
+subjective because of poorly defined LGM global temperature and possible
+human influences in the Holocene. Glacial-to-interglacial climate change
+leading to the prior (Eemian) interglacial is less ambiguous and implies
+a sensitivity in the upper part of the above range, i.e., 3-4{\deg}C for
+4 W/m2 CO2 forcing. Slow feedbacks, especially change of ice sheet size
+and atmospheric CO2, amplify total Earth system sensitivity by an amount
+that depends on the time scale considered. Ice sheet response time is
+poorly defined, but we show that the slow response and hysteresis in
+prevailing ice sheet models are exaggerated. We use a global model,
+simplified to essential processes, to investigate state-dependence of
+climate sensitivity, finding an increased sensitivity towards warmer
+climates, as low cloud cover is diminished and increased water vapor
+elevates the tropopause. Burning all fossil fuels, we conclude, would
+make much of the planet uninhabitable by humans, thus calling into
+question strategies that emphasize adaptation to climate change.
+<hr/>
+<table width="100%"><tbody><tr><td align="left"><b><a href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2013RSPTA.37120294H&amp;data_type=BIBTEX&amp;db_key=GEN&amp;nocookieset=1">Bibtex entry for this abstract</a></b>   <b><a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?bibcode=2013RSPTA.37120294H&amp;data_type=Custom&amp;format=%25z0%5c%5cbibitem%5b%25%5c2m%25%28y%29%5d%25%7bR%7d%20%25%5c5.3l%20%25%5cY,%25%5cj,%25%5cV,%25%5cp%5cn&amp;return_fmt=LONG&amp;db_key=GEN&amp;nocookieset=1">Preferred format for this abstract</a></b> (see <a href="http://adsabs.harvard.edu/cgi-bin/pref_set">Preferences</a>)</td>
+</tr></tbody></table>
+<hr/>
+<div style="display: table">
+<div style="display: table-row; float: left;">
+<div style="display: table-cell; float: left; padding: 5px">
+<form action="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect" method="POST"><a name="private"></a>
+<input name="bibcode" type="hidden" value="2013RSPTA.37120294H"/>
+<input name="library" type="submit" value=" Add this article to private library "/>
+</form>
+</div>
+<div style="display: table-cell; float: left; padding: 5px">
+<form action="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect" method="POST"><a name="private"></a>
+<input name="bibcode" type="hidden" value="2013RSPTA.37120294H"/>
+<input name="library" type="submit" value=" Remove from private library "/>
+</form>
+</div>
+</div>
+<div style="display: table-row; clear: left;">
+<div style="display: table-cell; float: left; padding: 5px;">
+<form action="http://adsabs.harvard.edu/adsfeedback/submit_abstract.php" method="GET"><input name="submit" type="submit" value=" Submit corrections to this record "/><input name="bibcode" type="hidden" value="2013RSPTA.37120294H"/><input name="db_key" type="hidden" value="GEN"/></form>
+</div>
+<div style="display: table-cell; float: left; padding: 5px;">
+<form action="https://ui.adsabs.harvard.edu/#abs/2013RSPTA.37120294H" method="GET"><input style="background-color: #6084D9; color: #ffffff; border: 2px solid #ff9900" type="submit" value=" View record in the new ADS "/></form>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<hr/>
+<form action="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect" method="POST"><a name="feedback"></a>
+<h3>Find Similar Abstracts:</h3>
+<input name="return_req" type="hidden" value="no_params"/>
+<table>
+<tr><td>Use:</td><td> <input name="use_auth" type="checkbox" value="YES"/></td><td>  Authors</td></tr>
+<tr><td></td><td> <input checked="" name="use_title" type="checkbox" value="YES"/></td><td>  Title</td></tr>
+<tr><td></td><td> <input checked="" name="use_text" type="checkbox" value="YES"/></td><td>  Abstract Text</td></tr>
+<tr><td>Return:</td><td> <input checked="" name="return_req" type="radio" value="feedback"/></td><td>  Query Results</td><td>   Return <input name="nr_to_return" size="5" value="100"/>   items starting with number <input name="start_nr" size="5" value="1"/></td></tr>
+<tr><td></td><td> <input name="return_req" type="radio" value="form"/></td><td>  Query Form</td></tr>
+<tr><td>Database:</td><td> <input checked="" name="db_key" type="checkbox" value="AST"/></td><td>  Astronomy</td></tr>
+<tr><td></td><td> <input name="db_key" type="checkbox" value="PHY"/></td><td>  Physics</td></tr>
+<tr><td></td><td> <input name="db_key" type="checkbox" value="PRE"/></td><td>  arXiv e-prints</td></tr>
+</table>
+<input name="arxiv_sel" type="hidden" value="ALL"/>
+<input name="bib_dbkey" type="hidden" value="GEN"/>
+<input name="selfeedback" type="submit" value="      Send Query     "/>    <input type="reset" value="      Reset      "/>
+<input name="bibcode" type="hidden" value="2013RSPTA.37120294H"/>
+</form>
+<br/><hr/><br/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37369750-3', 'harvard.edu');
+  ga('send', 'pageview');
+
+</script>
+<!-- ADS_MIRROR: CFA -->
+
+

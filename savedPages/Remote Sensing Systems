@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<link href="/sites/default/files/favicon.png" rel="shortcut icon" type="image/png"/>
+<meta content="follow, index" name="robots">
+<title>Remote Sensing Systems</title>
+<link href="/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/sites/default/files/css/css_DFUD1yJlwPw_XFwkKptTUhwB_VH8S2UqFdj-dkzYD68.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" media="all" rel="stylesheet" type="text/css"/>
+<link href="/sites/default/files/css/css_WviyDv6rEdNx0gYBcoWEjg5DpbEOEz_VbhcTMM9tG5g.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/sites/default/files/css/css_bOuMjFVogNLh7eH0-eOVyDqUgrd2y8u3nHiaLKeffVk.css" media="all" rel="stylesheet" type="text/css"/>
+<script src="/sites/default/files/js/js_LcFRnnSHVah-Aw_WQ8aVLXhp3HPJvrOe4h6YEXA5BT8.js"></script>
+<script src="/sites/default/files/js/js_MgDmPu6VX0W7Et2vF4Ed5pHO5z9p0edeCur9YqnG6V0.js"></script>
+<script src="/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.google-analytics.com/analytics.js","ga");ga("create", "UA-43439200-1", {"cookieDomain":".edit.remss.com"});ga("send", "pageview");</script>
+<script src="/sites/default/files/js/js_V9WPlyiUafN1nDf_36TNT39fJ2_BS8uxUiN3wnw5Wwc.js"></script>
+<script src="http://images.remss.com/cyclone/tracks/active_cyclone_links.js"></script>
+<script src="http://images.remss.com/cyclone/storm_functions.js"></script>
+<script src="http://data.remss.com/msu/graphics/stats/monthly_graphic_dates_v3_3.js"></script>
+<script src="http://data.remss.com/MSU/graphics/TLT/stats/trend_RSS_ch_TLT_v3_3.js"></script>
+<script src="http://data.remss.com/MSU/graphics/tmt/stats/trend_RSS_ch_TMT_v3_3.js"></script>
+<script src="http://data.remss.com/MSU/graphics/TTS/stats/trend_RSS_ch_TTS_v3_3.js"></script>
+<script src="http://data.remss.com/MSU/graphics/TLS/stats/trend_RSS_ch_TLS_v3_3.js"></script>
+<!-- HTML5 element support for IE6-8 -->
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</meta></meta></head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3866 node-type-page">
+<header class="site-header container">
+<a class="site-logo" href="/" rel="home" title="Home">
+<img alt="Home" src="/sites/default/files/rss-logo.png"/>
+</a>
+<nav class="site-support-links">
+<a href="/support/">Support</a>
+<a href="/about/who-we-are">About Us</a>
+<a href="/about/contact">Contact</a>
+</nav>
+</header>
+<nav class="site-nav">
+<div class="container">
+<div class="region region-navigation">
+<section class="block block-menu" id="block-menu-menu-site-navigation">
+<ul class="menu nav">
+<li class="first expanded dropdown">
+<a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="/missions" title="">Missions<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="first leaf"><a href="/missions">Missions Home</a></li>
+<li class="leaf divider"><a href="/missions">divider</a></li>
+<li class="leaf"><a href="/missions/amsr">AMSR2 / AMSRE</a></li>
+<li class="leaf"><a href="/missions/gmi">GMI</a></li>
+<li class="leaf"><a href="/missions/amsu">MSU / AMSU</a></li>
+<li class="leaf"><a href="/missions/smap">SMAP</a></li>
+<li class="leaf"><a href="/missions/ssmi">SSMI / SSMIS</a></li>
+<li class="leaf"><a href="/missions/tmi">TMI</a></li>
+<li class="leaf"><a href="/missions/windsat">WindSat</a></li>
+<li class="leaf divider"><a class="active" href="/measurements">divider</a></li>
+<li class="leaf"><a href="/missions/ascat">ASCAT</a></li>
+<li class="leaf"><a href="/missions/qscat">QuikScat</a></li>
+<li class="last leaf"><a href="/missions/rapidscat">RapidScat</a></li>
+</ul>
+</li>
+<li class="expanded active-trail dropdown">
+<a class="active-trail dropdown-toggle active" data-target="#" data-toggle="dropdown" href="/measurements" title="">Measurements<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="first leaf"><a href="/measurements">Measurements Home</a></li>
+<li class="leaf divider"><a class="active" href="/measurements">divider</a></li>
+<li class="leaf"><a href="/measurements/brightness-temperature">Brightness Temperature</a></li>
+<li class="leaf divider"><a href="/measurements">divider</a></li>
+<li class="leaf"><a href="/measurements/atmospheric-water-vapor">Atmospheric Water Vapor</a></li>
+<li class="leaf"><a href="/measurements/cloud-liquid-water-content">Cloud Liquid Water Content</a></li>
+<li class="leaf"><a href="/measurements/rain-rate">Rain Rate</a></li>
+<li class="leaf"><a href="/measurements/sea-surface-temperature">Sea Surface Temperature</a></li>
+<li class="leaf"><a href="/measurements/wind">Wind</a></li>
+<li class="leaf"><a href="/measurements/upper-air-temperature">Upper Air Temperature</a></li>
+<li class="leaf divider"><a href="/measurements">divider</a></li>
+<li class="leaf"><a href="/missions/smap/salinity/">Sea Surface Salinity</a></li>
+<li class="leaf active-trail divider"><a class="active-trail active" href="/measurements">divider</a></li>
+<li class="last leaf"><a href="/measurements/ccmp">CCMP Vector Wind Analysis</a></li>
+</ul>
+</li>
+<li class="leaf"><a class="dropdown-toggle" href="/research/climate" style="float:left">Climate</a></li>
+<li class="expanded dropdown">
+<a class="dropdown-toggle dropdown-toggle" data-target="#" data-toggle="dropdown" href="/research" style="float:left">Research<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="first leaf"><a href="/research">Research Projects</a></li>
+<li class="leaf"><a href="http://rtm.remss.com">Radiative Transfer Model</a></li>
+<li class="leaf"><a href="/support/publications">Publications</a></li>
+<li class="last leaf"><a href="/about/profiles">Our Team</a></li>
+</ul>
+</li>
+<li class="expanded dropdown"><a class="dropdown-toggle" data-target="#" data-toggle="dropdown" href="/storm-watch">Storm Watch<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="first leaf"><a href="/storm-watch" title="">Current</a></li>
+<li class="last leaf"><a href="/storm-watch#storm-archive">Archive</a></li>
+</ul>
+</li>
+<li class="last leaf"><a class="dropdown-toggle" href="/about/projects/atmospheric-river-watch" style="float:left">Atmospheric River Watch</a></li>
+</ul>
+</section> <!-- /.block -->
+</div>
+</div>
+</nav>
+<div class="main-container container">
+<div class="row-fluid">
+<aside class="contextual-info span3" role="complementary">
+<div class="region region-sidebar-first well">
+<section class="block block-views" id="block-views-parameters-block-2">
+<h2 class="block-title"><a id="access-data"></a>Access Data</h2>
+<div class="view view-parameters view-id-parameters view-display-id-block_2 view-dom-id-e7d366205bfd24b0202ea2f627927674">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-mission-download-links"> <div class="field-content"><p><a class="btn btn-info" href="http://images.remss.com/msu/msu_data_monthly.html">Browse Air Temperatures</a></p>
+<p><a class="btn btn-info" href="http://images.remss.com/msu/msu_time_series.html">Browse Air Temp Time Series</a></p>
+<p><a class="btn btn-info" href="ftp://ftp.remss.com/msu/data/netcdf">FTP Air Temperatures in netcdf</a></p>
+<p><a class="btn btn-info" href="ftp://ftp.remss.com/msu/data/binary">FTP Air Temperatures in binary</a></p>
+<p><a class="btn btn-info" href="ftp://ftp.remss.com/msu/data/uah_compatible_format">FTP Air Temperatures in text</a></p>
+<p><a class="btn btn-info" href="ftp://ftp.remss.com/msu/monthly_time_series/">FTP Air Temp Time Series</a></p>
+</div> </div> </div>
+</div>
+</div>
+</section> <!-- /.block -->
+<section class="block block-views" id="block-views-parameter-validation-block">
+<h2 class="block-title"><a id="documentation"></a>Documentation</h2>
+<div class="view view-parameter-validation view-id-parameter_validation view-display-id-block view-dom-id-534bc0a679f984131159b1c50c77d520">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-mission-browse-links"> <div class="field-content"><p><a class="btn btn-info" href="#How to Cite" style="line-height: 1.6em;">Peer Reviewed Journal Papers</a></p>
+<p><a class="btn btn-info" href="http://images.remss.com/papers/msu/MSU_AMSU_C-ATBD.pdf" target="_blank">Algorithm Theoretical Basis Document</a></p>
+<p><a class="btn btn-info" href="/measurements/upper-air-temperature/validation">Validation Studies</a></p>
+</div> </div> </div>
+</div>
+</div>
+</section> <!-- /.block -->
+</div>
+</aside> <!-- /#sidebar-first -->
+<section class="main-content span9">
+<div class="highlighted alert"> <div class="region region-highlighted">
+<section class="block block-views" id="block-views-announcements-block-block-1">
+<h2 class="block-title"><a id="related-announcements"></a>Related Announcements</h2>
+<div class="view view-announcements-block view-id-announcements_block view-display-id-block_1 view-dom-id-5a5b9647c34463aa6243c0d41624413d">
+<div class="view-content">
+<table class="views-table cols-0 table">
+<tbody>
+<tr class="even"><td><h4><a href="/announcement/ftp_registration">CLICK HERE TO REGISTER FOR AN FTP ACCOUNT TO ACCESS DATA</a></h4></td></tr>
+</tbody>
+</table>
+</div>
+</div>
+</section> <!-- /.block -->
+</div>
+</div>
+<a id="main-content"></a>
+<h1 class="page-header">Upper Air Temperature</h1>
+<article about="/measurements/upper-air-temperature" class="node node-parameter-description clearfix" id="node-46" typeof="sioc:Item foaf:Document">
+<header>
+<span class="rdf-meta element-hidden" content="Upper Air Temperature" property="dc:title"></span>
+</header>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td><a href="#Introduction">Introduction</a></td>
+<td><a href="#RSS Sounding Products">RSS Sounding Products</a></td>
+<td><a href="#Uncertainty">Uncertainty</a></td>
+<td><a href="#Version Notes">Recent Updates</a></td>
+<td><a href="#References">References</a></td>
+</tr></tbody></table><h3>
+<a id="Introduction" name="Introduction"></a>Introduction</h3>
+<p>The term "upper air" refers to the part of the atmosphere well above Earth's surface.  The temperature of the atmosphere in this region is a fundamental climate variable.  Recent changes in atmospheric temperature have been attributed to human-induced climate change.  Continued monitoring of atmospheric temperature is critical to advancing our understanding of the sensitivity of Earth's climate to changing atmospheric composition. </p>
+<h4>Measurement Methods for Upper Air Temperatures</h4>
+<p>There are several methods available for the measurement of the upper air.</p>
+<ul><li>
+<p><strong>Radiosondes</strong> (commonly called weather balloons).These are small instruments lifted aloft by helium-filled balloons.  Measurements made by temperature, pressure, and humidity sensors are radioed back to the surface.</p>
+<ul><li>Advantages
+<ul><li>Direct measurement of temperature</li>
+<li>High vertical resolution</li>
+</ul></li>
+<li>Disadvantages
+<ul><li>Limited spatial sampling</li>
+<li>Calibration problems with changing instruments and methods<br/>
+			 </li>
+</ul></li>
+</ul></li>
+<li><strong>Microwave Sounders.</strong>  These are satellite-borne instruments that measure the radiance of Earth at microwave frequencies, which allows scientists to deduce the temperature of thick atmospheric layers.
+<ul><li>Advantages
+<ul><li>Global coverage at a high samplng rate</li>
+</ul></li>
+<li>Disadvantages
+<ul><li>Coarse vertical resolution<br/>
+			 </li>
+</ul></li>
+</ul></li>
+<li><strong>Infrared Sounders.</strong> These are satellite-borne instruments that measure the radiance of Earth at infrared frequencies, which allows scientists to retrieve the temperature of thick atmospheric layers using inversion algorithms.
+<ul><li>Advantages
+<ul><li>Global coverage at a high sampling rate</li>
+<li>Moderate vertical resolution</li>
+</ul></li>
+<li>Disadvantages
+<ul><li>Sensitivity to contamination by clouds and other aerosols<br/>
+			 </li>
+</ul></li>
+</ul></li>
+<li><strong>GPS Radio Occultation.</strong>  The approach uses satellite-borne GPS receivers to measure the refraction of the GPS signals by the Earth's atmosphere.  This allows for the retrieval of vertical temperature and moisture profiles.
+<ul><li>Advantages
+<ul><li>Absolute calibration</li>
+<li>High vertical resolution</li>
+<li>Global coverage</li>
+</ul></li>
+<li>Disadvantages
+<ul><li>Only about 10 years of data</li>
+<li>Less frequent sampling compared to satellite-borne sounders.<br/>
+			 </li>
+</ul></li>
+</ul></li>
+</ul><h4>RSS Upper Air Temperature Products</h4>
+<p>RSS upper air temperature products are based on measurements made by <strong>microwave sounders</strong>.  Microwave sounders are capable of retrieving vertical temperature profiles of the atmosphere by measuring the thermal emission from oxygen molecules at different frequencies.  These measurements are a crucial element in the development of an accurate system for long-term monitoring of atmospheric temperature, particularly in regions with large numbers of radiosonde measurements.  RSS air temperature products are assembled from measurements made by the <a href="/missions/AMSU/#Microwave Sounding Unit">MSU</a> and <a href="/missions/amsu">AMSU</a> instruments on polar orbiting satellites.  We are working toward the use of measurements from the most recent microwave sounder, ATMS.</p>
+<p><strong>MSU</strong>  The Microwave Sounding Units (MSU) operating on NOAA polar-orbiting platforms were the principal sources of satellite temperature profiles from late 1978 to the early 2000's. The MSUs were cross-track scanners that made measurements of microwave radiance in four channels ranging from 50.3 to 57.95 GHz on the lower shoulder of the Oxygen absorption band. These four channels measured the atmospheric temperature in four thick layers spanning the surface through the lower stratosphere. The last MSU instrument, NOAA-14, ceased reliable operation in 2005.</p>
+<p><strong>AMSU</strong>  A series of follow-on instruments, the Advanced Microwave Sounding Units (AMSUs), began operation in 1998. The AMSU instruments are similar to the MSUs, but make measurements using a greater number of channels, thus sampling the atmosphere in more layers, and with smaller measurement footprints, thus increasing the spatial resolution. By using the AMSU channels that most closely match the channels in the MSU instruments, we can extended the MSU-based datasets to the present. In addition, we have completed a preliminary analysis of AMSU channels 10-14, which measure temperatures from the lower to upper stratosphere, much higher than the highest MSU channel. These AMSU-only datasets began in mid 1998 with the launch of the first AMSU on the NOAA-15 satellite. The AMSU-only datasets, now 14 years long, are beginning to be long enough for investigating long-term changes in the mid and upper stratosphere.</p>
+<p><strong>ATMS</strong>  In the future, the AMSU instruments will be phased out, and replaced with the Advanced Technology Microwave Sounder (ATMS). The first ATMS was launched on October 28, 2011. Measurements made by the ATMS are not yet used in our data set. We are working to cross-calibrate ATMS with AMSU so that ATMS measurements can be included in the future.</p>
+<p>All microwave sounding instruments were developed for day to day operational use in weather forecasting and thus are typically not calibrated to the precision needed for climate studies. A climate quality data set can be extracted from their measurements only by careful intercalibration of the data from the MSU, AMSU and ATMS instruments.</p>
+<p> </p>
+<h3><a id="RSS Sounding Products" name="RSS Sounding Products"></a>Microwave Sounding Data Products from RSS</h3>
+<p>We produce 3 single-channel MSU/AMSU data sets (TMT, TTS, and TLS) that extend back to late 1978, and 5 single channel AMSU-only datasets (C10, C11, C12, C13, and C14) that begin in mid 1998. TLT is a more complex data set constructed by calculating a weighted difference between measurements made at different Earth incidence angles to extrapolate MSU channel 2 and AMSU channel 5 measurements lower in the atmosphere. In addition, there are 2 multi-channel data sets, TTT and C25, that are constructed from weighted combinations of the single channel data sets. The satellites and channels used in each RSS data product, as well as the weighting functions for each product are shown below. The AMSU-only datasets (C10-C14, C25) are relatively early in their development process and should be considered preliminary, or in the case of C13 and C14, experimental.</p>
+<p>Channels and Satellites used in RSS Atmospheric Temperature Products:</p>
+<table><tbody><tr><th> </th>
+<th>TLT</th>
+<th>TMT</th>
+<th>TTT</th>
+<th>TTS</th>
+<th>TLS</th>
+<th>C10</th>
+<th>C11</th>
+<th>C12</th>
+<th>C13</th>
+<th>C14</th>
+<th>C25</th>
+</tr><tr><th>TIROS-N</th>
+<td>2</td>
+<td>2</td>
+<td>2,4</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-06</th>
+<td>2</td>
+<td>2</td>
+<td>2,4</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-07</th>
+<td>2</td>
+<td>2</td>
+<td>2,4</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-08</th>
+<td>2</td>
+<td>2</td>
+<td>2,4</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-09</th>
+<td>2</td>
+<td>2</td>
+<td>2,4</td>
+<td>-</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-10</th>
+<td>2</td>
+<td>2</td>
+<td>2,4</td>
+<td>3</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-11</th>
+<td>2</td>
+<td>2</td>
+<td>2,4</td>
+<td>3</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-12</th>
+<td>2</td>
+<td>2</td>
+<td>2,4</td>
+<td>3</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-14</th>
+<td>2</td>
+<td>2</td>
+<td>2,4</td>
+<td>3</td>
+<td>4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-15</th>
+<td>5</td>
+<td>5</td>
+<td>5,9</td>
+<td>7</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>10-13</td>
+</tr><tr><th>NOAA-16</th>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>10-13</td>
+</tr><tr><th>NOAA-17</th>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td> </td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr><tr><th>NOAA-18</th>
+<td>5</td>
+<td>5</td>
+<td>5,9</td>
+<td>7</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>10-13</td>
+</tr><tr><th>METOP-A</th>
+<td>5</td>
+<td>5</td>
+<td>5,9</td>
+<td>7</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>10-13</td>
+</tr><tr><th>AQUA</th>
+<td>5</td>
+<td>5</td>
+<td>5,9</td>
+<td>7</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>10-13</td>
+</tr><tr><th>NOAA-19</th>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+</tr><tr><th>METOP-B</th>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+<td>*</td>
+</tr><tr><th>Start Year</th>
+<td>1978</td>
+<td>1978</td>
+<td>1978</td>
+<td>1987</td>
+<td>1978</td>
+<td>1998</td>
+<td>1998</td>
+<td>1998</td>
+<td>1998</td>
+<td>1998</td>
+<td>1998</td>
+</tr><tr><th>End Year</th>
+<td>Present</td>
+<td>Present</td>
+<td>Present</td>
+<td>Present</td>
+<td>Present</td>
+<td>Present</td>
+<td>Present</td>
+<td>Present</td>
+<td>Present</td>
+<td>Present</td>
+<td>Present</td>
+</tr><tr><th>Maturity</th>
+<td>Stable</td>
+<td>Stable</td>
+<td>Stable</td>
+<td>Stable</td>
+<td>Stable</td>
+<td>Prelim.</td>
+<td>Prelim.</td>
+<td>Prelim.</td>
+<td>Exper.</td>
+<td>Exper.</td>
+<td>
+<p>Prelim.</p>
+</td>
+</tr></tbody></table><p> </p>
+<p>Each product measures the mean temperature of the atmosphere in the thick layer.  This brightness temperature T<sub>B</sub> measured by the satellite can be described as an integral over the height above Earth's surface Z of the atmospheric temperature T<sub>ATMOSPHERE</sub> weighted by a weighting function W(Z), plus a small contribution due to emission by Earth's Surface τεT<sub>SURF</sub>.<br/>
+ </p>
+<p class="rteindent2"><img alt="" src="http://images.remss.com/figures/measurements/upper-air-temperature/Weighting_Func_Equation.png" style="height:58px; width:410px"/><br/>
+ </p>
+<p>The exact form of the weighting function depends on the temperature, humidity, and liquid water content of the atmospheric column being measured. However, representative weighting functions based on the mean state of the atmosphere are sometimes useful.  We provide weighting functions based on the U.S. Standard Atmosphere on our FTP site at <a href="ftp://ftp.remss.com/msu/weighting_functions">/msu/weighting_functions</a> for each of the MSU/AMSU products.  These weighting functions are also plotted in Fig. 1 below.</p>
+<div class="rteindent4"><img class="figure" src="http://images.remss.com/figures/measurements/upper-air-temperature/wt_func_plot_for_web_2012.all_channels2.png"/></div>
+<p class="rteindent1"><em>Figure 1. Weighting function for each RSS product. The vertical weighting function describes the relative contribution that microwave radiation emitted by a layer in the atmosphere makes to the total intensity measured above the atmosphere by the satellite.</em></p>
+<hr/><h4>Single Channel Datasets (TMT, TTS, TLS, C10, C11, C12, C13, C14)   </h4>
+<p>The single channel datasets are mostly constructed by calculating an average of near-nadir views (central 5 views for MSU, central 12 views for AMSU). The exception to this is TLS from AMSU, which uses a set of off-nadir views to match the measurements from MSU channel 4 more closely. See <a href="http://images.remss.com/papers/rsspubs/Mears_JTECH_2009_MSU_AMSU_construction.pdf">Mears et al, 2009a</a> for more details. A map showing the footprints used for near-nadir products and TLT is shown in Figure 2 below. TLT, TTT, and C25 are constructed using more complicated methods.</p>
+<div class="rtecenter"><img src="http://images.remss.com/figures/measurements/upper-air-temperature/footprint_map_for_web.png"/></div>
+<p class="rteindent1"><em>Figure 2. Two example scans for the MSU instrument. The satellite is traveling in the South to North direction, and scanning (roughly) West to East, making 11 discrete measurements in each scan. Footprints used to construct the near-nadir MSU products (TMT, TTS, TLS) from the top scan are shown in green. The numbers in each footprint are the weights assigned to the footprint when constructing the average for a given scan. The footprints used to construct TLT are shown in red and blue in the lower scan, with red denoting negative weight.</em><br/>
+ </p>
+<h4>TLT (Temperature Lower Troposphere)</h4>
+<hr/><p>TLT is constructed by calculating a weighted difference between MSU2 (or AMSU5) measurements from near limb views and measurements from the same channels taken closer to nadir, as can be seen in Figure 2 for the case of MSU. This has the effect of extrapolating the MSU2 (or AMSU5) measurements lower in the troposphere, and removing most of the stratospheric influence. Because of the difference involves measurements made at different locations, and because of the large absolute values of the weights used, additional noise is added by this process, increasing the uncertainty in the final results. For more details see <a href="http://images.remss.com/papers/rsspubs/Mears_JTECH_2009_TLT_construction.pdf">Mears et al., 2009b</a>.<br/>
+ </p>
+<h4>TTT (Temperature Total Troposphere) </h4>
+<hr/><p>TTT is a multi-channel combined product made by calculating a linear combination of TMT and TLS. TTT = 1.1*TMT - 0.1*TLS. This combination has the effect of reducing the influence of the lower stratosphere, as shown Figure 3. In the simpler TMT product, about 10% of the weight is from the lower stratosphere. Because the lower stratosphere is cooling at most locations, this causes the decadal trends in TMT to be less than the trends in the mid and upper troposphere. TTT was proposed by <a href="http://www.atmos.washington.edu/~qfu/Publications/grl.fu.2005.pdf">Fu and Johanson, 2005</a>.</p>
+<div class="rtecenter"><img class="figure" src="http://images.remss.com/figures/measurements/upper-air-temperature/wt_func_plot_for_web_2012_TTT_explain.png" style="height:625px; width:524px"/></div>
+<p class="rteindent1"><em>Figure 3. The left panel shows the weighted versions of the TMT and TLS weighting functions. The right panel shows the weighting function for TTT = 1.1*TMT – 0.1*TLS in blue, with the unmodified TMT weighting function shown in black.</em><br/>
+ </p>
+<h4>C25</h4>
+<hr/><p>As shown in Figure 4, C25 is constructed using a linear combination of AMSU channels 10,11,12, and 13.</p>
+<p>C25 = 0.258*C10 + 0.215*C11 + 0.409*C12 + 0.122*C13</p>
+<p>The weighting function of this channel closely matches the weighting function of Channel 25 (sometimes called Channel 1) of the stratospheric sounding unit (SSU), and this product is intended to be used to extend the existing SSU channel 25.</p>
+<div class="rtecenter"><img class="figure" src="http://images.remss.com/figures/measurements/upper-air-temperature/wt_func_plot_for_web_2012_C25_explain.png" style="height:625px; width:530px"/></div>
+<p class="rteindent1"><em>Figure 4. The left panel shows the weighted versions of the C10 through C13 weighting functions. The right panel shows the weighting function for C25 in black, with the weighting function for SSU channel 25 (sometimes called SSU channel 1) in blue.</em><br/>
+ </p>
+<h4>Microwave Sounding Data Products From Other Research Groups</h4>
+<hr/><p>A number of other research groups have produced datasets from the MSU and AMSU instruments. Of these, only the <a href="http://vortex.nsstc.uah.edu/data/msu/">UAH</a> and <a href="http://www.star.nesdis.noaa.gov/smcd/emb/mscat/index.php">STAR</a> datasets are currently being updated. Other previous work was performed by Prabhakara, et al. and Vinnikov et al., but these datasets are not currently being updated and do not extend to the present.</p>
+<h4>Global and Regional Time Series</h4>
+<hr/><div>Plots of time series of globally and regionally averaged time series of temperature anomaly for each dataset can be viewed using a <a href="http://images.remss.com/msu/msu_time_series.html">time series browse tool</a>.  Several examples of the plots available are shown below.<br/>
+ </div>
+<div class="rteindent3"><a href="http://images.remss.com/msu/msu_time_series.html" style="line-height: 1.6em;"><img alt="" src="http://images.remss.com/data/msu/graphics/TLT_v40/plots/RSS_TS_channel_TLT_Global_Land_And_Sea_v04_0.png" style="height:240px; width:440px"/></a></div>
+<div class="rteindent1"><em>Figure 5.  Globally averaged temperature anomaly time series for the Temperature Lower Troposphere (TLT).  The plot shows the warming ot the troposphere over the last 3 decades which has been attributed to human-caused global warming. (Click on the figure to go to the time series browse tool.)</em><br/>
+ </div>
+<div class="rteindent3"><em><a href="http://images.remss.com/msu/msu_time_series.html"><img alt="" src="http://images.remss.com/data/msu/graphics/TLS/plots/RSS_TS_channel_TLS_Global_Land_And_Sea_v03_3.png" style="height:240px; width:440px"/></a></em></div>
+<div class="rteindent1"><em>Figure 6.  Globally averaged temperature anomaly time series for the Temperature Lower Stratosphere (TLS).  The plot shows the cooling of the lower stratosphere over the past 3 decades.  This cooling is caused by a combination of ozone depletion and the increase of greenhouse gases.  During the most recent decade, the rate of cooling has reduced substantially. (Click on the figure to go to the time series browse tool.)</em><br/>
+ </div>
+<div class="rteindent1"> </div>
+<div class="rteindent3"><em><a href="http://images.remss.com/msu/msu_time_series.html"><img alt="" src="http://images.remss.com/data/msu/graphics/C13/plots/RSS_TS_channel_C13_Global_Land_And_Sea_v03_3.png"/></a></em></div>
+<div class="rteindent1"><em>Figure 7.  Globally averaged temperature anomaly time series for the AMSU Channel 13, in the middle stratosphere.  The plot shows the that middle stratosphere cooled during the most recent 15 years, even as the lower stratosphere ceased cooling. (Click on the figure to go to the time series browse tool.)</em></div>
+<div class="rteindent1"> </div>
+<div class="rteindent1"> </div>
+<div> </div>
+<p> </p>
+<h4>Decadal Trends</h4>
+<hr/><p>Long term trends are useful for detecting global climate change, and for comparing these measured results with the output from climate models.</p>
+<p>Maps of global trend on a 2.5-degree scale have been made for all MSU/AMSU datasets we produce and can be viewed using a <a href="http://images.remss.com/msu/msu_data_monthly.html?type=trend">browse tool</a>. Trend maps are computed over the time period for each channel that contains complete years of valid data for each dataset type.</p>
+<p>Globally averaged trends computed over latitudes from 82.5S to 82.5N (70S to 82.5N for channel TLT) are shown in the table below, and include data through March, 2013:</p>
+<table align="center" border="0" cellpadding="5" cellspacing="0"><tbody><tr><td> </td>
+<td>
+<p>  Start Time  </p>
+</td>
+<td>
+<p>  Stop Time  </p>
+</td>
+<td>
+<p>  # Years  </p>
+</td>
+<td>
+<p>Global Trend</p>
+</td>
+</tr><tr><td>
+<p>Channel TLT  </p>
+</td>
+<td>
+<p>1979</p>
+</td>
+<td>
+<div class="stoptime">
+<p> </p>
+</div>
+</td>
+<td>
+<p>30+</p>
+</td>
+<td>
+<!--<div id="tlt-trend"--><!--<p--><p> 0.184 K/Decade</p></td>
+</tr><tr><td>
+<p>Channel TMT  </p>
+</td>
+<td>
+<p>1979</p>
+</td>
+<td>
+<div class="stoptime">
+<p> </p>
+</div>
+</td>
+<td>
+<p>30+</p>
+</td>
+<td>
+<p>0.139 K/Decade</p>
+</td>
+</tr><tr><td>
+<p>Channel TTT  </p>
+</td>
+<td>
+<p>1979</p>
+</td>
+<td>
+<div class="stoptime">
+<p> </p>
+</div>
+</td>
+<td>
+<p>30+</p>
+</td>
+<td>
+<!--<div id="ttt-trend"--><!--<p--><p> 0.179 K/Decade</p></td>
+</tr><tr><td>
+<p>Channel TTS  </p>
+</td>
+<td>
+<p>1987</p>
+</td>
+<td>
+<div class="stoptime">
+<p> </p>
+</div>
+</td>
+<td>
+<p>22+</p>
+</td>
+<td>
+<div id="tts-trend">
+<p> </p>
+</div>
+</td>
+</tr><tr><td>
+<p>Channel TLS  </p>
+</td>
+<td>
+<p>1979</p>
+</td>
+<td>
+<div class="stoptime">
+<p> </p>
+</div>
+</td>
+<td>
+<p>30+</p>
+</td>
+<td>
+<div id="tls-trend">
+<p> </p>
+</div>
+</td>
+</tr></tbody></table><p><a href="http://images.remss.com/msu/msu_time_series.html">See the monthly, global time series of brightness temperature anomalies for each channel, as well as linear fits to the time series (Figure 7)</a>. Anomalies are computed by subtracting the mean monthly value (averaged from 1979 through 1998 for each channel) from the average brightness temperature for each month.<br/>
+ </p>
+<h4>Zonally Averaged Monthly Anomalies</h4>
+<hr/><p>We also provide text files containing monthly anomalies of each MSU/AMSU channel averaged over a number of zonal bands. In addition, these averages are performed over land, ocean, and land+ocean spacial subsets.  Anomalies are computed by subtracting the a mean monthly value determined by averaging 1979 through 1998  data for each channel from the average brightness temperature for each month.  The set of 12 month means for 1979 to 1998 are included in the netCDF files available on the ftp server  <a href="ftp://ftp.remss.com/msu" style="line-height: 20.8000011444092px;">(ftp.remss.com/msu)</a>.</p>
+<p><a href="http://data.remss.com/msu/monthly_time_series/">Zonally Averaged Monthly Anomalies are available here in text format</a>.</p>
+<h4>Monthly Browse Images</h4>
+<hr/><p>Monthly maps of MSU/AMSU brightness temperatures and brightness temperature anomalies for each dataset are available for browsing using a <a href="http://images.remss.com/msu/msu_data_monthly.html">browse tool</a>, or download, from our FTP server <a href="ftp://ftp.remss.com/msu">(ftp.remss.com/msu)</a>. Each monthly map is a 144 x 72 (2.5 degree resolution) gridded dataset of brightness temperatures. Brightness temperatures are adjusted to correspond to a local time of midnight using our monthly diurnal cycle climatology. Brightness temperature anomalies are the difference between the monthly brightness temperatures and the average value for that month.  The references period varies from product to product due to the different dataset lengths available.</p>
+<p>Each monthly image consists of the average brightness temperature or brightness temperature anomaly. The scale for each map is located at the bottom of the map for reference. Missing data are shown in grey. We do not provide monthly means poleward of 82.5 degrees (or south of 70S for TLT) due to difficulties in merging measurements in these regions.<br/>
+ </p>
+<h4>Monthly Data Files</h4>
+<hr/><p>Each data product is available in 3 formats, netCDF, binary, and text.  (See links at top left of this page to access the data).  We prefer that users work with the netCDF versions, but will continue to provide the earlier formats for the time being.  As of February 2016, TMT and TTT are Version 4.0  - all other products are Version 3.3.</p>
+<h5>netCDF Files</h5>
+<table border="0" cellpadding="10" cellspacing="0"><tbody><tr><td>
+<p>File Name Format</p>
+</td>
+<td>
+<p>Contents</p>
+</td>
+</tr><tr><td>
+<p><strong>rss_tb_maps_ch_###_v3_3.nc</strong></p>
+</td>
+<td>
+<p>Average monthly brightness temperature in degrees K.</p>
+</td>
+</tr><tr><td>
+<p><strong>rss_tb_anom_maps_ch_###_v3_3.nc</strong></p>
+</td>
+<td>
+<p>Average monthly brightness temperature anomalies in degrees K. The reference period 1978-1998 for TLT, TMT, TTT, TTS and TLS. The reference period is 1999-2008 for AMSU only channels C10 thru C14.  The reference period data are provided in the netCDF files.</p>
+</td>
+</tr><tr><td>
+<p><strong>uat4_tb_V03r03_avrg_ch###_yyyymm_yyyymm.nc3.nc</strong></p>
+</td>
+<td>
+<p>Average monthly brightness temperature in degrees K.  These files are identical to the versions archived at NCDC, except that they are in netCDF3 instead of netCDF4.</p>
+</td>
+</tr><tr><td>
+<p><strong>uat4_tb_V03r03_anom_ch###_yyyymm_yyyymm.nc3.nc</strong></p>
+</td>
+<td>
+<p>Average monthly brightness temperature anomaly in degrees K.  These files are identical to the versions archived at NCDC, except that they are in netCDF3 instead of netCDF4.  These files also contain the 12 monthly 1979-1998 (TLT,TMT, TTT, TTS and TLS)  or 1999-2008 (C10 thru C14) mean maps used to determine the anomalies.</p>
+</td>
+</tr></tbody></table><h5>
+Binary Files</h5>
+<p>Each binary data file located on our MSU FTP site consists of a 144 x 72 x <em>number_of_months</em> array of 4 byte real numbers. The <em>number_of_months</em> is currently set to 420, but grows by 12 as each new year of data is begun. The first two indices correspond to longitude and latitude (at 2.5 degree resolution), and the last index is the month number, starting in January 1978. The first 10 months contain no valid data, but are included so that the first month corresponds to the first month of the year. The files are also padded with empty data to fill in months through the end of the current year. As of February 2016, TMT and TTT are Version 4.0  - all other products are Version 3.3.</p>
+<table border="0" cellpadding="10" cellspacing="0"><tbody><tr><td>
+<p>File Name Format</p>
+</td>
+<td>
+<p>Contents</p>
+</td>
+</tr><tr><td>
+<p><strong>channel_###_tb_v03_3.dat</strong></p>
+</td>
+<td>
+<p>Average monthly brightness temperature</p>
+</td>
+</tr><tr><td>
+<p><strong>channel_###_tb_anom_v03_3.dat</strong></p>
+</td>
+<td>
+<p>Average monthly brightness temperature anomalies in degrees K. The reference period 1978-1998 for TLT, TTT, TMT, TTS and TLS. The reference period is 1999-2008 for AMSU only channels C10 thru C14</p>
+</td>
+</tr></tbody></table><h5>
+Text formatted data.</h5>
+<p>This format is provided as a service to users who have existing methods to read in the text-formatted data from the UAH group.  Please do not use this format for new code!  </p>
+<p><a href="ftp://ftp.remss.com/msu/support">Read routines</a> written in Fortran, C, IDL and Matlab are available in the /msu/<a href="ftp://ftp.remss.com/msu/support">support directory</a> (ftp.remss.com/msu/support).</p>
+<p>These data are also available in netCDF4 format with CF-compliant metadata from the <a href="https://www.ncdc.noaa.gov/cdr" target="_blank">National Climatic Data Center</a>, where they are called <strong>Mean Layer Temperatures - RSS.</strong></p>
+<p> </p>
+<h3><a id="Uncertainty" name="Uncertainty"></a>Uncertainty in our MSU/AMSU atmospheric temperature datasets</h3>
+<p><strong>(NOTE: the discussion below only directly applies to the V3.3 versions of the RSS datasets.  We have not yet completed the uncertainty analysis for V4.0 datasets)</strong></p>
+<h4>Why study the uncertainty?</h4>
+<ul><li>Without realistic uncertainty estimates we are not doing science!</li>
+<li>In the past, numerous conclusions have been drawn from MSU/AMSU data with little regard to the long term uncertainty in the data.</li>
+<li>Most previous error analyses for MSU/AMSU data sets have focused on <strong>decadal-scale</strong> trends in <strong>global-scale means</strong>, while in contrast, many applications are focused on shorter time scales and smaller spatial scales.</li>
+<li>Here we describe a comprehensive analysis of the uncertainty in the RSS MSU/AMSU products. The results can be used to evaluate the estimated uncertainty on all relevant temporal and spatial scales.</li>
+</ul><h4>Issues</h4>
+<p>Our MSU/AMSU products use data from 14 different satellites. The data need to be intercalibrated before being merged together. This is a complex process, as shown in the flow chart below.</p>
+<ul><li>First, adjustments are made for changes in local measurement time (diurnal adjustment) and Earth incidence angle.</li>
+<li>Then, intercalibration is performed by comparing measurements from co-orbiting satellites, yielding a set of “merging parameters”.</li>
+<li>Uncertainty that arises earlier in the process (e.g. from the adjustments for local measurement time) can cause uncertainty in the merging parameters, which adds to the uncertainty in the final results.</li>
+</ul><p>Because of the complex nature of the errors, they are difficult to calculate and describe using simple statistical methods. Instead, we use a Monte Carlo technique to produce a large number of possible realizations of the errors that are consistent with the sources of error that we have studied.</p>
+<p>A detailed description of the methods used to generate the uncertainty ensembles, and a summary of the results is given in <a href="http://images.remss.com/papers/rsspubs/Mears_JGR_2011_MSU_AMSU_Uncertainty.pdf">Mears et al, 2011</a>.</p>
+<div class="rtecenter"><a href="http://images.remss.com/figures/measurements/upper-air-temperature/Monte_Carlo_large.png" target="_self"><img src="http://images.remss.com/figures/measurements/upper-air-temperature/Monte_Carlo.png" style="height:455px; width:695px"/></a></div>
+<hr/><h4>Available Uncertainty Information and Recommendations</h4>
+<p>We have constructed a 100 realization uncertainty ensemble for each of the MSU/AMSU products we produce. (No uncertainty analysis has yet been performed on the AMSU-only stratospheric channels.) These <a href="ftp://ftp.remss.com/msu/data/uncertainty/">uncertainty realizations are available</a> in netCDF, with exactly the same form as the baseline temperature data.  We recommend that researchers evalutate the uncertainty in any results they obtain using our MSU/AMSU data by re-running their analysis using each member of the uncertainty ensemble, and then evaluating the spread in the distribution of results obtained.</p>
+<h3><a id="Version Notes" name="Version Notes"></a>Recent Updates</h3>
+<h4><em>RSS Version 4.0 Channel TLT product released June 28, 2016.  The TTS and TLS products remain Version 3.3.</em></h4>
+<p>The most important differences between the previous version (Version 3.3) and the new version (Version 4.0) are:</p>
+<ul><li>The method used to make adjustments for drifting satellite measurement time was changed.  In the new method, the model based diurnal cycle climatology used for these adjustments was optimized so that differences between satellites making measurements are different times of day are more accurately removed.</li>
+<li>Intersatellite offsets are now calculated separately for land and ocean scenes.  This prevents possible errors over land, where the adjustment for changing measurement times are large, from adversely affecting measurements over the ocean, where the diurnal cycle is close to zero.</li>
+<li>Several periods of suspect data were removed (see the paper for more details).</li>
+<li>Two new satellites, NOAA-19 and METOP-B are now included in the processing.  This serves to reduce sampling error and any remaining errors due to the diurnal adjustment during the last part of the record.</li>
+</ul><div>
+<h4><em>RSS Version 4.0 Channel TMT and TTT products released March 2, 2016.</em></h4>
+</div>
+<p>Change from 3.3 to 4.0:</p>
+<p>This change represents a major upgrade.  There are 4 important changes to the methods used to construct the new products.</p>
+<ul><li>The method used to make adjustments from drifting satellite measurement time, the “diurnal adjustment” was changed.  In the new method, the model-based diurnal cycle climatology used for these adjustments was optimized so that it more accurately removes intersatellite differences due to drifting local measurement times.  This is the most important change, and leads to substantially more warming during the 1999-2005 period when the NOAA-15 satellite was drifting rapidly.</li>
+</ul><ul><li>Intersatellite offsets are now calculated separately for land and ocean scenes.  This prevents errors in the much larger land measurement time adjustments from adversely affecting the ocean measurements, where the adjustments for measurement time are much smaller. </li>
+</ul><ul><li>More fields of view are now included in the dataset.  The previous version used the central 5 (out of 11 total) fields of view for MSU, and the central 12 (out of 30) fields of view for AMSU.  This new version uses the central 9 MSU fields of view, and the central 24 AMSU fields of view.  This reduces the size of the gaps between satellite swaths, and serves to reduce spatial noise in the monthly mean maps.</li>
+</ul><ul><li>Two new satellites, NOAA-19 (data start in 2009) and METOP-B (data start in 2012), have been added to the dataset.</li>
+</ul><p>For more details on the new version, refer to the recently accepted paper describing this upgrade in the Journal of Climate.  An early online edition of the paper is <a href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0744.1">available online</a>.</p>
+<p>For more details and information about earlier version changes, see our <a href="http://images.remss.com/papers/other/RSS_MSU_AMSU_Version_Notes.pdf" style="line-height: 1.6em;">RSS_MSU_AMSU_Version_Notes</a>.</p>
+<p> </p>
+<h3><a id="References" name="References"></a>References</h3>
+<p>Mears, C. A. and F. J. Wentz, (in press) <a href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0768.1">A satellite-derived lower tropospheric atmospheric temperature dataset using an optimized adjustment for diurnal effects </a>, J. Climate.</p>
+<p>Mears, C. A. and F. J. Wentz, (2016) <a href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0744.1">Sensitivity of satellite-derived tropospheric temperature trends to the diurnal cycle adjustment</a>, Journal of Climate 29(10) 3629-3646.</p>
+<p>Mears, C. A., F. J. Wentz and P. W. Thorne, (2012) <a href="http://images.remss.com/papers/rsspubs/Mears_JGR_2012_MSU_AMSU_Short_Term_Trends.pdf" style="line-height: 1.6em;">Assessing the Value of Microwave Sounding Unit-Radiosonde Comparisons in Ascertaining Errors in Climate Data Records of Tropospheric Temperatures</a>, J. Geophys. Res., 117(D19), D19103,  doi:10.1029/2012JD017710.</p>
+<p>Mears, C. A., F. J. Wentz, P. Thorne and D. Bernie, (2011) <a href="http://images.remss.com/papers/rsspubs/Mears_JGR_2011_MSU_AMSU_Uncertainty.pdf">Assessing Uncertainty in Estimates of Atmospheric Temperature Changes From MSU and AMSU Using a Monte-Carlo Estimation Technique</a>, J. Geophys. Res., 116, D08112, doi:10.1029/2010JD014954.</p>
+<p>Mears, C. A. and F. J. Wentz, (2009) <a href="http://images.remss.com/papers/rsspubs/Mears_JTECH_2009_TLT_construction.pdf">Construction of the RSS V3.2 Lower Tropospheric Dataset From the MSU and AMSU Microwave Sounders</a>, Journal of Atmospheric and Oceanic Technology, 26, 1493-1509.</p>
+<p>Mears, C. A. and F. J. Wentz, (2009) <a href="http://images.remss.com/papers/rsspubs/Mears_JTECH_2009_MSU_AMSU_construction.pdf">Construction of the Remote Sensing Systems V3.2 Atmospheric Temperature Records From the MSU and AMSU Microwave Sounders</a>, Journal of Atmospheric and Oceanic Technology, 26, 1040-1056.</p>
+<p>Mears, C. A. and F. J. Wentz, (2005) <a href="http://images.remss.com/papers/rsspubs/Mears_Science_2005_Diurnal.pdf">The Effect of Drifting Measurement Time on Satellite-Derived Lower Tropospheric Temperature</a>, Science, 309, 1548-1551.</p>
+<p>Mears, C. A., M. C. Schabel and F. J. Wentz, (2003) <a href="http://images.remss.com/papers/rsspubs/Mears_JClim_2003_MSU_AMSU.pdf">A Reanalysis of the MSU Channel 2 Tropospheric Temperature Record</a>, Journal of Climate, 16(22), 3650-3664.</p>
+<p>Prabhakara, C., R. Iacovazzi Jr, J.-M. Yoo, G. Dalu. "Global warming: Estimation from satellite observations" <em>Geophysical Research Letters</em>, Vol. 27(21), 3517-3520, 2000.</p>
+<p>Vinnikov, K. Y., N. C. Grody, A. Robock, R. J. Stouffer, P. D. Jones, and M. D. Goldberg. "Temperature Trends at the Surface and in the Troposphere" <em>Journal of Geophysical Research</em>, 111, D03106, 2005.</p>
+<p>Prabhakara, C., R. Iaacovazzi, J. M. Yoo, and G. Dalu. "Global Warming: Evidence From Satellite Observations" <em>Geophysical Research Letters</em>, 27, 3517-3520, 2000.</p>
+<p>Fu, Q. and C. M. Johanson. "Satellite-Derived Vertical Dependence of Tropospheric Temperature Trends" <em>Geophysical Research Letters</em>, 32, L10703, 2005.</p>
+<p>J. R. Christy, R. W. Spencer, W. D. Braswell. "MSU Tropospheric Temperatures: Dataset Construction and Radiosonde Comparisons" <em>Journal of Atmospheric and Oceanic Technology</em>, vol. 17, pp. 1153-1170, 2000.</p>
+<p> </p>
+<h3>Acknowledgement</h3>
+<p>MSU/AMSU data are produced by Remote Sensing Systems. Over the years, we have received support for the development of this dataset from a number of sources, including NOAA's Office of Global Programs, NOAA's Climate Program Office, and NOAA's Climate Data Record Program. Production of the current dataset (version 3.3) is supported by NOAA's Climate Data Record Program, while improvements to the methods used to produce the dataset are currently supported by NASA's Earth Science Division, which is part of the Science Mission Directorate</p>
+<p> </p>
+<h3><a id="How to Cite" name="How to Cite"></a>How to Cite These Data</h3>
+<p><strong>TLT: </strong></p>
+<ul><li>Mears, C. A. and F. J. Wentz, (in press) <a href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0768.1">A satellite-derived lower tropospheric atmospheric temperature dataset using an optimized adjustment for diurnal effects </a>, J. Climate.</li>
+</ul><p><strong>TMT:</strong></p>
+<ul><li>Mears, C. A. and F. J. Wentz, (2016) <a href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0744.1">Sensitivity of satellite-derived tropospheric temperature trends to the diurnal cycle adjustment</a>, Journal of Climate 29(10) 3629-3646.</li>
+</ul><p><strong>TTT:</strong></p>
+<ul><li>Mears, C. A. and F. J. Wentz, (in press) <a href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0744.1" style="line-height: 20.8px;">Sensitivity of satellite-derived tropospheric temperature trends to the diurnal cycle adjustment</a>, J. Climate.</li>
+<li>Fu, Q. and C. M. Johanson. "Satellite-Derived Vertical Dependence of Tropospheric Temperature Trends" <em>Geophysical Research Letters</em>, 32, L10703, 2005.</li>
+</ul><p><strong>TTS and TLS:</strong> </p>
+<ul><li>Mears, C. A. and F. J. Wentz, (2009) <a href="http://images.remss.com/papers/rsspubs/Mears_JTECH_2009_MSU_AMSU_construction.pdf">Construction of the Remote Sensing Systems V3.2 Atmospheric Temperature Records From the MSU and AMSU Microwave Sounders</a>, Journal of Atmospheric and Oceanic Technology, 26, 1040-1056.</li>
+</ul><p> </p>
+<p><strong>Uncertainty Estimates: </strong></p>
+<ul><li>Mears, C. A., F. J. Wentz, P. Thorne and D. Bernie, (2011) <a href="http://images.remss.com/papers/rsspubs/Mears_JGR_2011_MSU_AMSU_Uncertainty.pdf">Assessing Uncertainty in Estimates of Atmospheric Temperature Changes From MSU and AMSU Using a Monte-Carlo Estimation Technique</a>, J. Geophys. Res., 116, D08112, doi:10.1029/2010JD014954.</li>
+</ul><p><strong>Radiosonde Comparisons:</strong></p>
+<ul><li>Mears, C. A., F. J. Wentz, P. Thorne and D. Bernie, (2011) <a href="http://images.remss.com/papers/rsspubs/Mears_JGR_2011_MSU_AMSU_Uncertainty.pdf">Assessing Uncertainty in Estimates of Atmospheric Temperature Changes From MSU and AMSU Using a Monte-Carlo Estimation Technique</a>, J. Geophys. Res., 116, D08112, doi:10.1029/2010JD014954.</li>
+<li>Mears, C. A., F. J. Wentz and P. W. Thorne, (2012) <a href="http://images.remss.com/papers/rsspubs/Mears_JGR_2012_MSU_AMSU_Short_Term_Trends.pdf">Assessing the Value of Microwave Sounding Unit-Radiosonde Comparisons in Ascertaining Errors in Climate Data Records of Tropospheric Temperatures</a>, J. Geophys. Res., 117(D19), D19103,  doi:10.1029/2012JD017710.</li>
+</ul><p> </p>
+<p> </p>
+</div></div></div>
+<footer>
+</footer>
+</article> <!-- /.node -->
+</section>
+</div>
+</div>
+<footer class="site-footer">
+<div class="container">
+<div class="row-fluid">
+<div class="span4"> <div class="region region-footer-first">
+<section class="block block-menu" id="block-menu-menu-footer-menu">
+<h2 class="block-title"><a id="get-support"></a>Get Support</h2>
+<ul class="menu nav"><li class="first leaf"><a href="/support/quick-start" title="">Getting Started Guide</a></li>
+<li class="leaf"><a href="/support/faq/">FAQs</a></li>
+<li class="leaf"><a href="/support/crossing-times">Crossing Times</a></li>
+<li class="leaf"><a href="/support/terms-of-use">Terms of Data Use</a></li>
+<li class="last leaf"><a href="/about/contact">Contact Us</a></li>
+</ul>
+</section> <!-- /.block -->
+</div>
+</div>
+<div class="span4"> <div class="region region-footer-second">
+<section class="block block-menu" id="block-menu-menu-about-us">
+<h2 class="block-title"><a id="who-we-are"></a>Who We Are</h2>
+<ul class="menu nav"><li class="first leaf"><a href="/about/who-we-are" title="">About Us</a></li>
+<li class="leaf"><a href="/about/profiles" title="">Our Team</a></li>
+<li class="leaf"><a href="/support/publications">Publications</a></li>
+<li class="last leaf"><a href="/about/careers" title="">Careers</a></li>
+</ul>
+</section> <!-- /.block -->
+</div>
+</div>
+<div class="span4"> <div class="region region-footer-third">
+<section class="block block-block" id="block-block-2">
+<h2 class="block-title"><a id="about-rss"></a>About RSS</h2>
+<p>Remote Sensing Systems is a world leader in processing and analyzing microwave data collected by satellite microwave sensors. Our mission is to provide research-quality geophysical data to the global scientific community.</p>
+</section> <!-- /.block -->
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>
